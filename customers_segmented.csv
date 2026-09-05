@@ -1,0 +1,1201 @@
+customer_id,age,gender,region,annual_income,recency_days,frequency_last_year,monetary_last_year,avg_basket_value,online_purchase_ratio,preferred_category,cluster,segment_name
+C10000,35,Female,East,42783.17,146.4,7,202.36,30.64,0.28,Fashion,4,At-Risk / Churning
+C10001,27,Female,South,50812.09,4.0,8,442.29,55.62,0.57,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10002,22,Male,North,54492.87,34.8,1,151.54,121.5,0.72,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10003,61,Female,West,54866.92,103.8,7,534.47,77.82,0.1,Electronics,4,At-Risk / Churning
+C10004,30,Female,East,86248.51,10.1,27,2744.61,100.22,0.45,Home & Living,2,High-Value Loyalists
+C10005,33,Female,South,58301.39,27.7,4,115.78,31.91,0.12,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10006,32,Female,North,86499.11,83.9,6,317.54,56.89,0.51,Fashion,4,At-Risk / Churning
+C10007,40,Female,West,71190.81,99.2,2,102.81,54.09,0.11,Beauty,4,At-Risk / Churning
+C10008,42,Female,South,105269.67,11.1,37,4093.89,109.72,0.4,Home & Living,2,High-Value Loyalists
+C10009,38,Female,South,46229.91,1.9,10,186.09,18.04,0.69,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10010,22,Female,West,40458.18,9.1,19,1471.89,78.26,0.84,Fashion,3,Young Digital Shoppers
+C10011,26,Female,East,44256.62,33.3,2,239.59,102.92,0.78,Sports,0,Price-Sensitive / Occasional Shoppers
+C10012,43,Female,South,67461.05,69.4,3,176.04,57.78,0.67,Groceries,4,At-Risk / Churning
+C10013,18,Female,West,15000.0,46.9,4,202.54,49.15,0.38,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10014,39,Male,West,45853.25,16.1,2,458.65,184.7,0.67,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10015,21,Male,West,48641.78,1.0,22,1176.16,53.29,0.86,Home & Living,3,Young Digital Shoppers
+C10016,18,Male,North,47134.67,8.2,14,318.73,22.42,0.58,Electronics,3,Young Digital Shoppers
+C10017,45,Female,East,68269.0,14.0,23,2807.47,119.79,0.55,Home & Living,2,High-Value Loyalists
+C10018,33,Female,North,21166.54,33.1,5,20.0,3.65,0.44,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10019,72,Female,North,69371.06,101.4,8,230.07,27.32,0.19,Beauty,4,At-Risk / Churning
+C10020,34,Male,West,106196.89,93.2,2,388.23,252.85,0.33,Sports,1,Infrequent Big Spenders
+C10021,27,Female,West,70955.46,7.9,17,797.87,46.61,0.85,Electronics,3,Young Digital Shoppers
+C10022,18,Male,East,57930.0,29.3,5,78.57,16.53,0.92,Groceries,3,Young Digital Shoppers
+C10023,39,Male,North,51072.83,10.9,4,212.81,53.86,0.76,Sports,0,Price-Sensitive / Occasional Shoppers
+C10024,63,Female,East,15000.0,77.1,3,20.0,7.49,0.37,Groceries,4,At-Risk / Churning
+C10025,21,Female,South,39937.06,11.9,16,1088.66,66.84,0.73,Beauty,3,Young Digital Shoppers
+C10026,44,Male,South,32262.53,31.8,10,389.39,40.13,0.4,Sports,0,Price-Sensitive / Occasional Shoppers
+C10027,47,Female,North,94841.7,10.6,25,4760.81,186.79,0.31,Electronics,2,High-Value Loyalists
+C10028,62,Female,North,112918.83,12.9,28,3047.94,108.21,0.52,Beauty,2,High-Value Loyalists
+C10029,36,Female,East,76488.54,108.0,4,364.37,84.55,0.3,Home & Living,4,At-Risk / Churning
+C10030,51,Female,East,58331.02,74.0,1,85.38,85.38,0.57,Beauty,4,At-Risk / Churning
+C10031,45,Female,West,42839.59,39.4,9,316.48,36.58,0.59,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10032,25,Male,West,43257.07,11.9,18,1639.88,88.98,0.89,Groceries,3,Young Digital Shoppers
+C10033,22,Female,East,37754.89,7.8,24,962.08,40.18,0.78,Groceries,3,Young Digital Shoppers
+C10034,39,Male,West,67750.61,19.9,2,391.39,199.86,0.47,Electronics,1,Infrequent Big Spenders
+C10035,34,Female,West,53399.74,8.3,20,1048.98,53.59,0.94,Home & Living,3,Young Digital Shoppers
+C10036,44,Female,North,98217.34,4.9,28,2764.22,99.2,0.39,Groceries,2,High-Value Loyalists
+C10037,25,Female,South,61967.68,8.2,9,326.31,37.36,0.77,Home & Living,3,Young Digital Shoppers
+C10038,18,Female,West,47482.4,14.0,20,970.37,49.35,0.92,Fashion,3,Young Digital Shoppers
+C10039,50,Male,West,45702.47,117.8,2,20.0,8.44,0.1,Sports,4,At-Risk / Churning
+C10040,33,Male,West,67104.31,32.0,10,99.8,9.67,0.62,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10041,19,Male,North,75131.33,20.6,5,28.14,5.12,0.46,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10042,51,Female,North,57900.84,119.1,3,20.0,7.92,0.19,Fashion,4,At-Risk / Churning
+C10043,22,Male,West,41019.34,4.5,12,761.49,62.83,0.82,Fashion,3,Young Digital Shoppers
+C10044,27,Female,North,47098.86,22.8,2,95.38,55.9,0.52,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10045,18,Female,East,45376.93,31.7,5,178.84,38.19,0.36,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10046,18,Male,North,52148.72,10.8,18,1115.06,61.15,0.82,Home & Living,3,Young Digital Shoppers
+C10047,30,Non-binary,North,36180.06,4.2,12,527.01,43.67,0.87,Home & Living,3,Young Digital Shoppers
+C10048,52,Female,North,64772.02,124.4,1,252.31,252.31,0.58,Fashion,1,Infrequent Big Spenders
+C10049,54,Female,South,104145.42,9.0,27,2931.34,109.81,0.59,Electronics,2,High-Value Loyalists
+C10050,22,Male,South,54385.55,17.7,10,1047.2,103.53,0.82,Groceries,3,Young Digital Shoppers
+C10051,52,Female,North,98463.58,13.7,14,4313.32,309.55,0.61,Beauty,2,High-Value Loyalists
+C10052,49,Male,West,59659.24,92.1,5,20.0,3.87,0.54,Groceries,4,At-Risk / Churning
+C10053,54,Female,West,15000.0,101.2,1,267.48,267.48,0.33,Groceries,1,Infrequent Big Spenders
+C10054,41,Male,North,85457.66,98.4,2,226.9,101.81,0.04,Groceries,4,At-Risk / Churning
+C10055,49,Female,East,107739.04,57.5,3,511.76,183.12,0.59,Sports,4,At-Risk / Churning
+C10056,41,Female,North,42218.47,19.1,5,440.27,95.55,0.59,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10057,42,Female,South,41835.79,17.2,5,266.19,53.27,0.39,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10058,37,Male,East,99463.06,7.3,33,2825.63,85.01,0.31,Sports,2,High-Value Loyalists
+C10059,30,Male,North,102383.82,5.7,42,1983.6,46.95,0.58,Beauty,2,High-Value Loyalists
+C10060,18,Male,North,64736.52,132.6,2,296.37,141.59,0.55,Home & Living,4,At-Risk / Churning
+C10061,45,Female,North,50415.64,9.9,12,332.45,28.89,0.39,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10062,22,Male,North,42722.18,39.2,16,434.64,28.02,0.31,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10063,46,Female,South,59383.35,79.6,1,187.69,187.69,0.53,Groceries,4,At-Risk / Churning
+C10064,49,Female,West,52227.34,121.9,4,76.35,19.02,0.48,Groceries,4,At-Risk / Churning
+C10065,32,Male,South,64499.98,12.3,9,321.54,37.72,0.39,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10066,62,Female,North,37569.96,20.7,6,303.36,48.19,0.37,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10067,19,Male,North,58105.52,2.3,33,814.58,24.65,0.89,Beauty,3,Young Digital Shoppers
+C10068,44,Female,East,70757.55,9.1,21,4223.65,198.56,0.67,Sports,2,High-Value Loyalists
+C10069,45,Female,East,68980.37,31.1,5,465.23,100.44,0.7,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10070,24,Male,North,25774.06,4.7,17,905.58,52.15,0.83,Fashion,3,Young Digital Shoppers
+C10071,34,Male,South,46264.92,20.9,3,491.56,148.22,0.5,Sports,0,Price-Sensitive / Occasional Shoppers
+C10072,18,Male,South,49107.06,34.9,4,138.41,31.89,0.78,Beauty,3,Young Digital Shoppers
+C10073,18,Non-binary,South,57230.83,10.9,22,686.11,30.87,0.93,Sports,3,Young Digital Shoppers
+C10074,39,Male,South,108450.9,8.3,21,3490.23,163.89,0.64,Home & Living,2,High-Value Loyalists
+C10075,33,Female,North,37191.69,3.7,19,1213.69,63.69,0.76,Groceries,3,Young Digital Shoppers
+C10076,20,Female,West,43385.4,8.6,16,1019.38,64.55,0.86,Beauty,3,Young Digital Shoppers
+C10077,45,Male,East,80874.87,94.8,1,351.79,351.79,0.13,Sports,1,Infrequent Big Spenders
+C10078,39,Male,North,49073.55,26.8,10,455.34,47.85,0.67,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10079,34,Female,South,23432.09,103.2,7,459.55,69.44,0.02,Groceries,4,At-Risk / Churning
+C10080,49,Female,West,19842.14,91.7,1,287.95,287.95,0.04,Home & Living,1,Infrequent Big Spenders
+C10081,25,Male,East,21815.68,17.3,9,187.35,21.6,0.59,Sports,0,Price-Sensitive / Occasional Shoppers
+C10082,41,Non-binary,North,54044.05,33.0,5,75.52,14.42,0.66,Sports,0,Price-Sensitive / Occasional Shoppers
+C10083,34,Male,East,104176.77,10.8,10,4033.21,384.22,0.09,Electronics,1,Infrequent Big Spenders
+C10084,28,Male,North,75312.73,13.1,16,3990.29,242.26,0.54,Groceries,2,High-Value Loyalists
+C10085,49,Male,East,108183.7,1.0,26,2595.77,101.48,0.74,Home & Living,2,High-Value Loyalists
+C10086,32,Female,South,46454.52,65.0,1,273.28,273.28,0.1,Electronics,1,Infrequent Big Spenders
+C10087,29,Male,East,39272.56,11.3,19,428.46,22.55,0.55,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10088,32,Female,South,111345.13,2.0,26,2789.76,106.15,0.57,Electronics,2,High-Value Loyalists
+C10089,29,Female,South,58791.31,22.4,11,355.43,33.39,0.66,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10090,57,Female,West,70873.59,11.8,17,3352.09,201.44,0.79,Groceries,2,High-Value Loyalists
+C10091,48,Female,North,54958.74,65.4,2,287.77,118.9,0.2,Groceries,4,At-Risk / Churning
+C10092,43,Male,West,55243.25,29.7,11,478.8,42.18,0.56,Sports,0,Price-Sensitive / Occasional Shoppers
+C10093,23,Female,North,40009.47,7.7,20,528.56,26.09,0.97,Sports,3,Young Digital Shoppers
+C10094,29,Male,North,32825.5,13.1,22,946.94,42.48,1.0,Electronics,3,Young Digital Shoppers
+C10095,55,Female,North,69532.06,85.4,1,278.19,195.9,0.34,Fashion,4,At-Risk / Churning
+C10096,18,Female,East,50464.93,4.1,26,801.96,31.4,0.93,Fashion,3,Young Digital Shoppers
+C10097,37,Female,East,112937.99,3.0,30,3845.85,129.2,0.65,Home & Living,2,High-Value Loyalists
+C10098,33,Female,West,106887.97,10.5,29,2413.93,84.36,0.67,Fashion,2,High-Value Loyalists
+C10099,34,Female,East,53746.62,27.6,1,125.76,125.76,0.43,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10100,34,Female,West,40364.66,32.4,6,177.09,29.87,0.76,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10101,22,Female,South,54768.76,86.4,1,255.17,255.17,0.36,Electronics,1,Infrequent Big Spenders
+C10102,27,Female,North,34155.9,6.6,24,1183.12,49.07,0.87,Groceries,3,Young Digital Shoppers
+C10103,32,Male,South,54441.06,37.0,6,188.51,33.44,0.81,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10104,68,Male,East,65133.17,42.1,2,368.06,234.08,0.29,Sports,1,Infrequent Big Spenders
+C10105,37,Female,North,64227.73,94.8,4,387.57,97.07,0.39,Sports,4,At-Risk / Churning
+C10106,39,Male,North,55011.37,27.7,13,426.63,32.27,0.34,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10107,37,Male,East,41714.73,7.7,24,979.4,40.23,1.0,Sports,3,Young Digital Shoppers
+C10108,38,Female,South,99480.81,12.2,30,4081.38,136.43,0.54,Beauty,2,High-Value Loyalists
+C10109,23,Male,South,34586.04,20.9,6,147.21,25.06,0.68,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10110,26,Female,East,55140.16,26.0,12,298.58,24.22,0.64,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10111,32,Female,South,55601.06,8.4,25,1793.79,71.08,0.74,Home & Living,3,Young Digital Shoppers
+C10112,20,Female,North,44404.16,1.1,21,965.51,46.7,0.92,Beauty,3,Young Digital Shoppers
+C10113,61,Female,West,55282.04,1.4,7,158.92,22.73,0.5,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10114,46,Female,South,108069.77,3.3,22,3225.76,146.59,0.58,Beauty,2,High-Value Loyalists
+C10115,28,Male,North,32799.14,26.9,4,188.17,51.61,0.77,Sports,0,Price-Sensitive / Occasional Shoppers
+C10116,53,Male,North,72216.9,74.1,5,397.14,86.7,0.61,Electronics,4,At-Risk / Churning
+C10117,48,Male,East,58038.53,68.8,1,272.98,272.98,0.2,Sports,1,Infrequent Big Spenders
+C10118,40,Female,East,54112.9,25.8,20,461.59,23.38,0.6,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10119,35,Male,East,39121.12,84.0,3,133.65,47.4,0.29,Beauty,4,At-Risk / Churning
+C10120,48,Male,South,58892.16,13.8,5,308.31,66.0,0.49,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10121,56,Male,East,15000.0,110.8,1,306.48,306.48,0.4,Sports,1,Infrequent Big Spenders
+C10122,34,Male,East,97487.69,7.0,31,3752.56,121.58,0.64,Sports,2,High-Value Loyalists
+C10123,42,Female,North,36733.74,26.3,15,439.03,30.0,0.0,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10124,24,Male,West,117234.45,8.1,35,3393.87,98.0,0.62,Home & Living,2,High-Value Loyalists
+C10125,48,Female,West,29875.25,24.5,16,600.41,38.57,0.41,Sports,0,Price-Sensitive / Occasional Shoppers
+C10126,22,Female,South,41911.19,4.8,17,682.99,41.27,0.66,Groceries,3,Young Digital Shoppers
+C10127,59,Male,North,95240.76,14.5,30,3778.49,127.79,0.59,Beauty,2,High-Value Loyalists
+C10128,45,Female,West,89810.86,10.0,41,3010.72,72.71,0.61,Fashion,2,High-Value Loyalists
+C10129,18,Female,South,59233.84,1.0,17,445.42,26.39,0.7,Electronics,3,Young Digital Shoppers
+C10130,41,Male,South,86152.27,8.4,45,3784.17,84.84,0.71,Groceries,2,High-Value Loyalists
+C10131,18,Male,East,42171.21,47.2,2,164.13,79.66,0.51,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10132,44,Female,East,51478.51,22.0,6,92.03,14.7,0.53,Sports,0,Price-Sensitive / Occasional Shoppers
+C10133,33,Male,North,36023.72,4.6,21,1709.57,79.88,1.0,Electronics,3,Young Digital Shoppers
+C10134,46,Female,North,36590.74,17.6,11,658.94,62.51,0.43,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10135,42,Male,North,93439.32,6.6,33,2126.99,64.96,0.47,Beauty,2,High-Value Loyalists
+C10136,37,Female,West,61846.42,34.3,1,243.54,243.54,0.32,Beauty,1,Infrequent Big Spenders
+C10137,33,Male,West,49433.83,13.6,13,353.09,26.44,0.7,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10138,55,Female,South,42681.2,43.8,4,210.36,58.74,0.0,Beauty,4,At-Risk / Churning
+C10139,26,Male,North,69055.69,13.5,36,2678.51,74.11,0.46,Groceries,2,High-Value Loyalists
+C10140,34,Male,West,73698.47,15.6,11,590.07,51.74,0.92,Fashion,3,Young Digital Shoppers
+C10141,21,Female,North,66386.13,9.8,11,383.61,33.62,0.31,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10142,29,Female,East,46051.7,43.6,2,246.57,119.88,0.81,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10143,46,Male,West,63467.46,14.6,9,501.17,53.39,0.33,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10144,31,Male,West,26206.62,1.0,6,223.02,37.41,0.47,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10145,23,Male,West,63870.05,8.6,19,811.69,42.54,0.85,Groceries,3,Young Digital Shoppers
+C10146,26,Male,North,23620.57,6.8,23,865.98,37.96,1.0,Home & Living,3,Young Digital Shoppers
+C10147,36,Female,East,50399.49,21.1,14,626.66,43.54,0.5,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10148,29,Female,North,67269.24,42.1,11,91.12,8.67,0.39,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10149,51,Female,South,103720.16,14.1,34,4265.19,127.26,0.6,Electronics,2,High-Value Loyalists
+C10150,48,Male,North,48243.07,47.1,4,127.21,29.95,0.65,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10151,28,Female,West,71734.41,31.8,1,350.37,350.37,0.79,Home & Living,1,Infrequent Big Spenders
+C10152,37,Male,South,115668.62,10.7,29,3301.86,112.05,0.52,Electronics,2,High-Value Loyalists
+C10153,44,Female,North,60837.34,24.8,13,371.92,29.45,0.66,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10154,60,Male,North,63770.43,10.5,18,3124.24,174.29,0.48,Fashion,2,High-Value Loyalists
+C10155,20,Female,East,76791.36,120.9,6,310.25,51.88,0.36,Sports,4,At-Risk / Churning
+C10156,21,Male,West,50416.14,7.8,10,1090.81,109.61,1.0,Sports,3,Young Digital Shoppers
+C10157,47,Male,West,67625.43,64.6,1,437.28,407.74,0.62,Groceries,1,Infrequent Big Spenders
+C10158,52,Male,North,69204.37,109.9,3,457.42,144.51,0.41,Sports,4,At-Risk / Churning
+C10159,54,Female,West,74259.95,44.8,1,433.3,319.88,0.41,Fashion,1,Infrequent Big Spenders
+C10160,54,Female,East,93418.96,9.0,35,2571.75,73.32,0.4,Beauty,2,High-Value Loyalists
+C10161,18,Female,West,57355.81,26.0,3,20.0,6.22,0.51,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10162,34,Male,South,39785.33,3.3,27,1013.44,37.98,0.84,Fashion,3,Young Digital Shoppers
+C10163,34,Male,North,94236.19,8.5,22,3161.02,143.15,0.55,Electronics,2,High-Value Loyalists
+C10164,51,Male,East,47391.07,17.9,14,332.22,24.33,0.62,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10165,33,Female,West,46122.94,12.6,16,1037.36,63.13,1.0,Electronics,3,Young Digital Shoppers
+C10166,43,Male,South,32597.86,34.7,3,204.13,72.18,0.46,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10167,23,Female,East,39789.26,13.6,3,190.69,60.44,0.57,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10168,29,Male,West,65231.74,4.1,21,878.11,40.98,0.91,Electronics,3,Young Digital Shoppers
+C10169,35,Male,West,63492.96,31.7,6,117.89,19.68,0.35,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10170,32,Male,East,25082.85,1.0,14,931.0,67.27,0.85,Groceries,3,Young Digital Shoppers
+C10171,39,Female,North,57505.22,11.4,14,253.19,17.55,0.67,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10172,28,Female,East,15000.0,7.2,18,934.81,50.71,0.94,Beauty,3,Young Digital Shoppers
+C10173,31,Female,West,46724.01,37.4,6,82.26,13.53,0.69,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10174,36,Non-binary,West,88327.21,3.5,27,4488.88,166.36,0.36,Sports,2,High-Value Loyalists
+C10175,37,Female,South,94538.5,6.0,22,3035.39,135.91,0.92,Beauty,2,High-Value Loyalists
+C10176,28,Male,North,27130.85,30.2,16,576.91,36.89,0.41,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10177,34,Female,East,39095.44,10.7,4,277.11,65.55,0.41,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10178,39,Male,North,34583.02,10.7,3,260.02,88.65,0.54,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10179,58,Female,East,75397.92,109.2,4,225.79,54.36,0.32,Electronics,4,At-Risk / Churning
+C10180,26,Female,North,51982.45,19.8,7,120.5,17.19,0.75,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10181,31,Male,West,44153.38,26.3,3,313.16,100.99,0.63,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10182,45,Female,East,59844.61,17.4,13,323.47,24.33,0.45,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10183,21,Female,North,49304.43,12.9,9,1033.5,109.69,0.77,Home & Living,3,Young Digital Shoppers
+C10184,41,Female,South,60144.14,71.6,1,369.18,369.18,0.5,Electronics,1,Infrequent Big Spenders
+C10185,56,Non-binary,East,39375.96,85.2,3,517.9,187.14,0.73,Electronics,4,At-Risk / Churning
+C10186,30,Non-binary,South,59645.98,2.0,21,917.74,42.75,0.92,Home & Living,3,Young Digital Shoppers
+C10187,40,Male,North,114729.16,10.9,32,2734.79,84.43,0.39,Groceries,2,High-Value Loyalists
+C10188,60,Female,West,56897.39,120.8,6,294.08,51.26,0.19,Electronics,4,At-Risk / Churning
+C10189,24,Male,East,37322.52,1.0,22,714.98,32.26,1.0,Fashion,3,Young Digital Shoppers
+C10190,46,Female,North,45968.84,43.6,1,119.02,119.02,0.44,Sports,0,Price-Sensitive / Occasional Shoppers
+C10191,19,Male,East,41553.67,2.7,21,1041.67,49.65,0.95,Sports,3,Young Digital Shoppers
+C10192,44,Female,South,104207.25,8.7,26,2967.29,115.83,0.43,Fashion,2,High-Value Loyalists
+C10193,24,Female,West,35052.39,25.1,2,268.1,169.77,0.67,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10194,29,Male,North,113382.0,5.3,26,3228.83,126.39,0.72,Beauty,2,High-Value Loyalists
+C10195,37,Female,East,128982.63,8.0,15,3450.16,236.48,0.84,Fashion,2,High-Value Loyalists
+C10196,48,Male,West,41892.08,22.2,6,323.33,54.73,0.36,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10197,18,Female,South,40325.41,23.8,6,286.04,49.84,0.86,Groceries,3,Young Digital Shoppers
+C10198,33,Male,South,43184.94,3.0,27,1329.55,48.86,0.88,Groceries,3,Young Digital Shoppers
+C10199,34,Male,East,53069.61,8.9,25,599.1,24.11,0.94,Home & Living,3,Young Digital Shoppers
+C10200,34,Male,South,70624.46,87.8,3,533.13,158.26,0.1,Electronics,4,At-Risk / Churning
+C10201,31,Male,West,21000.76,56.1,3,362.83,137.6,0.64,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10202,31,Male,South,53667.74,23.2,8,401.24,51.03,0.38,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10203,40,Male,West,99667.18,1.4,25,3347.37,132.22,0.79,Home & Living,2,High-Value Loyalists
+C10204,56,Female,South,93937.24,20.0,25,2663.48,106.17,0.37,Electronics,2,High-Value Loyalists
+C10205,32,Male,West,56252.31,13.9,11,870.39,77.29,0.84,Fashion,3,Young Digital Shoppers
+C10206,48,Female,East,137475.89,6.2,25,3283.06,128.88,0.7,Beauty,2,High-Value Loyalists
+C10207,52,Female,North,19105.43,54.4,6,316.27,52.69,0.2,Fashion,4,At-Risk / Churning
+C10208,48,Male,South,70551.26,3.8,30,3130.12,105.61,0.64,Fashion,2,High-Value Loyalists
+C10209,43,Female,West,53947.56,19.0,8,409.2,53.42,0.75,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10210,50,Female,South,52529.72,97.1,4,384.46,95.03,0.63,Beauty,4,At-Risk / Churning
+C10211,37,Male,East,45683.54,8.6,9,348.82,37.78,0.37,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10212,38,Female,South,50046.1,4.8,19,1026.95,53.99,0.91,Groceries,3,Young Digital Shoppers
+C10213,33,Female,West,21433.53,46.6,7,102.85,15.74,0.65,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10214,41,Male,West,37823.94,90.7,2,194.08,99.27,0.5,Electronics,4,At-Risk / Churning
+C10215,60,Non-binary,East,84763.21,68.4,5,150.22,30.82,0.72,Groceries,4,At-Risk / Churning
+C10216,60,Male,East,105643.77,2.9,25,3746.83,150.68,0.71,Sports,2,High-Value Loyalists
+C10217,43,Female,East,71716.91,3.9,29,4050.84,137.73,0.79,Fashion,2,High-Value Loyalists
+C10218,24,Female,East,42701.54,22.6,2,210.02,139.78,0.69,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10219,28,Female,North,47487.8,7.7,15,1060.91,69.03,0.93,Electronics,3,Young Digital Shoppers
+C10220,23,Male,South,34500.85,11.1,24,1111.23,45.68,1.0,Home & Living,3,Young Digital Shoppers
+C10221,35,Female,West,55572.71,16.0,12,545.34,43.66,0.48,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10222,36,Female,East,68369.98,81.6,2,151.29,84.83,0.88,Electronics,4,At-Risk / Churning
+C10223,30,Male,West,53200.01,43.3,5,121.96,22.78,0.72,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10224,20,Male,South,60770.51,8.8,24,961.79,40.27,0.94,Fashion,3,Young Digital Shoppers
+C10225,37,Female,North,50700.35,20.2,1,115.92,115.46,0.76,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10226,35,Female,West,88568.51,1.2,19,2624.72,134.82,0.56,Sports,2,High-Value Loyalists
+C10227,23,Female,West,49109.76,30.2,9,333.95,35.8,0.73,Electronics,3,Young Digital Shoppers
+C10228,43,Female,North,69593.81,93.0,5,183.23,36.34,0.36,Electronics,4,At-Risk / Churning
+C10229,51,Male,West,103393.92,1.4,35,4763.87,135.15,0.7,Home & Living,2,High-Value Loyalists
+C10230,25,Female,South,99591.48,5.0,23,3156.08,140.19,0.64,Beauty,2,High-Value Loyalists
+C10231,26,Male,West,64176.66,15.2,13,584.6,44.34,0.65,Electronics,3,Young Digital Shoppers
+C10232,22,Male,West,48893.13,38.9,5,210.33,42.32,0.48,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10233,50,Female,North,51373.74,5.9,15,364.44,24.52,0.57,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10234,27,Female,East,46611.73,18.6,5,325.07,69.74,0.55,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10235,27,Female,North,32722.54,51.2,3,164.03,49.0,0.57,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10236,18,Female,South,41271.59,16.0,18,535.29,29.78,0.39,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10237,30,Male,East,81465.16,74.8,1,229.6,229.6,0.41,Electronics,1,Infrequent Big Spenders
+C10238,47,Male,North,102960.0,7.7,25,3306.08,130.41,0.63,Fashion,2,High-Value Loyalists
+C10239,69,Female,North,104287.25,10.4,32,2493.72,77.39,0.48,Fashion,2,High-Value Loyalists
+C10240,32,Female,North,61311.82,47.9,4,119.7,32.56,0.88,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10241,50,Male,South,75576.59,107.8,4,341.93,95.84,0.36,Fashion,4,At-Risk / Churning
+C10242,25,Female,South,25373.13,4.4,19,865.59,44.89,0.86,Beauty,3,Young Digital Shoppers
+C10243,34,Female,South,62697.6,36.9,14,199.76,14.14,0.45,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10244,36,Female,East,61298.86,95.5,5,147.2,31.65,0.28,Electronics,4,At-Risk / Churning
+C10245,25,Female,West,29706.23,37.5,4,20.0,5.14,0.69,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10246,48,Male,East,54336.73,92.6,3,224.28,69.02,0.04,Electronics,4,At-Risk / Churning
+C10247,31,Female,South,60752.97,17.2,7,378.29,52.98,0.55,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10248,25,Male,West,53113.49,5.9,16,485.22,29.41,0.84,Home & Living,3,Young Digital Shoppers
+C10249,26,Male,South,60173.01,26.0,7,380.97,51.59,0.13,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10250,38,Male,South,81037.1,47.1,1,359.35,359.35,0.68,Beauty,1,Infrequent Big Spenders
+C10251,30,Female,South,15000.0,4.7,4,147.77,34.7,0.43,Sports,0,Price-Sensitive / Occasional Shoppers
+C10252,39,Male,East,69197.52,20.1,11,579.65,55.0,0.3,Groceries,4,At-Risk / Churning
+C10253,28,Male,West,70525.64,9.2,11,1371.04,124.93,0.85,Fashion,3,Young Digital Shoppers
+C10254,22,Female,East,49202.04,4.9,29,1544.68,53.96,0.88,Electronics,3,Young Digital Shoppers
+C10255,43,Male,South,51573.25,109.5,2,254.71,132.43,0.03,Groceries,4,At-Risk / Churning
+C10256,45,Female,North,32308.47,38.5,2,159.5,75.46,0.8,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10257,29,Female,North,103846.15,18.3,36,1872.81,51.77,0.76,Beauty,2,High-Value Loyalists
+C10258,51,Male,North,104907.8,1.5,32,1703.75,53.81,0.52,Sports,2,High-Value Loyalists
+C10259,47,Male,West,65646.53,33.1,14,582.21,40.16,0.65,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10260,31,Female,North,77804.39,6.6,29,4208.57,142.91,0.54,Groceries,2,High-Value Loyalists
+C10261,36,Male,South,41347.08,54.8,5,72.86,13.82,0.68,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10262,28,Female,East,35560.53,8.0,12,762.31,63.36,0.97,Fashion,3,Young Digital Shoppers
+C10263,41,Female,South,95226.41,11.3,24,3228.24,136.58,0.5,Fashion,2,High-Value Loyalists
+C10264,34,Female,West,25146.18,11.9,4,320.51,84.89,0.61,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10265,29,Male,North,111875.41,6.3,33,2630.08,79.27,0.58,Groceries,2,High-Value Loyalists
+C10266,24,Female,East,40211.28,12.4,24,721.74,29.77,0.93,Groceries,3,Young Digital Shoppers
+C10267,26,Female,East,111683.41,6.7,27,3486.83,130.44,0.64,Groceries,2,High-Value Loyalists
+C10268,30,Female,West,91942.26,14.9,38,3702.14,97.27,0.37,Fashion,2,High-Value Loyalists
+C10269,49,Male,South,101538.74,7.6,24,1871.45,76.86,0.6,Fashion,2,High-Value Loyalists
+C10270,47,Female,North,131981.81,8.4,28,3416.3,123.64,0.85,Home & Living,2,High-Value Loyalists
+C10271,37,Female,West,94107.37,14.7,39,3513.7,90.55,0.49,Home & Living,2,High-Value Loyalists
+C10272,26,Female,North,120129.65,12.8,43,2227.33,52.4,0.77,Beauty,2,High-Value Loyalists
+C10273,54,Female,East,63011.23,19.6,14,305.18,22.47,0.38,Sports,0,Price-Sensitive / Occasional Shoppers
+C10274,23,Female,West,77235.17,114.8,2,308.75,193.29,0.3,Groceries,4,At-Risk / Churning
+C10275,31,Male,West,47233.55,14.1,19,672.18,34.95,0.98,Sports,3,Young Digital Shoppers
+C10276,22,Male,East,46472.96,5.3,13,870.92,69.42,0.99,Fashion,3,Young Digital Shoppers
+C10277,56,Non-binary,North,50735.53,13.5,10,198.4,20.03,0.78,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10278,45,Female,North,48850.42,47.8,5,236.1,43.41,0.72,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10279,31,Male,East,45223.29,41.0,3,208.33,66.32,0.62,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10280,26,Female,South,97463.72,10.4,31,3597.02,115.44,0.26,Fashion,2,High-Value Loyalists
+C10281,29,Male,South,39756.75,6.3,16,1118.46,70.64,0.89,Groceries,3,Young Digital Shoppers
+C10282,19,Female,South,53129.77,16.5,26,1165.5,45.26,0.87,Sports,3,Young Digital Shoppers
+C10283,22,Male,North,39608.97,5.3,14,581.97,42.51,0.88,Fashion,3,Young Digital Shoppers
+C10284,43,Female,North,48750.24,18.2,13,398.69,29.78,0.44,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10285,38,Male,East,41054.94,11.4,14,486.74,34.58,0.59,Sports,0,Price-Sensitive / Occasional Shoppers
+C10286,50,Female,North,111402.1,7.5,36,3359.92,92.5,0.64,Fashion,2,High-Value Loyalists
+C10287,29,Male,South,82143.53,4.5,19,816.14,42.17,0.84,Fashion,3,Young Digital Shoppers
+C10288,20,Female,North,41393.44,2.9,14,839.95,62.09,0.43,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10289,53,Male,North,89923.48,4.8,27,3730.44,138.51,0.52,Sports,2,High-Value Loyalists
+C10290,29,Female,West,25922.17,41.0,1,140.03,140.03,0.8,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10291,52,Female,West,111644.59,10.2,34,3725.3,110.99,0.48,Groceries,2,High-Value Loyalists
+C10292,41,Female,West,30955.18,21.4,5,173.59,35.28,0.27,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10293,54,Female,South,127847.82,1.9,26,3229.84,124.11,0.82,Groceries,2,High-Value Loyalists
+C10294,27,Female,East,55833.03,12.8,4,30.64,8.38,0.44,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10295,23,Female,East,41690.16,39.5,6,20.0,3.35,0.48,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10296,33,Male,East,40426.98,27.1,4,283.39,80.76,0.5,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10297,27,Male,South,59382.1,53.5,4,161.04,41.58,0.58,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10298,51,Male,East,37495.53,60.8,7,235.1,32.26,0.2,Groceries,4,At-Risk / Churning
+C10299,46,Female,South,53626.54,80.8,1,247.69,247.69,0.41,Home & Living,1,Infrequent Big Spenders
+C10300,46,Female,North,114790.08,106.7,1,342.75,248.69,0.2,Sports,1,Infrequent Big Spenders
+C10301,25,Male,North,74315.13,8.1,26,3476.37,136.06,0.37,Electronics,2,High-Value Loyalists
+C10302,19,Male,West,36704.24,24.2,18,467.26,26.46,0.61,Fashion,3,Young Digital Shoppers
+C10303,24,Male,East,34098.06,24.0,7,467.93,71.91,0.24,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10304,34,Female,North,63536.74,23.7,4,91.7,22.3,0.57,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10305,22,Non-binary,East,19243.53,9.4,14,180.23,13.34,0.23,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10306,29,Female,East,55950.31,1.0,18,464.53,26.03,1.0,Groceries,3,Young Digital Shoppers
+C10307,28,Female,North,87051.88,145.6,2,75.14,36.68,0.0,Beauty,4,At-Risk / Churning
+C10308,27,Female,West,52742.08,7.3,17,619.51,35.56,0.93,Electronics,3,Young Digital Shoppers
+C10309,29,Male,East,69184.0,4.2,22,3728.68,172.13,0.6,Beauty,2,High-Value Loyalists
+C10310,51,Female,West,58576.18,20.7,17,437.28,25.84,0.44,Sports,0,Price-Sensitive / Occasional Shoppers
+C10311,37,Female,East,70310.82,1.0,11,413.99,38.41,0.35,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10312,26,Male,North,23966.24,3.0,24,761.32,31.83,0.81,Fashion,3,Young Digital Shoppers
+C10313,23,Female,North,45126.35,2.8,14,636.68,45.39,0.83,Groceries,3,Young Digital Shoppers
+C10314,27,Female,North,68409.51,3.3,20,1043.81,50.97,0.86,Electronics,3,Young Digital Shoppers
+C10315,24,Male,North,43709.64,1.0,15,763.4,50.99,0.79,Fashion,3,Young Digital Shoppers
+C10316,27,Male,East,35590.67,4.8,16,1130.57,72.71,0.83,Sports,3,Young Digital Shoppers
+C10317,31,Female,East,65064.09,107.4,4,573.44,161.68,0.64,Beauty,4,At-Risk / Churning
+C10318,21,Male,South,61995.46,7.4,20,1156.09,57.0,1.0,Fashion,3,Young Digital Shoppers
+C10319,40,Female,East,40185.3,35.1,4,212.56,48.41,0.38,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10320,24,Female,East,54520.66,32.5,4,69.81,15.89,0.56,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10321,39,Male,North,82783.87,19.8,8,393.94,47.88,0.52,Sports,0,Price-Sensitive / Occasional Shoppers
+C10322,21,Female,North,46207.98,5.3,16,896.9,55.47,0.88,Electronics,3,Young Digital Shoppers
+C10323,32,Male,North,60009.34,23.8,14,527.02,36.44,0.62,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10324,24,Female,East,35573.88,37.7,5,105.83,21.91,0.64,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10325,45,Male,North,56794.14,120.4,1,144.55,144.55,0.0,Beauty,4,At-Risk / Churning
+C10326,42,Female,South,57909.26,36.2,3,272.36,83.58,0.65,Sports,0,Price-Sensitive / Occasional Shoppers
+C10327,46,Male,East,83871.54,20.6,8,242.26,30.52,0.61,Sports,0,Price-Sensitive / Occasional Shoppers
+C10328,53,Male,West,55606.77,99.1,3,151.06,45.2,0.72,Electronics,4,At-Risk / Churning
+C10329,32,Male,North,65625.16,6.1,22,1117.55,51.28,0.83,Home & Living,3,Young Digital Shoppers
+C10330,62,Male,South,79493.15,67.3,2,169.62,110.65,0.5,Fashion,4,At-Risk / Churning
+C10331,25,Male,South,60120.76,4.8,18,656.83,36.63,0.96,Fashion,3,Young Digital Shoppers
+C10332,34,Male,South,47817.94,119.6,3,118.72,34.88,0.41,Beauty,4,At-Risk / Churning
+C10333,33,Male,South,39290.63,56.3,1,188.49,188.49,1.0,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10334,55,Female,West,101769.25,3.8,24,2808.21,117.55,0.6,Electronics,2,High-Value Loyalists
+C10335,30,Male,East,33441.35,98.3,1,228.42,228.42,0.41,Beauty,1,Infrequent Big Spenders
+C10336,46,Female,East,114107.34,11.0,28,2677.66,94.14,0.39,Home & Living,2,High-Value Loyalists
+C10337,20,Male,West,44286.46,115.1,3,61.62,19.51,0.82,Electronics,4,At-Risk / Churning
+C10338,38,Male,East,81903.67,18.6,34,3775.36,110.98,0.64,Groceries,2,High-Value Loyalists
+C10339,33,Non-binary,South,20409.15,4.4,5,107.18,23.12,0.25,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10340,39,Male,North,95159.22,12.4,35,2959.52,85.21,0.56,Fashion,2,High-Value Loyalists
+C10341,29,Male,North,65697.48,53.1,5,334.72,67.55,0.57,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10342,19,Female,East,34659.82,41.3,5,355.51,74.15,0.52,Sports,0,Price-Sensitive / Occasional Shoppers
+C10343,27,Male,West,71708.62,32.3,13,450.65,33.63,0.55,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10344,36,Female,West,39028.17,66.2,3,256.23,74.39,0.39,Electronics,4,At-Risk / Churning
+C10345,44,Male,East,51331.46,97.1,1,149.33,149.33,0.55,Fashion,4,At-Risk / Churning
+C10346,27,Female,North,49377.19,51.8,3,258.1,84.17,0.52,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10347,31,Male,North,45790.64,1.0,14,1068.38,78.64,1.0,Electronics,3,Young Digital Shoppers
+C10348,35,Female,West,46704.01,10.4,17,39.12,2.35,0.66,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10349,35,Female,South,82758.76,7.3,30,2890.7,94.83,0.31,Groceries,2,High-Value Loyalists
+C10350,53,Male,East,54771.58,68.5,6,233.65,36.77,0.26,Sports,4,At-Risk / Churning
+C10351,42,Female,West,95004.86,9.3,41,3435.37,84.72,0.19,Groceries,2,High-Value Loyalists
+C10352,42,Female,South,55443.26,19.7,11,511.96,47.45,0.39,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10353,39,Male,North,31060.76,21.2,7,353.63,48.66,0.71,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10354,58,Female,North,35313.66,35.3,15,506.6,33.58,0.33,Sports,0,Price-Sensitive / Occasional Shoppers
+C10355,35,Male,East,23459.45,31.2,11,347.28,32.53,0.39,Sports,0,Price-Sensitive / Occasional Shoppers
+C10356,53,Male,East,70382.06,80.0,1,272.45,272.45,0.06,Home & Living,1,Infrequent Big Spenders
+C10357,43,Non-binary,West,51042.67,133.9,4,307.46,82.99,0.28,Fashion,4,At-Risk / Churning
+C10358,42,Female,East,49491.68,18.6,14,186.79,13.4,0.38,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10359,18,Male,North,30807.34,18.7,9,221.34,24.3,0.89,Electronics,3,Young Digital Shoppers
+C10360,38,Female,West,39293.51,30.7,5,33.39,6.39,0.97,Home & Living,3,Young Digital Shoppers
+C10361,33,Female,South,74085.8,9.3,28,2874.91,101.24,0.4,Home & Living,2,High-Value Loyalists
+C10362,35,Female,East,122847.61,7.6,36,2826.72,79.36,0.59,Electronics,2,High-Value Loyalists
+C10363,40,Male,West,108435.53,4.2,27,2593.2,96.01,0.74,Sports,2,High-Value Loyalists
+C10364,63,Female,East,75306.85,49.5,2,119.46,74.26,0.5,Beauty,4,At-Risk / Churning
+C10365,21,Female,South,51255.81,3.4,13,476.69,36.35,0.88,Sports,3,Young Digital Shoppers
+C10366,29,Female,South,40750.55,93.3,1,254.8,254.8,0.15,Groceries,1,Infrequent Big Spenders
+C10367,48,Male,East,88007.32,85.2,1,225.44,154.12,0.08,Sports,4,At-Risk / Churning
+C10368,22,Male,West,44786.47,3.7,20,1064.51,53.06,0.88,Beauty,3,Young Digital Shoppers
+C10369,36,Female,West,44819.55,30.3,9,106.47,12.03,0.71,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10370,39,Male,South,70251.9,91.4,2,366.14,186.17,0.43,Sports,4,At-Risk / Churning
+C10371,27,Non-binary,West,48709.12,3.4,27,634.87,23.11,0.91,Home & Living,3,Young Digital Shoppers
+C10372,22,Male,East,36362.18,7.3,12,806.44,66.46,0.71,Fashion,3,Young Digital Shoppers
+C10373,31,Female,West,32308.0,9.2,15,1430.47,92.32,0.94,Fashion,3,Young Digital Shoppers
+C10374,39,Male,West,91951.83,14.4,24,3263.91,138.84,0.69,Sports,2,High-Value Loyalists
+C10375,26,Female,East,75987.59,9.6,27,3252.45,119.7,0.71,Beauty,2,High-Value Loyalists
+C10376,23,Female,South,66472.16,48.6,5,341.48,74.55,0.35,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10377,41,Male,South,36507.85,26.9,15,460.85,30.26,0.13,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10378,18,Male,South,62913.96,6.5,15,1248.49,83.77,0.83,Home & Living,3,Young Digital Shoppers
+C10379,69,Female,West,67194.23,96.6,5,84.02,18.33,0.48,Fashion,4,At-Risk / Churning
+C10380,43,Male,West,53653.45,1.0,12,516.32,44.07,0.59,Sports,0,Price-Sensitive / Occasional Shoppers
+C10381,18,Male,West,49670.6,41.6,6,212.63,34.92,0.47,Sports,0,Price-Sensitive / Occasional Shoppers
+C10382,43,Female,West,76023.57,88.7,6,218.67,39.22,0.44,Home & Living,4,At-Risk / Churning
+C10383,32,Male,South,63879.23,35.5,12,376.09,31.45,0.65,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10384,31,Female,West,70685.51,9.0,19,933.78,48.58,0.92,Beauty,3,Young Digital Shoppers
+C10385,43,Male,North,27897.23,28.5,4,359.19,85.62,0.57,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10386,18,Female,North,39945.24,153.3,4,105.16,25.15,0.34,Fashion,4,At-Risk / Churning
+C10387,34,Female,West,36903.18,46.8,3,87.0,33.42,0.3,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10388,44,Female,West,73410.77,1.0,22,2869.7,132.02,0.46,Sports,2,High-Value Loyalists
+C10389,30,Male,East,44365.43,22.5,4,111.14,28.63,0.68,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10390,53,Female,South,51038.75,88.6,3,138.54,48.91,0.36,Electronics,4,At-Risk / Churning
+C10391,38,Male,North,105205.47,4.5,43,3819.98,88.58,0.75,Fashion,2,High-Value Loyalists
+C10392,18,Female,West,45754.24,25.6,12,461.32,39.75,0.76,Fashion,3,Young Digital Shoppers
+C10393,33,Male,West,92282.28,87.5,2,173.0,98.66,0.22,Groceries,4,At-Risk / Churning
+C10394,40,Male,East,84327.33,13.5,30,3385.72,113.77,0.44,Home & Living,2,High-Value Loyalists
+C10395,36,Male,South,67107.73,20.1,14,346.52,24.45,0.14,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10396,35,Female,North,39771.2,22.9,5,218.38,42.79,0.54,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10397,34,Male,South,58422.98,4.6,20,996.44,48.76,0.66,Home & Living,3,Young Digital Shoppers
+C10398,40,Male,North,67812.75,16.8,7,468.73,69.24,0.43,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10399,18,Female,East,46563.33,20.0,8,554.97,70.47,0.66,Fashion,3,Young Digital Shoppers
+C10400,25,Female,North,47059.52,5.2,20,1175.96,58.04,0.78,Home & Living,3,Young Digital Shoppers
+C10401,33,Female,East,52579.01,13.6,8,125.2,16.54,0.68,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10402,50,Male,West,117149.46,92.5,6,428.79,69.02,0.42,Electronics,4,At-Risk / Churning
+C10403,56,Female,North,98600.1,1.0,26,3657.76,140.92,0.51,Fashion,2,High-Value Loyalists
+C10404,30,Male,West,45473.49,29.8,6,103.48,16.03,0.71,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10405,31,Male,West,74718.0,43.7,1,20.0,20.0,0.8,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10406,27,Female,North,58154.08,4.2,17,957.58,56.76,0.92,Home & Living,3,Young Digital Shoppers
+C10407,18,Female,South,74654.63,25.9,3,174.08,60.8,0.66,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10408,43,Male,East,52565.23,17.4,27,3606.44,133.0,0.34,Sports,2,High-Value Loyalists
+C10409,25,Male,East,56371.2,25.2,3,157.9,51.02,0.91,Fashion,3,Young Digital Shoppers
+C10410,33,Female,East,43768.0,44.6,2,20.0,13.06,0.15,Electronics,4,At-Risk / Churning
+C10411,34,Male,East,29278.3,56.5,3,381.54,130.95,0.53,Beauty,4,At-Risk / Churning
+C10412,39,Male,South,91378.58,18.2,17,3035.73,174.19,0.73,Sports,2,High-Value Loyalists
+C10413,28,Female,North,21060.64,43.9,5,225.75,42.33,0.48,Sports,0,Price-Sensitive / Occasional Shoppers
+C10414,61,Female,West,96722.52,2.1,29,2253.74,77.5,0.37,Home & Living,2,High-Value Loyalists
+C10415,28,Female,East,54275.94,1.6,16,1031.6,63.31,0.83,Groceries,3,Young Digital Shoppers
+C10416,44,Female,North,123669.11,7.1,35,3591.56,102.39,0.33,Fashion,2,High-Value Loyalists
+C10417,46,Male,South,72292.88,116.4,4,197.6,54.64,0.0,Beauty,4,At-Risk / Churning
+C10418,36,Female,West,62887.16,9.1,14,796.1,56.1,0.87,Beauty,3,Young Digital Shoppers
+C10419,20,Female,North,62952.25,36.5,1,175.38,175.38,0.71,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10420,50,Female,West,33698.91,49.6,5,427.44,81.49,0.41,Home & Living,4,At-Risk / Churning
+C10421,33,Female,East,126165.72,10.7,26,2732.21,106.37,0.59,Fashion,2,High-Value Loyalists
+C10422,45,Female,North,85610.83,6.7,23,3087.14,131.6,0.83,Beauty,2,High-Value Loyalists
+C10423,49,Female,North,115339.47,3.9,28,1924.63,69.9,0.72,Home & Living,2,High-Value Loyalists
+C10424,55,Male,West,41918.22,68.4,4,295.64,69.51,0.25,Home & Living,4,At-Risk / Churning
+C10425,19,Male,North,40011.55,40.1,4,52.78,14.49,0.85,Groceries,3,Young Digital Shoppers
+C10426,26,Male,North,54739.94,10.5,15,1125.97,72.94,0.9,Home & Living,3,Young Digital Shoppers
+C10427,35,Male,North,50849.4,39.1,3,254.45,84.51,0.34,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10428,45,Female,South,114394.61,6.3,33,3234.82,98.97,0.42,Beauty,2,High-Value Loyalists
+C10429,35,Female,East,48519.69,11.1,1,218.22,218.22,0.49,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10430,18,Male,East,70116.48,40.3,3,95.95,30.35,0.55,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10431,62,Male,North,51987.42,58.9,2,20.0,9.31,0.33,Electronics,4,At-Risk / Churning
+C10432,63,Female,West,76411.99,116.3,3,401.95,138.86,0.06,Sports,4,At-Risk / Churning
+C10433,19,Female,West,45082.97,22.6,5,20.0,4.21,0.22,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10434,32,Female,North,94946.01,13.1,31,3303.76,108.27,0.71,Beauty,2,High-Value Loyalists
+C10435,24,Female,East,43322.33,6.3,19,635.47,33.15,0.94,Beauty,3,Young Digital Shoppers
+C10436,45,Non-binary,East,56856.13,12.5,24,4053.97,169.35,0.48,Home & Living,2,High-Value Loyalists
+C10437,51,Female,East,52546.63,24.2,11,547.18,48.51,0.36,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10438,45,Male,South,74205.5,117.6,1,157.25,150.0,0.06,Home & Living,4,At-Risk / Churning
+C10439,30,Female,South,59976.6,97.7,2,410.6,164.6,0.81,Electronics,4,At-Risk / Churning
+C10440,47,Male,North,60635.33,33.0,4,106.51,26.15,0.83,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10441,40,Female,West,90770.61,8.1,33,4352.55,132.81,0.64,Fashion,2,High-Value Loyalists
+C10442,56,Male,North,63424.82,49.4,2,248.39,105.98,0.25,Home & Living,4,At-Risk / Churning
+C10443,27,Female,East,48976.65,2.3,19,953.92,50.05,0.77,Fashion,3,Young Digital Shoppers
+C10444,28,Male,North,41024.18,7.9,18,89.11,4.93,0.84,Sports,3,Young Digital Shoppers
+C10445,68,Male,West,44787.74,85.1,1,487.81,487.81,0.33,Groceries,1,Infrequent Big Spenders
+C10446,22,Female,North,35290.83,42.4,3,20.0,7.27,0.64,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10447,36,Male,West,46027.35,37.8,1,402.29,402.29,0.8,Beauty,1,Infrequent Big Spenders
+C10448,33,Female,North,132075.79,7.1,41,4175.46,102.61,0.29,Electronics,2,High-Value Loyalists
+C10449,47,Female,North,119924.78,58.1,3,346.31,100.15,0.35,Home & Living,4,At-Risk / Churning
+C10450,46,Female,South,100896.81,10.9,36,3855.88,105.71,0.56,Electronics,2,High-Value Loyalists
+C10451,33,Female,South,37825.01,21.0,2,31.39,19.34,0.6,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10452,30,Female,East,67595.04,103.5,2,198.82,104.58,0.46,Sports,4,At-Risk / Churning
+C10453,49,Male,South,105827.9,12.6,16,4147.68,257.04,0.61,Groceries,2,High-Value Loyalists
+C10454,39,Male,South,101608.6,6.4,33,2089.48,62.92,0.47,Beauty,2,High-Value Loyalists
+C10455,21,Male,North,52030.15,3.1,18,1204.66,66.66,0.82,Fashion,3,Young Digital Shoppers
+C10456,32,Female,East,93618.89,50.8,5,101.17,21.76,0.63,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10457,46,Female,South,34420.76,24.9,6,196.88,32.63,0.55,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10458,54,Female,South,40306.95,82.4,1,20.0,20.0,0.5,Fashion,4,At-Risk / Churning
+C10459,39,Male,East,71806.22,68.5,1,277.26,277.26,0.26,Home & Living,1,Infrequent Big Spenders
+C10460,42,Male,South,38072.7,29.1,12,476.9,39.11,0.31,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10461,46,Female,West,78846.43,9.7,43,3271.7,76.86,0.77,Sports,2,High-Value Loyalists
+C10462,34,Male,South,33504.17,22.9,6,287.24,48.06,0.95,Home & Living,3,Young Digital Shoppers
+C10463,32,Male,North,56556.83,2.1,14,1097.58,79.35,0.87,Groceries,3,Young Digital Shoppers
+C10464,52,Female,North,24958.49,22.5,14,191.01,13.86,0.37,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10465,74,Female,East,43714.25,98.2,4,314.27,76.32,0.43,Groceries,4,At-Risk / Churning
+C10466,34,Male,East,75914.42,107.3,4,418.4,115.26,0.39,Electronics,4,At-Risk / Churning
+C10467,30,Female,East,34976.24,17.2,7,225.38,32.82,0.64,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10468,34,Female,East,94913.09,12.3,16,3159.7,192.85,0.49,Home & Living,2,High-Value Loyalists
+C10469,59,Male,South,47465.09,22.9,19,337.5,17.78,0.86,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10470,41,Female,West,51081.17,13.8,11,554.6,49.07,0.5,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10471,51,Female,South,42659.89,13.3,13,649.13,51.86,0.73,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10472,39,Female,North,123879.38,1.0,18,2620.01,143.27,0.59,Fashion,2,High-Value Loyalists
+C10473,47,Male,South,116162.34,1.0,35,2981.53,84.87,0.66,Fashion,2,High-Value Loyalists
+C10474,31,Male,East,28976.94,6.1,14,1101.65,81.16,0.94,Fashion,3,Young Digital Shoppers
+C10475,32,Female,North,28281.04,8.4,24,872.38,36.67,0.78,Beauty,3,Young Digital Shoppers
+C10476,37,Female,South,62017.53,13.7,8,434.84,52.63,0.7,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10477,33,Female,East,80376.22,61.5,2,177.5,107.53,0.33,Beauty,4,At-Risk / Churning
+C10478,30,Male,East,74555.72,83.7,5,160.92,30.23,0.03,Home & Living,4,At-Risk / Churning
+C10479,35,Male,South,39815.14,37.6,7,311.19,45.22,0.61,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10480,47,Male,East,59813.64,18.4,7,398.99,59.13,0.3,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10481,27,Male,East,59094.9,4.8,17,1092.1,65.76,0.85,Home & Living,3,Young Digital Shoppers
+C10482,44,Female,North,64413.66,10.1,14,340.09,24.86,0.5,Sports,0,Price-Sensitive / Occasional Shoppers
+C10483,35,Male,South,39553.45,2.1,15,873.65,56.77,0.69,Groceries,3,Young Digital Shoppers
+C10484,45,Female,South,84187.46,10.9,32,2662.02,82.31,0.48,Groceries,2,High-Value Loyalists
+C10485,38,Female,South,38764.64,14.9,6,445.67,73.08,0.59,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10486,52,Male,North,30424.98,13.8,9,359.51,38.36,0.51,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10487,29,Female,South,55683.63,2.8,23,901.89,38.8,0.77,Beauty,3,Young Digital Shoppers
+C10488,37,Male,East,41932.8,26.1,11,444.97,41.1,0.57,Sports,0,Price-Sensitive / Occasional Shoppers
+C10489,44,Female,West,35029.06,21.3,12,510.35,40.88,0.26,Sports,0,Price-Sensitive / Occasional Shoppers
+C10490,60,Male,North,66749.86,59.9,4,237.88,53.61,0.46,Sports,4,At-Risk / Churning
+C10491,51,Male,East,69874.45,70.5,1,487.47,487.47,0.85,Electronics,1,Infrequent Big Spenders
+C10492,54,Male,West,86822.31,54.7,3,287.43,104.47,0.52,Electronics,4,At-Risk / Churning
+C10493,31,Male,North,47008.9,7.6,17,696.27,41.87,0.96,Sports,3,Young Digital Shoppers
+C10494,34,Male,West,48959.47,88.9,2,369.64,197.52,0.31,Beauty,1,Infrequent Big Spenders
+C10495,48,Female,South,57503.97,24.6,12,391.77,31.9,0.36,Sports,0,Price-Sensitive / Occasional Shoppers
+C10496,52,Male,South,60859.75,23.8,11,230.83,21.68,0.46,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10497,59,Male,South,46156.92,67.9,6,367.94,62.34,0.27,Groceries,4,At-Risk / Churning
+C10498,28,Male,South,78419.91,6.8,22,444.06,19.9,0.84,Groceries,3,Young Digital Shoppers
+C10499,48,Male,North,27126.36,26.7,19,120.61,6.46,0.8,Sports,0,Price-Sensitive / Occasional Shoppers
+C10500,18,Female,South,68922.76,113.8,4,341.88,91.71,0.27,Sports,4,At-Risk / Churning
+C10501,42,Male,West,15181.86,12.3,2,36.63,15.87,0.66,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10502,37,Male,East,36777.61,32.4,1,150.1,150.1,0.65,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10503,35,Male,West,56006.73,30.0,11,467.64,44.04,0.46,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10504,42,Male,North,52395.58,17.0,10,343.78,35.49,0.17,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10505,41,Female,South,97907.67,75.5,1,120.88,96.72,0.0,Electronics,4,At-Risk / Churning
+C10506,21,Male,East,69735.21,4.6,18,1381.18,78.23,0.93,Beauty,3,Young Digital Shoppers
+C10507,24,Female,East,17295.06,30.8,6,233.9,37.19,0.65,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10508,42,Male,North,54334.29,12.0,14,20.0,1.38,0.58,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10509,41,Male,East,86673.51,13.2,31,3306.61,107.24,0.67,Electronics,2,High-Value Loyalists
+C10510,43,Female,East,64211.58,5.3,35,2265.18,64.93,0.23,Beauty,2,High-Value Loyalists
+C10511,27,Male,West,17122.68,41.8,5,20.0,3.76,0.88,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10512,47,Female,East,104372.98,12.3,17,2149.26,125.78,0.44,Sports,2,High-Value Loyalists
+C10513,31,Female,North,61781.94,2.5,20,695.65,34.45,0.86,Sports,3,Young Digital Shoppers
+C10514,28,Male,East,40851.56,13.7,17,989.76,57.33,0.84,Beauty,3,Young Digital Shoppers
+C10515,52,Female,East,105532.51,7.7,35,4976.94,143.58,0.6,Beauty,2,High-Value Loyalists
+C10516,23,Female,South,44660.19,1.0,13,794.66,60.75,0.88,Beauty,3,Young Digital Shoppers
+C10517,38,Female,East,87494.97,113.2,3,198.05,64.8,0.57,Fashion,4,At-Risk / Churning
+C10518,39,Male,West,98696.4,4.1,30,2870.99,94.25,0.34,Electronics,2,High-Value Loyalists
+C10519,27,Female,North,30576.52,32.8,3,89.01,30.96,1.0,Home & Living,3,Young Digital Shoppers
+C10520,38,Female,West,38803.35,39.1,3,219.46,63.39,0.72,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10521,24,Male,East,25315.53,8.0,24,1708.51,71.71,0.85,Groceries,3,Young Digital Shoppers
+C10522,43,Female,West,80396.67,7.1,16,3848.46,238.62,0.43,Electronics,2,High-Value Loyalists
+C10523,44,Female,South,59774.18,97.0,6,362.58,61.68,0.54,Home & Living,4,At-Risk / Churning
+C10524,51,Female,West,114314.17,11.2,19,2610.98,135.48,0.51,Beauty,2,High-Value Loyalists
+C10525,32,Male,West,62390.05,10.8,14,1094.79,79.25,0.83,Sports,3,Young Digital Shoppers
+C10526,35,Female,West,75267.14,37.7,9,195.98,22.03,0.65,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10527,24,Male,North,64218.46,52.4,6,147.4,23.53,0.64,Sports,0,Price-Sensitive / Occasional Shoppers
+C10528,52,Non-binary,South,99497.82,107.4,3,376.02,148.6,0.69,Sports,4,At-Risk / Churning
+C10529,24,Non-binary,West,54912.83,12.7,21,1086.36,51.32,0.88,Beauty,3,Young Digital Shoppers
+C10530,45,Male,West,62708.52,128.0,3,267.37,106.07,0.18,Fashion,4,At-Risk / Churning
+C10531,50,Female,South,71487.09,81.2,4,303.96,74.94,0.36,Electronics,4,At-Risk / Churning
+C10532,24,Male,North,68488.34,16.8,13,572.16,44.09,0.8,Electronics,3,Young Digital Shoppers
+C10533,50,Male,North,70578.71,67.7,3,257.19,102.39,0.03,Fashion,4,At-Risk / Churning
+C10534,44,Female,North,105999.1,1.0,19,3664.25,191.86,0.13,Groceries,2,High-Value Loyalists
+C10535,21,Male,South,60586.84,18.8,8,1158.61,151.77,0.74,Electronics,3,Young Digital Shoppers
+C10536,27,Female,North,62927.58,5.5,16,358.61,22.46,0.22,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10537,52,Female,East,80633.38,7.6,29,4268.41,148.59,0.62,Electronics,2,High-Value Loyalists
+C10538,53,Female,East,95066.7,6.0,25,2812.36,114.26,0.34,Fashion,2,High-Value Loyalists
+C10539,30,Female,West,55566.18,1.0,5,165.48,32.22,0.55,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10540,40,Male,South,48645.26,30.3,2,47.71,23.08,0.69,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10541,40,Female,West,51253.2,28.6,13,20.0,1.49,0.61,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10542,35,Male,West,20388.98,45.6,6,184.23,33.33,0.48,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10543,41,Female,East,42522.01,33.6,1,166.8,166.8,0.77,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10544,36,Female,West,110384.12,1.0,30,4333.6,144.07,0.77,Beauty,2,High-Value Loyalists
+C10545,34,Male,North,59613.3,11.9,14,739.97,52.74,0.49,Sports,0,Price-Sensitive / Occasional Shoppers
+C10546,25,Female,West,58521.97,3.9,23,902.51,38.98,0.82,Sports,3,Young Digital Shoppers
+C10547,41,Male,East,106601.25,5.3,22,3036.28,140.0,0.72,Electronics,2,High-Value Loyalists
+C10548,54,Female,West,92856.96,93.8,4,360.7,84.12,0.12,Fashion,4,At-Risk / Churning
+C10549,46,Female,South,56060.7,20.8,1,728.32,728.32,0.32,Sports,1,Infrequent Big Spenders
+C10550,18,Male,South,57069.75,9.0,7,214.12,31.92,0.66,Beauty,3,Young Digital Shoppers
+C10551,43,Male,South,71791.97,6.3,25,3525.11,141.65,0.7,Beauty,2,High-Value Loyalists
+C10552,25,Male,West,44104.84,3.2,16,1472.69,90.91,0.9,Electronics,3,Young Digital Shoppers
+C10553,44,Male,North,34184.07,30.9,4,193.13,54.07,0.51,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10554,31,Female,South,86303.15,5.8,40,3901.2,97.55,0.69,Groceries,2,High-Value Loyalists
+C10555,29,Male,North,53892.66,11.1,18,907.47,50.57,0.89,Beauty,3,Young Digital Shoppers
+C10556,25,Non-binary,East,35296.35,1.0,18,1384.31,75.57,1.0,Electronics,3,Young Digital Shoppers
+C10557,48,Male,West,45682.77,14.9,8,110.92,13.38,0.76,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10558,35,Female,North,76688.89,40.9,4,366.83,84.2,0.29,Groceries,4,At-Risk / Churning
+C10559,38,Male,South,45316.14,36.1,13,520.47,39.47,0.0,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10560,25,Female,West,89358.34,2.0,38,3370.99,88.09,0.43,Groceries,2,High-Value Loyalists
+C10561,26,Male,South,58148.1,1.0,17,1252.91,73.29,0.76,Home & Living,3,Young Digital Shoppers
+C10562,28,Female,West,42425.99,47.8,1,160.12,118.85,0.56,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10563,38,Male,West,62733.98,122.3,1,280.32,209.62,0.31,Home & Living,1,Infrequent Big Spenders
+C10564,37,Female,South,80521.44,69.5,2,429.84,245.76,0.55,Fashion,1,Infrequent Big Spenders
+C10565,47,Female,North,46767.51,107.6,2,467.92,290.06,0.29,Sports,1,Infrequent Big Spenders
+C10566,44,Female,South,59399.53,107.3,2,242.33,144.73,0.35,Beauty,4,At-Risk / Churning
+C10567,40,Female,North,90721.69,7.1,20,2474.29,123.1,0.47,Beauty,2,High-Value Loyalists
+C10568,32,Male,East,66614.13,11.0,15,801.43,54.39,1.0,Home & Living,3,Young Digital Shoppers
+C10569,49,Female,East,43999.71,22.2,15,245.96,16.72,0.5,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10570,28,Female,West,44135.73,3.4,19,605.91,31.46,0.91,Home & Living,3,Young Digital Shoppers
+C10571,34,Male,North,15000.0,43.1,10,168.96,16.56,0.63,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10572,18,Female,North,59887.58,45.7,13,246.81,18.3,0.56,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10573,48,Female,North,42844.4,71.3,6,274.48,45.96,0.24,Groceries,4,At-Risk / Churning
+C10574,32,Male,South,59703.51,26.6,7,115.42,16.16,0.6,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10575,20,Female,North,81365.15,2.4,10,609.72,63.41,0.21,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10576,33,Male,North,53253.95,61.4,8,174.42,22.09,0.54,Sports,0,Price-Sensitive / Occasional Shoppers
+C10577,35,Male,East,53437.66,15.0,12,804.68,66.4,0.48,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10578,45,Female,South,47470.31,31.3,1,34.22,34.22,0.28,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10579,26,Male,North,45069.76,2.6,22,708.65,32.05,0.8,Electronics,3,Young Digital Shoppers
+C10580,45,Female,North,52125.05,23.8,8,730.56,94.48,0.38,Sports,0,Price-Sensitive / Occasional Shoppers
+C10581,46,Female,South,68055.92,11.6,15,696.97,45.55,0.45,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10582,57,Male,West,76923.78,3.3,38,3637.18,96.57,0.87,Groceries,2,High-Value Loyalists
+C10583,26,Male,North,26710.84,8.7,21,932.73,45.24,0.85,Groceries,3,Young Digital Shoppers
+C10584,36,Male,East,76116.77,57.3,1,131.69,131.69,0.73,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10585,47,Male,East,98286.51,78.7,5,82.61,15.48,0.14,Beauty,4,At-Risk / Churning
+C10586,42,Female,North,70131.57,7.1,33,2895.53,87.69,0.51,Beauty,2,High-Value Loyalists
+C10587,30,Female,South,48875.1,2.0,17,470.77,27.02,0.8,Home & Living,3,Young Digital Shoppers
+C10588,25,Female,South,47568.26,8.6,6,1011.48,179.43,0.88,Groceries,3,Young Digital Shoppers
+C10589,53,Female,West,90278.34,3.5,29,3058.06,104.79,0.78,Groceries,2,High-Value Loyalists
+C10590,41,Male,North,56754.08,56.3,5,195.09,37.39,0.9,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10591,55,Female,North,51885.54,15.5,17,540.06,32.05,0.56,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10592,22,Male,East,49548.51,7.1,17,1221.15,71.32,0.98,Electronics,3,Young Digital Shoppers
+C10593,38,Female,East,34699.56,26.7,12,809.03,69.84,0.79,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10594,32,Male,North,63698.23,3.6,28,1726.12,62.28,0.47,Fashion,2,High-Value Loyalists
+C10595,24,Male,East,68686.73,8.6,16,929.5,57.38,0.88,Groceries,3,Young Digital Shoppers
+C10596,42,Male,West,38106.07,83.9,3,20.0,6.18,0.34,Home & Living,4,At-Risk / Churning
+C10597,64,Female,South,88978.68,155.0,5,282.83,62.62,0.54,Home & Living,4,At-Risk / Churning
+C10598,34,Female,South,35221.36,24.7,5,167.61,34.72,0.26,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10599,53,Male,South,64378.78,111.6,5,410.07,91.01,0.47,Home & Living,4,At-Risk / Churning
+C10600,42,Non-binary,North,69795.01,1.0,10,374.13,38.03,0.73,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10601,32,Male,West,37175.7,79.1,2,41.82,17.69,0.48,Fashion,4,At-Risk / Churning
+C10602,30,Female,North,44543.59,60.3,1,93.88,93.88,0.65,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10603,39,Male,East,61289.38,100.7,3,196.55,77.77,0.32,Groceries,4,At-Risk / Churning
+C10604,26,Male,South,63923.03,43.9,6,89.01,14.04,0.58,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10605,67,Male,West,37037.33,73.5,3,341.98,120.1,0.0,Home & Living,4,At-Risk / Churning
+C10606,26,Male,South,47431.38,41.2,4,147.08,39.57,0.82,Sports,0,Price-Sensitive / Occasional Shoppers
+C10607,45,Male,North,125928.27,11.9,35,2772.57,78.57,0.47,Groceries,2,High-Value Loyalists
+C10608,64,Male,East,77667.03,77.4,4,291.21,67.98,0.49,Home & Living,4,At-Risk / Churning
+C10609,44,Female,East,43201.87,1.0,7,410.84,61.57,0.51,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10610,37,Male,North,67458.57,14.1,10,256.61,24.58,0.78,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10611,54,Male,West,54985.62,71.6,2,307.45,181.77,0.28,Home & Living,4,At-Risk / Churning
+C10612,29,Female,North,40175.27,38.0,5,243.14,44.24,0.76,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10613,25,Male,West,45294.75,23.2,4,93.11,22.21,0.32,Sports,0,Price-Sensitive / Occasional Shoppers
+C10614,20,Male,West,53076.43,11.5,17,885.33,52.13,0.97,Home & Living,3,Young Digital Shoppers
+C10615,18,Non-binary,West,58049.94,67.0,2,201.43,81.53,0.51,Sports,0,Price-Sensitive / Occasional Shoppers
+C10616,54,Female,South,36325.57,43.8,7,170.06,24.34,0.32,Sports,4,At-Risk / Churning
+C10617,28,Female,East,29779.62,1.0,17,869.53,51.13,0.74,Fashion,3,Young Digital Shoppers
+C10618,58,Male,East,90531.44,10.2,21,3636.57,176.46,0.48,Electronics,2,High-Value Loyalists
+C10619,39,Male,West,112094.24,4.1,38,2272.46,59.16,0.79,Electronics,2,High-Value Loyalists
+C10620,43,Male,East,76027.14,122.5,5,203.32,37.78,0.39,Sports,4,At-Risk / Churning
+C10621,33,Female,North,55494.48,1.0,11,647.4,59.86,0.72,Electronics,3,Young Digital Shoppers
+C10622,18,Male,West,61652.31,31.8,8,24.57,3.21,0.83,Fashion,3,Young Digital Shoppers
+C10623,44,Male,East,61465.92,37.9,15,330.92,22.01,0.3,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10624,45,Female,South,52876.08,39.9,3,239.46,70.72,0.65,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10625,29,Male,West,60397.57,19.4,13,351.92,27.16,0.26,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10626,42,Male,West,53993.64,119.6,2,171.44,74.79,0.72,Home & Living,4,At-Risk / Churning
+C10627,46,Male,West,132279.49,8.1,26,2382.57,90.19,0.71,Beauty,2,High-Value Loyalists
+C10628,55,Female,North,68168.39,19.7,6,650.39,101.89,0.43,Sports,0,Price-Sensitive / Occasional Shoppers
+C10629,18,Male,West,35657.69,46.2,3,212.01,65.25,0.51,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10630,34,Female,West,21517.09,57.8,3,274.55,90.15,0.63,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10631,41,Male,West,33615.23,46.7,3,211.46,65.68,0.56,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10632,42,Male,West,85277.24,7.7,29,2768.55,96.12,0.53,Groceries,2,High-Value Loyalists
+C10633,27,Male,East,62065.36,1.0,6,830.21,133.66,0.77,Home & Living,3,Young Digital Shoppers
+C10634,31,Male,East,102193.35,8.1,30,2836.16,94.27,0.76,Fashion,2,High-Value Loyalists
+C10635,48,Female,West,93925.97,6.4,32,2990.58,94.06,0.15,Home & Living,2,High-Value Loyalists
+C10636,72,Female,East,59649.44,52.7,2,261.6,121.06,0.15,Electronics,4,At-Risk / Churning
+C10637,47,Female,South,34100.66,123.7,3,219.52,69.63,0.45,Fashion,4,At-Risk / Churning
+C10638,29,Female,East,81741.74,82.4,5,231.84,43.6,0.32,Home & Living,4,At-Risk / Churning
+C10639,26,Female,West,45015.71,36.8,1,159.23,159.23,0.81,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10640,46,Male,North,39389.69,84.1,5,112.84,22.62,0.28,Beauty,4,At-Risk / Churning
+C10641,22,Male,West,46383.98,16.9,2,48.59,25.14,0.44,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10642,34,Female,West,108671.61,2.9,28,3237.0,114.64,0.9,Fashion,2,High-Value Loyalists
+C10643,36,Female,North,28444.37,2.6,18,824.87,46.3,0.85,Fashion,3,Young Digital Shoppers
+C10644,45,Male,West,80916.61,84.2,1,71.19,68.37,0.3,Beauty,4,At-Risk / Churning
+C10645,39,Male,East,46733.24,37.8,7,140.6,20.43,0.5,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10646,34,Female,West,58584.47,5.2,30,3295.38,109.27,0.73,Sports,2,High-Value Loyalists
+C10647,46,Female,North,75938.59,38.5,15,525.96,35.53,0.46,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10648,38,Male,South,56177.88,26.1,6,229.13,35.55,0.44,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10649,30,Male,North,138152.78,13.4,29,4197.56,143.48,0.37,Sports,2,High-Value Loyalists
+C10650,44,Male,South,59450.47,39.7,5,661.44,141.69,0.39,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10651,35,Female,North,28315.02,46.1,3,70.83,26.49,0.54,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10652,57,Male,East,81648.43,77.2,1,270.65,270.65,0.44,Fashion,1,Infrequent Big Spenders
+C10653,24,Female,South,38867.59,8.8,11,476.08,43.38,0.85,Electronics,3,Young Digital Shoppers
+C10654,26,Female,South,39100.53,37.3,3,313.01,116.93,0.75,Sports,0,Price-Sensitive / Occasional Shoppers
+C10655,32,Male,North,40795.41,9.1,19,1397.47,72.75,0.98,Electronics,3,Young Digital Shoppers
+C10656,29,Female,West,70204.61,36.2,3,138.63,43.48,0.41,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10657,19,Male,East,49526.9,10.6,8,1555.48,188.8,0.85,Electronics,3,Young Digital Shoppers
+C10658,41,Female,West,65963.38,25.2,18,498.35,27.62,0.89,Beauty,3,Young Digital Shoppers
+C10659,23,Male,East,65946.53,6.1,24,743.46,30.59,0.93,Groceries,3,Young Digital Shoppers
+C10660,30,Male,South,22031.08,5.7,21,1017.08,48.31,0.96,Sports,3,Young Digital Shoppers
+C10661,18,Male,South,53840.26,30.0,2,210.29,96.67,0.9,Groceries,3,Young Digital Shoppers
+C10662,30,Female,South,46951.54,3.2,16,1201.36,75.92,0.88,Sports,3,Young Digital Shoppers
+C10663,37,Male,South,100946.98,14.2,20,3168.4,157.27,0.52,Groceries,2,High-Value Loyalists
+C10664,28,Female,South,60378.29,5.3,18,1075.53,58.73,0.91,Beauty,3,Young Digital Shoppers
+C10665,60,Male,North,83335.66,89.7,1,243.94,243.94,0.39,Electronics,1,Infrequent Big Spenders
+C10666,37,Female,North,47489.33,10.3,5,174.91,37.19,0.75,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10667,25,Female,East,45282.38,37.2,4,141.9,39.21,0.58,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10668,42,Male,West,53052.16,1.0,23,676.99,29.16,0.95,Groceries,3,Young Digital Shoppers
+C10669,44,Female,South,65621.85,24.3,9,511.7,55.49,0.74,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10670,43,Female,East,99526.76,8.7,20,3136.95,153.08,0.58,Sports,2,High-Value Loyalists
+C10671,46,Female,East,61283.57,21.7,6,688.61,124.5,0.47,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10672,46,Male,East,65790.66,41.7,4,235.72,62.28,0.66,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10673,51,Male,West,64084.42,100.1,2,359.42,204.02,0.17,Sports,4,At-Risk / Churning
+C10674,49,Male,South,38433.27,13.0,16,334.41,20.87,0.46,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10675,29,Male,West,54450.36,6.3,16,705.51,43.08,0.98,Electronics,3,Young Digital Shoppers
+C10676,27,Male,South,28076.84,37.7,3,94.27,29.75,0.35,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10677,28,Male,East,61110.35,19.3,13,392.56,29.5,0.34,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10678,33,Male,South,111528.19,6.3,34,2414.16,70.23,0.45,Fashion,2,High-Value Loyalists
+C10679,26,Male,South,70052.95,4.8,24,667.35,27.25,0.91,Fashion,3,Young Digital Shoppers
+C10680,30,Female,West,102685.09,12.5,25,2521.73,100.9,0.48,Electronics,2,High-Value Loyalists
+C10681,24,Male,East,68092.31,3.1,26,637.63,24.56,0.89,Electronics,3,Young Digital Shoppers
+C10682,46,Male,East,102581.22,5.3,32,4503.74,142.09,0.62,Sports,2,High-Value Loyalists
+C10683,43,Female,East,37765.37,14.1,20,382.01,19.44,0.35,Sports,0,Price-Sensitive / Occasional Shoppers
+C10684,64,Male,South,60855.35,46.0,4,204.49,50.02,0.66,Home & Living,4,At-Risk / Churning
+C10685,21,Male,South,45681.44,7.6,15,1031.09,70.08,0.86,Sports,3,Young Digital Shoppers
+C10686,31,Female,North,54294.33,14.0,9,402.21,45.81,0.49,Sports,0,Price-Sensitive / Occasional Shoppers
+C10687,23,Male,East,40801.08,22.2,7,181.7,25.03,0.69,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10688,45,Male,North,41259.83,78.1,1,102.08,102.08,0.64,Beauty,4,At-Risk / Churning
+C10689,45,Female,East,45659.84,9.6,16,429.69,27.57,1.0,Electronics,3,Young Digital Shoppers
+C10690,32,Male,East,68360.3,1.9,17,640.11,38.62,0.78,Home & Living,3,Young Digital Shoppers
+C10691,36,Male,South,17139.2,54.3,3,227.92,69.03,0.77,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10692,26,Female,South,50408.48,1.9,20,841.69,42.64,0.77,Beauty,3,Young Digital Shoppers
+C10693,23,Male,West,62825.74,5.8,19,817.81,42.16,0.92,Sports,3,Young Digital Shoppers
+C10694,37,Female,North,24296.36,21.9,4,114.67,31.94,0.44,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10695,37,Female,North,40897.25,20.8,9,583.59,62.99,0.47,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10696,46,Female,West,35287.52,82.3,2,313.47,207.64,0.08,Groceries,1,Infrequent Big Spenders
+C10697,29,Male,West,52248.51,21.8,17,197.8,11.51,0.32,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10698,40,Non-binary,North,15000.0,91.0,5,132.37,28.65,0.26,Sports,4,At-Risk / Churning
+C10699,24,Male,South,38971.98,4.8,13,1014.29,79.98,0.87,Groceries,3,Young Digital Shoppers
+C10700,18,Male,West,53911.1,4.7,18,1264.48,69.6,0.82,Sports,3,Young Digital Shoppers
+C10701,21,Male,West,21764.48,10.3,20,726.44,37.14,0.97,Electronics,3,Young Digital Shoppers
+C10702,31,Male,West,93029.34,13.4,29,4073.2,139.18,0.72,Sports,2,High-Value Loyalists
+C10703,38,Female,South,21746.23,30.1,5,312.26,66.77,0.53,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10704,25,Male,North,60591.22,2.8,20,1083.56,55.28,0.85,Groceries,3,Young Digital Shoppers
+C10705,40,Female,East,57269.66,13.7,8,603.66,71.21,0.63,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10706,40,Female,South,79220.55,81.9,3,20.0,6.18,0.27,Home & Living,4,At-Risk / Churning
+C10707,45,Female,East,56686.88,51.7,3,83.38,32.18,0.0,Sports,4,At-Risk / Churning
+C10708,40,Female,West,44811.05,2.1,15,94.17,6.39,0.39,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10709,18,Male,West,40784.69,12.5,8,565.51,71.51,0.26,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10710,29,Female,South,56866.96,32.4,5,44.74,9.19,0.12,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10711,41,Female,South,89794.45,73.5,4,343.25,89.35,0.69,Fashion,4,At-Risk / Churning
+C10712,46,Male,South,51321.16,41.8,10,209.25,20.45,0.39,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10713,26,Female,South,36194.63,14.1,7,206.9,28.8,0.6,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10714,56,Male,West,62678.69,101.8,5,282.78,62.75,0.31,Beauty,4,At-Risk / Churning
+C10715,28,Male,East,40685.31,2.8,17,802.33,46.56,0.76,Electronics,3,Young Digital Shoppers
+C10716,44,Male,South,15606.52,26.4,9,487.96,55.66,0.5,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10717,54,Male,South,94646.12,13.4,34,3666.93,109.01,0.28,Groceries,2,High-Value Loyalists
+C10718,35,Male,West,36298.52,134.4,1,420.45,387.15,0.37,Fashion,1,Infrequent Big Spenders
+C10719,30,Male,West,28758.9,29.1,6,202.88,34.68,0.35,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10720,46,Female,East,49659.1,8.3,18,417.41,22.7,0.48,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10721,21,Female,West,42498.51,33.3,14,381.75,26.64,0.77,Electronics,3,Young Digital Shoppers
+C10722,44,Non-binary,East,80026.03,8.0,30,2019.12,67.64,0.52,Home & Living,2,High-Value Loyalists
+C10723,27,Female,South,37773.68,49.4,4,341.65,87.31,0.78,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10724,49,Female,South,71020.44,3.9,31,4058.03,132.04,0.22,Groceries,2,High-Value Loyalists
+C10725,18,Female,North,67471.05,7.9,28,3643.24,131.98,0.47,Beauty,2,High-Value Loyalists
+C10726,27,Female,West,38530.02,9.6,16,689.08,43.36,0.84,Groceries,3,Young Digital Shoppers
+C10727,50,Male,North,133569.47,9.0,35,3925.25,110.87,0.46,Groceries,2,High-Value Loyalists
+C10728,23,Female,West,49130.81,13.7,9,307.52,32.75,0.44,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10729,29,Female,North,30728.41,22.4,13,458.48,35.23,0.34,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10730,29,Male,South,57816.33,9.8,16,1303.81,81.7,0.84,Sports,3,Young Digital Shoppers
+C10731,20,Female,South,89565.56,8.5,26,4429.33,173.43,0.38,Home & Living,2,High-Value Loyalists
+C10732,51,Male,North,121604.57,4.5,24,2390.01,101.01,0.75,Home & Living,2,High-Value Loyalists
+C10733,19,Female,West,50047.55,8.2,9,853.61,98.46,1.0,Sports,3,Young Digital Shoppers
+C10734,32,Female,East,89731.92,7.4,22,2521.09,113.13,0.78,Home & Living,2,High-Value Loyalists
+C10735,47,Female,North,71236.89,70.0,4,20.0,4.84,0.44,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10736,29,Male,North,32419.07,1.3,16,1005.86,64.66,0.72,Home & Living,3,Young Digital Shoppers
+C10737,28,Male,South,50684.69,3.8,9,990.02,106.24,0.8,Home & Living,3,Young Digital Shoppers
+C10738,25,Female,North,54648.78,1.0,20,932.03,46.08,0.98,Groceries,3,Young Digital Shoppers
+C10739,36,Female,North,36476.22,45.5,7,410.29,61.37,0.57,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10740,39,Male,South,74913.19,18.8,27,3617.85,135.6,0.5,Sports,2,High-Value Loyalists
+C10741,40,Male,East,87673.86,13.9,21,2796.0,134.3,0.42,Electronics,2,High-Value Loyalists
+C10742,40,Female,South,42808.16,14.3,1,257.38,202.39,0.4,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10743,46,Male,North,78193.93,3.1,32,2759.46,85.46,0.14,Groceries,2,High-Value Loyalists
+C10744,53,Female,East,52234.67,30.0,12,658.11,56.66,0.29,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10745,50,Male,North,45951.45,40.7,19,462.31,23.72,0.61,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10746,32,Female,North,51287.86,5.1,19,234.19,12.29,0.86,Sports,3,Young Digital Shoppers
+C10747,44,Non-binary,South,57536.42,5.0,13,514.41,38.5,0.75,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10748,38,Male,South,63450.14,85.3,3,403.86,159.51,0.13,Fashion,4,At-Risk / Churning
+C10749,18,Female,North,44271.43,32.5,2,258.64,106.57,0.64,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10750,23,Non-binary,North,47915.44,8.8,17,1105.52,65.25,0.81,Home & Living,3,Young Digital Shoppers
+C10751,26,Male,West,66251.44,1.4,12,765.13,65.85,0.77,Electronics,3,Young Digital Shoppers
+C10752,23,Female,West,43356.45,3.6,27,729.35,26.76,0.77,Sports,3,Young Digital Shoppers
+C10753,32,Female,South,63843.78,30.8,9,308.56,34.61,0.65,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10754,18,Female,East,71907.74,78.5,3,23.2,8.67,0.13,Fashion,4,At-Risk / Churning
+C10755,28,Male,South,75235.35,5.9,25,701.01,28.52,0.75,Home & Living,3,Young Digital Shoppers
+C10756,22,Male,West,24548.74,12.9,16,458.71,28.12,0.95,Home & Living,3,Young Digital Shoppers
+C10757,25,Female,South,50172.48,43.9,6,171.92,31.05,0.76,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10758,28,Female,West,105785.13,8.2,26,4094.44,160.45,0.34,Fashion,2,High-Value Loyalists
+C10759,33,Non-binary,South,28660.98,18.6,12,521.43,42.26,0.46,Sports,0,Price-Sensitive / Occasional Shoppers
+C10760,33,Female,South,88540.99,61.6,3,347.53,131.89,0.19,Groceries,4,At-Risk / Churning
+C10761,39,Male,North,106856.97,15.9,27,4410.8,162.09,0.46,Electronics,2,High-Value Loyalists
+C10762,43,Male,North,95132.59,3.7,30,3302.4,109.54,0.54,Electronics,2,High-Value Loyalists
+C10763,43,Female,East,83409.54,21.3,20,2790.68,142.79,0.47,Sports,2,High-Value Loyalists
+C10764,33,Female,East,50004.03,53.5,6,139.41,21.68,0.69,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10765,40,Non-binary,West,64663.31,10.0,18,3303.8,185.39,0.37,Groceries,2,High-Value Loyalists
+C10766,31,Female,West,66716.73,2.9,26,510.35,19.26,0.94,Groceries,3,Young Digital Shoppers
+C10767,50,Male,North,111474.83,9.1,29,3568.81,123.95,0.6,Fashion,2,High-Value Loyalists
+C10768,27,Male,West,92637.08,1.1,30,4349.35,146.64,0.48,Home & Living,2,High-Value Loyalists
+C10769,41,Female,South,67290.31,12.6,1,414.12,395.76,0.55,Home & Living,1,Infrequent Big Spenders
+C10770,28,Male,East,44212.16,6.5,16,1329.05,83.91,1.0,Fashion,3,Young Digital Shoppers
+C10771,40,Male,East,38647.16,32.8,13,469.29,35.62,0.37,Sports,0,Price-Sensitive / Occasional Shoppers
+C10772,53,Female,East,74834.64,27.1,5,449.6,82.16,0.93,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10773,37,Male,East,82202.34,24.0,2,290.17,143.61,0.41,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10774,47,Male,West,103227.17,6.0,35,6018.08,170.53,0.65,Home & Living,2,High-Value Loyalists
+C10775,28,Female,West,36981.0,34.8,8,292.25,38.68,0.62,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10776,25,Female,North,74248.6,110.6,1,144.56,144.56,0.33,Fashion,4,At-Risk / Churning
+C10777,48,Male,West,86570.2,10.7,21,2253.37,105.64,0.66,Electronics,2,High-Value Loyalists
+C10778,37,Female,North,87214.38,46.9,6,444.87,80.84,0.52,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10779,18,Male,South,30574.59,44.7,5,85.54,16.14,0.79,Electronics,3,Young Digital Shoppers
+C10780,31,Female,North,53724.93,9.9,13,913.48,72.7,0.88,Electronics,3,Young Digital Shoppers
+C10781,34,Female,South,42345.84,24.0,6,211.48,34.14,0.45,Sports,0,Price-Sensitive / Occasional Shoppers
+C10782,43,Female,South,49222.68,14.3,17,246.58,14.22,0.64,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10783,33,Male,North,32758.76,74.7,2,159.26,97.95,0.28,Groceries,4,At-Risk / Churning
+C10784,24,Female,South,42604.92,32.1,8,200.9,26.18,0.33,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10785,19,Male,South,69096.66,1.7,22,1010.02,45.28,0.93,Electronics,3,Young Digital Shoppers
+C10786,42,Male,East,35533.51,37.5,1,87.0,61.54,0.66,Sports,0,Price-Sensitive / Occasional Shoppers
+C10787,21,Male,South,63356.26,4.6,13,972.74,72.69,0.81,Beauty,3,Young Digital Shoppers
+C10788,55,Female,North,39901.05,52.8,4,106.05,27.78,0.13,Sports,4,At-Risk / Churning
+C10789,39,Male,North,41925.37,129.4,5,201.08,41.79,0.47,Electronics,4,At-Risk / Churning
+C10790,28,Male,North,46830.49,7.0,19,900.93,46.46,0.86,Fashion,3,Young Digital Shoppers
+C10791,40,Male,South,35499.64,10.0,13,640.75,50.87,0.53,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10792,21,Male,South,34358.14,11.2,20,749.16,37.58,0.87,Sports,3,Young Digital Shoppers
+C10793,43,Male,North,105327.08,4.3,29,3392.1,116.32,0.32,Home & Living,2,High-Value Loyalists
+C10794,42,Female,South,99665.06,14.7,21,2960.49,141.49,0.65,Fashion,2,High-Value Loyalists
+C10795,29,Male,South,61571.25,4.8,14,855.7,60.97,0.94,Groceries,3,Young Digital Shoppers
+C10796,38,Female,North,91762.57,11.6,33,2495.63,75.52,0.66,Sports,2,High-Value Loyalists
+C10797,56,Male,West,87474.66,8.9,32,2588.23,81.8,0.54,Electronics,2,High-Value Loyalists
+C10798,62,Female,South,48028.99,99.2,4,64.42,17.75,0.45,Beauty,4,At-Risk / Churning
+C10799,48,Female,South,34114.4,88.1,5,147.02,30.29,0.23,Beauty,4,At-Risk / Churning
+C10800,74,Male,East,70571.07,102.4,3,20.0,7.37,0.48,Fashion,4,At-Risk / Churning
+C10801,24,Male,East,50856.47,2.9,23,593.49,25.45,1.0,Electronics,3,Young Digital Shoppers
+C10802,30,Male,West,62498.2,33.6,1,315.29,315.29,0.88,Beauty,1,Infrequent Big Spenders
+C10803,18,Female,South,65231.13,4.0,12,293.45,24.16,0.21,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10804,30,Female,East,81368.34,1.0,15,4458.73,299.37,0.86,Sports,2,High-Value Loyalists
+C10805,49,Male,North,85741.0,9.2,28,2801.83,100.34,0.47,Beauty,2,High-Value Loyalists
+C10806,41,Female,East,62547.35,119.6,3,388.77,145.96,0.0,Sports,4,At-Risk / Churning
+C10807,24,Male,South,93268.22,15.3,23,3051.01,131.0,0.6,Home & Living,2,High-Value Loyalists
+C10808,52,Female,North,46959.88,12.6,10,246.13,24.38,0.6,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10809,19,Male,East,56557.53,27.8,6,144.65,22.89,0.78,Beauty,3,Young Digital Shoppers
+C10810,27,Male,North,113158.28,7.6,33,3683.17,112.51,0.43,Beauty,2,High-Value Loyalists
+C10811,50,Male,North,91792.38,13.1,31,3401.58,111.38,0.49,Beauty,2,High-Value Loyalists
+C10812,36,Male,North,45695.4,36.9,7,288.16,38.7,0.67,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10813,41,Female,South,63908.59,27.5,7,566.55,86.32,0.48,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10814,44,Female,East,107758.28,11.8,36,3709.65,101.98,0.35,Home & Living,2,High-Value Loyalists
+C10815,20,Male,South,52572.2,30.8,5,246.91,52.98,0.54,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10816,32,Female,South,24850.1,31.2,5,234.53,43.19,0.49,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10817,42,Male,South,44829.76,23.0,17,450.77,26.5,0.17,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10818,48,Female,East,55473.29,87.4,3,419.6,123.83,0.37,Electronics,4,At-Risk / Churning
+C10819,22,Male,South,26194.96,7.1,29,1087.47,37.15,0.93,Fashion,3,Young Digital Shoppers
+C10820,60,Male,South,121783.06,12.0,28,3346.8,118.64,0.44,Electronics,2,High-Value Loyalists
+C10821,34,Female,South,31427.82,19.6,10,244.07,25.09,0.43,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10822,18,Female,West,24170.41,6.0,19,1071.26,54.99,0.84,Home & Living,3,Young Digital Shoppers
+C10823,68,Female,North,53515.46,83.7,8,232.73,29.27,0.46,Groceries,4,At-Risk / Churning
+C10824,32,Male,West,46505.01,26.4,5,362.58,77.96,0.89,Sports,3,Young Digital Shoppers
+C10825,39,Female,North,112061.3,15.4,23,2861.49,122.42,0.88,Fashion,2,High-Value Loyalists
+C10826,40,Female,East,47723.13,29.4,16,264.75,16.11,0.43,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10827,31,Male,North,61241.44,4.2,20,587.46,29.28,0.81,Groceries,3,Young Digital Shoppers
+C10828,23,Male,North,29024.33,41.8,1,88.96,88.96,0.28,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10829,34,Male,North,68081.21,1.0,20,653.31,31.88,0.78,Fashion,3,Young Digital Shoppers
+C10830,38,Female,West,74100.68,28.9,1,144.66,96.82,0.37,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10831,38,Male,West,59561.83,21.5,10,480.26,48.7,0.67,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10832,20,Male,East,69656.43,1.0,17,664.94,38.5,1.0,Sports,3,Young Digital Shoppers
+C10833,49,Male,East,53431.16,81.7,1,268.0,268.0,0.35,Fashion,1,Infrequent Big Spenders
+C10834,58,Male,South,37968.62,104.2,2,94.14,50.75,0.31,Groceries,4,At-Risk / Churning
+C10835,29,Male,East,66669.92,13.5,12,452.5,38.02,0.63,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10836,70,Male,East,48323.93,39.1,4,213.63,53.43,0.32,Fashion,4,At-Risk / Churning
+C10837,29,Male,North,67046.31,35.5,2,72.37,47.34,0.68,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10838,45,Male,South,46846.09,22.9,12,510.36,43.43,0.62,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10839,33,Female,North,52506.84,27.5,11,646.19,57.07,0.73,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10840,47,Male,North,89122.96,1.2,29,3307.01,112.76,0.65,Fashion,2,High-Value Loyalists
+C10841,51,Male,North,33795.67,70.9,2,342.9,152.09,0.16,Groceries,4,At-Risk / Churning
+C10842,46,Female,South,60978.5,31.7,10,600.38,62.05,0.23,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10843,51,Male,South,43570.01,15.2,10,505.92,49.91,0.4,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10844,52,Female,East,96636.67,4.3,35,2790.35,78.79,0.76,Home & Living,2,High-Value Loyalists
+C10845,53,Female,East,50809.14,30.1,6,243.21,41.14,0.91,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10846,29,Male,South,47724.66,7.1,18,874.7,47.88,0.81,Home & Living,3,Young Digital Shoppers
+C10847,55,Male,West,68643.67,85.2,1,77.78,77.78,0.19,Beauty,4,At-Risk / Churning
+C10848,41,Female,West,55575.76,1.0,28,4579.34,163.63,0.45,Beauty,2,High-Value Loyalists
+C10849,43,Female,West,39810.73,24.6,7,184.1,26.93,0.87,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10850,45,Male,South,97369.33,5.5,28,2890.19,103.26,0.69,Beauty,2,High-Value Loyalists
+C10851,18,Female,West,55415.65,1.4,21,990.97,48.34,0.87,Home & Living,3,Young Digital Shoppers
+C10852,27,Female,North,51376.55,59.6,7,57.32,7.77,0.58,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10853,34,Female,West,47491.42,55.7,6,284.22,44.25,0.74,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10854,25,Male,East,43785.01,10.5,27,725.18,26.54,0.86,Fashion,3,Young Digital Shoppers
+C10855,58,Female,East,57909.33,25.3,18,352.64,19.55,0.48,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10856,57,Male,West,68399.94,78.1,3,366.61,130.97,0.12,Home & Living,4,At-Risk / Churning
+C10857,37,Female,North,19889.06,33.2,2,308.81,184.56,0.42,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10858,18,Male,East,54309.78,1.0,14,777.43,56.26,0.94,Beauty,3,Young Digital Shoppers
+C10859,18,Female,South,57471.94,34.7,16,489.44,30.71,0.26,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10860,33,Male,North,78851.03,74.2,1,473.92,473.92,0.44,Groceries,1,Infrequent Big Spenders
+C10861,47,Female,West,87946.56,107.3,2,188.19,96.1,0.64,Fashion,4,At-Risk / Churning
+C10862,46,Male,South,39333.54,91.5,1,194.7,194.7,0.19,Electronics,4,At-Risk / Churning
+C10863,26,Female,West,74024.51,24.9,18,395.99,21.78,0.39,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10864,48,Female,East,72720.94,11.6,32,4088.53,129.79,0.68,Sports,2,High-Value Loyalists
+C10865,52,Male,West,22099.57,13.6,5,326.25,63.59,0.69,Sports,0,Price-Sensitive / Occasional Shoppers
+C10866,18,Male,South,56706.16,11.8,1,226.26,156.65,0.86,Fashion,3,Young Digital Shoppers
+C10867,45,Male,West,38105.89,99.1,4,385.16,91.14,0.41,Beauty,4,At-Risk / Churning
+C10868,37,Male,South,89696.55,4.5,33,2207.32,66.22,0.4,Fashion,2,High-Value Loyalists
+C10869,18,Female,North,64216.17,11.4,13,193.56,14.74,0.87,Sports,3,Young Digital Shoppers
+C10870,70,Male,South,15441.35,75.8,2,421.33,194.56,0.61,Home & Living,4,At-Risk / Churning
+C10871,46,Female,South,64917.78,1.0,34,3073.93,89.81,0.36,Sports,2,High-Value Loyalists
+C10872,18,Female,East,73283.35,50.1,3,153.44,46.09,0.72,Sports,0,Price-Sensitive / Occasional Shoppers
+C10873,25,Female,West,33977.14,1.5,27,967.77,35.54,0.9,Beauty,3,Young Digital Shoppers
+C10874,50,Female,East,16919.4,90.2,4,439.73,117.79,0.22,Sports,4,At-Risk / Churning
+C10875,38,Male,North,15000.0,28.3,7,180.65,26.37,0.83,Sports,0,Price-Sensitive / Occasional Shoppers
+C10876,26,Male,East,49239.29,1.5,20,606.22,31.08,0.97,Electronics,3,Young Digital Shoppers
+C10877,18,Male,West,27786.43,12.2,14,838.75,60.54,0.93,Groceries,3,Young Digital Shoppers
+C10878,48,Female,North,47447.24,70.7,4,285.94,74.78,0.78,Groceries,4,At-Risk / Churning
+C10879,43,Female,West,41878.26,24.0,14,427.48,31.08,0.98,Home & Living,3,Young Digital Shoppers
+C10880,57,Female,South,31882.43,33.7,7,335.35,47.67,0.61,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10881,49,Female,North,56272.68,106.4,10,318.7,32.28,0.2,Groceries,4,At-Risk / Churning
+C10882,35,Male,East,51780.32,28.1,8,113.81,14.28,0.63,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10883,42,Female,North,66712.78,13.3,15,555.71,37.87,0.8,Fashion,3,Young Digital Shoppers
+C10884,18,Male,West,53904.07,10.2,16,820.94,50.93,0.79,Groceries,3,Young Digital Shoppers
+C10885,22,Male,West,44747.94,4.9,28,831.74,29.32,0.91,Home & Living,3,Young Digital Shoppers
+C10886,18,Male,West,33516.02,6.7,24,414.0,16.98,0.84,Fashion,3,Young Digital Shoppers
+C10887,37,Male,North,94144.69,15.3,31,2667.94,86.77,0.57,Electronics,2,High-Value Loyalists
+C10888,29,Female,East,98152.69,7.4,31,3781.94,120.95,0.62,Electronics,2,High-Value Loyalists
+C10889,30,Male,North,15000.0,83.2,1,315.69,232.65,0.0,Beauty,1,Infrequent Big Spenders
+C10890,28,Female,South,41315.73,5.9,22,1235.84,56.24,0.89,Sports,3,Young Digital Shoppers
+C10891,20,Female,West,42329.0,29.2,4,89.16,23.51,0.28,Sports,0,Price-Sensitive / Occasional Shoppers
+C10892,27,Male,North,60998.19,8.4,17,666.95,39.43,0.89,Fashion,3,Young Digital Shoppers
+C10893,32,Male,East,102608.39,10.4,29,3277.7,112.23,0.8,Beauty,2,High-Value Loyalists
+C10894,62,Male,South,84667.35,77.7,6,325.67,51.51,0.17,Sports,4,At-Risk / Churning
+C10895,20,Male,South,42911.14,38.1,3,392.2,131.4,0.7,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10896,31,Male,East,27987.21,4.2,24,1421.06,58.61,0.82,Beauty,3,Young Digital Shoppers
+C10897,24,Male,East,58516.86,3.8,9,559.67,61.01,0.88,Home & Living,3,Young Digital Shoppers
+C10898,34,Female,South,73981.71,1.8,20,661.88,32.63,0.86,Electronics,3,Young Digital Shoppers
+C10899,27,Male,South,68046.65,1.0,9,413.12,44.76,0.37,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10900,61,Male,East,32074.38,32.9,12,344.44,29.7,0.42,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10901,24,Male,South,38751.93,1.1,15,605.01,40.57,0.85,Fashion,3,Young Digital Shoppers
+C10902,22,Female,North,103448.14,8.0,33,3701.53,112.53,0.53,Fashion,2,High-Value Loyalists
+C10903,18,Female,West,62875.57,19.8,9,385.12,42.55,0.47,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10904,25,Female,South,54446.73,45.1,2,66.53,30.95,0.64,Sports,0,Price-Sensitive / Occasional Shoppers
+C10905,55,Male,East,60834.47,120.4,1,589.3,589.3,0.04,Groceries,1,Infrequent Big Spenders
+C10906,37,Male,South,50967.82,18.0,8,484.9,63.55,0.44,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10907,26,Male,East,91902.03,1.7,20,3569.22,179.36,0.28,Beauty,2,High-Value Loyalists
+C10908,20,Male,North,57172.47,6.0,16,1009.95,64.87,0.75,Home & Living,3,Young Digital Shoppers
+C10909,25,Female,West,60587.75,2.3,22,915.84,41.87,0.8,Sports,3,Young Digital Shoppers
+C10910,48,Male,North,57409.39,81.2,2,77.31,35.55,0.36,Fashion,4,At-Risk / Churning
+C10911,38,Female,North,47784.2,27.0,3,237.22,83.02,0.17,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10912,25,Male,West,77551.86,60.2,5,212.09,39.18,0.28,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10913,32,Female,East,37933.35,48.0,1,186.75,186.75,0.47,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10914,32,Male,West,41814.93,25.1,3,166.09,54.3,0.5,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10915,46,Male,East,51228.6,29.3,4,87.59,20.41,0.56,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10916,37,Female,East,88601.6,5.2,46,2736.17,59.8,0.24,Groceries,2,High-Value Loyalists
+C10917,35,Female,North,118021.09,11.7,27,3017.69,112.34,0.58,Sports,2,High-Value Loyalists
+C10918,25,Female,North,71775.16,7.0,23,1111.97,47.63,0.9,Groceries,3,Young Digital Shoppers
+C10919,40,Male,North,42287.32,23.9,11,373.76,34.83,1.0,Groceries,3,Young Digital Shoppers
+C10920,43,Female,East,141234.58,3.2,24,3187.74,134.75,0.42,Groceries,2,High-Value Loyalists
+C10921,18,Male,West,17897.53,31.6,1,316.64,316.64,0.34,Groceries,1,Infrequent Big Spenders
+C10922,28,Male,North,100799.28,60.0,3,230.71,88.48,0.49,Electronics,4,At-Risk / Churning
+C10923,35,Female,North,62485.43,8.3,19,306.12,16.05,0.5,Sports,0,Price-Sensitive / Occasional Shoppers
+C10924,33,Female,South,87543.37,3.1,32,2651.91,82.43,0.42,Groceries,2,High-Value Loyalists
+C10925,25,Female,North,30803.46,1.4,13,1342.06,106.45,0.92,Sports,3,Young Digital Shoppers
+C10926,34,Female,East,103285.42,6.6,40,4075.25,100.66,0.75,Beauty,2,High-Value Loyalists
+C10927,27,Female,North,69454.14,41.1,5,191.44,42.31,1.0,Electronics,3,Young Digital Shoppers
+C10928,22,Female,North,41469.06,3.5,14,264.26,19.41,0.53,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10929,31,Male,East,52232.86,149.4,5,222.94,48.93,0.23,Sports,4,At-Risk / Churning
+C10930,28,Female,North,36558.63,2.2,21,599.41,28.75,0.94,Fashion,3,Young Digital Shoppers
+C10931,18,Male,West,56320.34,5.0,28,1271.39,45.0,0.8,Groceries,3,Young Digital Shoppers
+C10932,58,Female,North,51855.59,29.3,10,393.05,39.86,0.49,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10933,69,Male,West,54143.69,73.6,1,348.82,348.82,0.37,Beauty,1,Infrequent Big Spenders
+C10934,43,Male,South,69263.22,101.0,3,392.85,154.79,0.33,Fashion,4,At-Risk / Churning
+C10935,27,Female,North,29493.81,1.9,9,897.46,100.76,1.0,Groceries,3,Young Digital Shoppers
+C10936,35,Female,East,33521.82,25.6,4,123.04,30.75,0.54,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10937,34,Male,South,86647.92,11.0,35,5091.38,146.06,0.48,Fashion,2,High-Value Loyalists
+C10938,29,Female,East,38774.43,1.0,4,163.59,38.52,0.9,Sports,3,Young Digital Shoppers
+C10939,23,Female,West,73203.48,11.2,27,3845.76,145.04,0.25,Electronics,2,High-Value Loyalists
+C10940,29,Male,North,55707.03,12.2,17,1350.52,78.7,0.8,Electronics,3,Young Digital Shoppers
+C10941,36,Female,North,46519.7,51.1,4,185.04,47.68,0.75,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10942,41,Female,South,87668.35,7.6,38,2889.89,76.93,0.48,Electronics,2,High-Value Loyalists
+C10943,47,Female,East,53515.05,29.6,14,586.94,42.15,0.7,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10944,45,Female,East,62927.74,35.7,16,711.82,44.14,0.62,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10945,23,Female,South,50538.12,6.2,21,920.8,43.11,0.95,Electronics,3,Young Digital Shoppers
+C10946,72,Female,South,74639.23,127.1,3,260.4,78.01,0.46,Sports,4,At-Risk / Churning
+C10947,19,Female,East,52925.66,35.2,3,129.0,39.34,0.75,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10948,18,Female,East,59317.65,14.4,5,325.52,63.89,0.97,Sports,3,Young Digital Shoppers
+C10949,18,Male,South,42427.97,9.4,17,1321.93,76.35,0.88,Beauty,3,Young Digital Shoppers
+C10950,31,Male,West,55796.33,12.3,15,517.98,34.97,0.72,Beauty,3,Young Digital Shoppers
+C10951,40,Male,West,63194.51,3.8,21,1168.28,55.31,0.77,Sports,3,Young Digital Shoppers
+C10952,26,Female,East,61734.48,3.0,10,1046.89,100.04,0.72,Beauty,3,Young Digital Shoppers
+C10953,51,Male,West,106166.32,20.1,24,3478.69,142.16,0.48,Electronics,2,High-Value Loyalists
+C10954,25,Male,South,66106.9,43.9,4,228.82,58.15,0.7,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10955,27,Female,North,19752.83,47.6,2,160.41,104.87,0.78,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10956,53,Male,North,61040.32,118.6,1,20.0,14.75,0.51,Electronics,4,At-Risk / Churning
+C10957,51,Female,North,34314.46,43.4,8,433.05,56.62,0.26,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10958,69,Male,West,45065.28,15.1,15,692.14,46.53,0.73,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10959,47,Male,West,29107.37,12.0,11,486.75,44.3,0.45,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10960,24,Female,South,75791.15,12.0,18,723.33,40.3,0.6,Electronics,3,Young Digital Shoppers
+C10961,50,Male,East,64943.14,7.8,10,39.55,4.02,0.58,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10962,37,Male,North,104382.97,6.9,29,2396.92,81.39,0.64,Beauty,2,High-Value Loyalists
+C10963,40,Male,East,99901.43,4.8,39,3312.42,84.26,0.58,Fashion,2,High-Value Loyalists
+C10964,35,Male,North,56039.76,7.6,1,173.15,173.15,0.61,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10965,24,Male,South,51849.58,6.6,13,138.26,11.02,0.57,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10966,33,Male,North,20315.1,24.9,1,27.47,27.47,0.67,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10967,41,Female,West,90078.98,2.6,25,2275.06,89.71,0.42,Groceries,2,High-Value Loyalists
+C10968,23,Female,South,50248.62,5.8,9,367.94,38.94,0.67,Sports,3,Young Digital Shoppers
+C10969,18,Male,North,40174.77,4.5,19,1117.68,57.7,0.86,Beauty,3,Young Digital Shoppers
+C10970,22,Male,East,56965.48,11.3,18,643.01,35.6,0.88,Groceries,3,Young Digital Shoppers
+C10971,47,Male,North,103956.41,6.3,18,3519.46,194.71,0.43,Sports,2,High-Value Loyalists
+C10972,42,Male,West,104261.59,11.2,29,1815.97,63.26,0.74,Groceries,2,High-Value Loyalists
+C10973,33,Female,West,55196.76,27.7,6,20.0,3.54,0.44,Fashion,0,Price-Sensitive / Occasional Shoppers
+C10974,36,Female,East,50815.09,3.4,18,1092.0,61.03,0.75,Fashion,3,Young Digital Shoppers
+C10975,38,Female,West,60263.87,92.1,2,270.78,154.73,0.47,Sports,4,At-Risk / Churning
+C10976,54,Female,West,44311.68,6.8,12,581.43,48.45,0.57,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10977,51,Female,East,34722.36,17.6,9,315.34,33.37,0.55,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10978,19,Male,South,55673.44,14.9,18,702.68,38.29,0.9,Fashion,3,Young Digital Shoppers
+C10979,29,Male,South,43747.22,11.1,19,988.43,52.02,0.76,Groceries,3,Young Digital Shoppers
+C10980,33,Male,South,47714.05,34.3,6,162.1,29.09,0.36,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10981,20,Female,East,49249.99,33.6,1,145.47,145.47,0.88,Electronics,3,Young Digital Shoppers
+C10982,58,Female,West,80435.02,15.7,6,349.1,53.98,0.84,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10983,34,Female,East,61151.3,30.7,11,383.89,36.04,0.6,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C10984,53,Female,West,114511.39,7.2,15,3096.26,204.22,0.44,Electronics,2,High-Value Loyalists
+C10985,20,Male,South,25789.24,53.3,2,180.03,87.36,0.84,Groceries,0,Price-Sensitive / Occasional Shoppers
+C10986,29,Female,South,64477.06,7.7,10,791.44,80.64,0.94,Beauty,3,Young Digital Shoppers
+C10987,42,Female,South,115245.4,7.1,29,3829.39,131.79,0.33,Electronics,2,High-Value Loyalists
+C10988,33,Male,North,29088.92,1.0,23,1209.74,52.95,0.86,Groceries,3,Young Digital Shoppers
+C10989,38,Female,West,63794.52,107.6,1,232.29,232.29,0.3,Sports,1,Infrequent Big Spenders
+C10990,64,Female,East,49214.85,77.7,1,160.09,160.09,0.45,Groceries,4,At-Risk / Churning
+C10991,75,Male,North,45042.82,44.5,1,161.49,161.49,0.16,Home & Living,4,At-Risk / Churning
+C10992,54,Female,South,102825.44,76.1,1,407.44,407.44,0.0,Sports,1,Infrequent Big Spenders
+C10993,25,Female,South,33830.52,6.0,24,955.99,39.8,0.81,Beauty,3,Young Digital Shoppers
+C10994,34,Male,North,32992.39,1.8,5,99.21,20.5,0.79,Beauty,0,Price-Sensitive / Occasional Shoppers
+C10995,63,Male,North,62486.42,21.4,12,157.33,12.65,0.28,Sports,0,Price-Sensitive / Occasional Shoppers
+C10996,53,Male,South,62702.3,46.2,3,510.93,199.47,0.38,Fashion,1,Infrequent Big Spenders
+C10997,41,Male,East,63378.79,3.4,20,3107.78,152.83,0.58,Electronics,2,High-Value Loyalists
+C10998,41,Non-binary,West,39642.09,80.7,3,98.7,34.38,0.44,Electronics,0,Price-Sensitive / Occasional Shoppers
+C10999,18,Female,South,49940.05,1.0,17,1131.36,66.19,1.0,Home & Living,3,Young Digital Shoppers
+C11000,34,Male,South,82130.48,12.1,25,4774.52,190.43,0.61,Groceries,2,High-Value Loyalists
+C11001,33,Male,North,40774.14,28.0,4,218.86,49.24,0.38,Sports,0,Price-Sensitive / Occasional Shoppers
+C11002,46,Female,West,93507.99,12.0,21,1908.74,90.32,0.62,Beauty,2,High-Value Loyalists
+C11003,44,Male,West,111880.25,12.2,29,2890.59,99.09,0.57,Beauty,2,High-Value Loyalists
+C11004,50,Female,North,69004.9,67.4,5,366.44,72.7,0.5,Electronics,4,At-Risk / Churning
+C11005,27,Female,North,46624.65,9.6,14,734.61,50.74,0.88,Fashion,3,Young Digital Shoppers
+C11006,26,Male,South,30556.29,27.9,4,183.54,51.36,0.58,Fashion,0,Price-Sensitive / Occasional Shoppers
+C11007,22,Female,East,60977.69,1.0,18,809.33,45.03,0.91,Fashion,3,Young Digital Shoppers
+C11008,61,Male,East,66643.7,55.4,2,384.05,189.65,0.11,Fashion,4,At-Risk / Churning
+C11009,67,Female,North,46221.76,24.5,8,499.16,62.91,0.67,Sports,0,Price-Sensitive / Occasional Shoppers
+C11010,33,Female,East,80735.91,71.1,1,507.15,507.15,0.19,Sports,1,Infrequent Big Spenders
+C11011,36,Male,West,34805.58,3.7,10,474.42,45.91,0.56,Sports,0,Price-Sensitive / Occasional Shoppers
+C11012,43,Female,East,54259.68,39.7,11,278.6,25.26,0.49,Fashion,0,Price-Sensitive / Occasional Shoppers
+C11013,18,Female,East,20463.85,38.9,7,187.14,27.66,0.81,Fashion,3,Young Digital Shoppers
+C11014,26,Female,South,62484.87,8.1,23,811.24,35.67,0.86,Electronics,3,Young Digital Shoppers
+C11015,20,Male,South,95549.69,7.6,20,3670.24,185.64,0.44,Home & Living,2,High-Value Loyalists
+C11016,55,Male,East,67615.54,80.9,7,372.3,53.2,0.2,Groceries,4,At-Risk / Churning
+C11017,18,Female,South,51428.79,31.0,5,219.76,43.42,0.53,Sports,0,Price-Sensitive / Occasional Shoppers
+C11018,37,Female,South,115357.54,6.6,36,4448.44,122.77,0.44,Sports,2,High-Value Loyalists
+C11019,28,Female,South,43757.95,15.9,16,443.99,27.43,0.76,Groceries,3,Young Digital Shoppers
+C11020,36,Female,West,57306.38,50.0,3,195.77,56.31,0.77,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11021,44,Male,North,73244.14,116.5,1,176.37,176.37,0.28,Fashion,4,At-Risk / Churning
+C11022,18,Male,South,52251.11,32.6,3,156.64,58.19,0.88,Home & Living,3,Young Digital Shoppers
+C11023,38,Female,South,61376.56,24.0,11,367.76,33.87,0.67,Sports,0,Price-Sensitive / Occasional Shoppers
+C11024,64,Female,North,52841.29,66.1,3,376.36,141.42,0.46,Fashion,4,At-Risk / Churning
+C11025,23,Male,North,39503.58,7.6,19,537.35,28.91,0.95,Sports,3,Young Digital Shoppers
+C11026,29,Female,West,34500.33,20.4,3,339.35,112.13,0.68,Fashion,0,Price-Sensitive / Occasional Shoppers
+C11027,23,Female,West,40395.74,5.1,8,922.5,120.76,0.96,Sports,3,Young Digital Shoppers
+C11028,36,Female,North,62914.43,54.5,6,266.09,41.81,0.33,Fashion,4,At-Risk / Churning
+C11029,29,Male,North,32812.97,13.9,20,514.95,26.08,0.55,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11030,20,Male,North,44175.58,39.5,19,352.31,18.95,0.37,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11031,58,Male,East,78214.15,80.1,4,161.91,39.37,0.46,Sports,4,At-Risk / Churning
+C11032,38,Female,North,63123.56,4.3,7,379.49,56.3,0.21,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11033,32,Female,South,60441.44,39.5,3,192.03,65.57,0.8,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11034,19,Female,West,47430.22,1.0,18,509.54,28.03,0.37,Fashion,0,Price-Sensitive / Occasional Shoppers
+C11035,34,Female,South,44681.08,87.9,4,426.97,100.66,0.56,Home & Living,4,At-Risk / Churning
+C11036,18,Male,East,39946.43,2.8,16,662.19,41.8,0.84,Home & Living,3,Young Digital Shoppers
+C11037,23,Male,North,40919.75,27.7,10,311.38,30.59,0.64,Sports,0,Price-Sensitive / Occasional Shoppers
+C11038,40,Male,East,48734.25,17.6,9,558.75,62.43,0.55,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11039,37,Male,East,113725.87,10.3,44,3417.07,78.34,0.65,Groceries,2,High-Value Loyalists
+C11040,44,Non-binary,North,104381.16,13.8,30,2875.98,96.34,0.5,Groceries,2,High-Value Loyalists
+C11041,60,Female,South,65531.02,92.6,3,149.71,54.14,0.16,Home & Living,4,At-Risk / Churning
+C11042,66,Male,West,51783.06,95.6,3,97.99,31.71,0.31,Groceries,4,At-Risk / Churning
+C11043,45,Male,East,102230.59,39.1,4,224.53,56.09,0.22,Fashion,4,At-Risk / Churning
+C11044,43,Male,South,114669.34,14.3,33,2817.67,85.65,0.62,Fashion,2,High-Value Loyalists
+C11045,18,Female,South,48838.27,7.2,13,1263.81,96.54,0.89,Fashion,3,Young Digital Shoppers
+C11046,28,Female,West,56041.33,3.8,12,980.09,83.13,0.8,Home & Living,3,Young Digital Shoppers
+C11047,20,Male,South,62695.91,120.7,1,237.71,194.94,0.27,Groceries,1,Infrequent Big Spenders
+C11048,29,Male,North,52739.91,31.8,2,272.72,136.39,0.8,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11049,28,Female,South,51306.87,9.2,17,672.58,38.72,0.95,Beauty,3,Young Digital Shoppers
+C11050,40,Female,West,80187.93,67.1,5,20.0,4.32,0.24,Sports,4,At-Risk / Churning
+C11051,48,Male,West,114024.77,4.4,26,3299.14,128.08,0.33,Home & Living,2,High-Value Loyalists
+C11052,25,Male,West,49356.87,8.3,23,783.08,34.25,1.0,Electronics,3,Young Digital Shoppers
+C11053,32,Male,South,89121.13,8.3,17,3546.29,203.94,0.74,Electronics,2,High-Value Loyalists
+C11054,27,Female,North,46160.36,7.8,22,1277.57,58.05,0.79,Beauty,3,Young Digital Shoppers
+C11055,59,Male,East,79462.52,120.0,4,244.6,63.51,0.3,Fashion,4,At-Risk / Churning
+C11056,36,Female,East,55184.95,16.3,2,319.23,148.25,0.71,Sports,0,Price-Sensitive / Occasional Shoppers
+C11057,30,Male,West,30407.02,12.5,24,904.26,37.94,0.78,Fashion,3,Young Digital Shoppers
+C11058,35,Female,North,95766.42,20.2,8,268.73,33.46,0.85,Groceries,3,Young Digital Shoppers
+C11059,64,Female,South,43033.59,89.1,4,453.54,126.9,0.41,Home & Living,4,At-Risk / Churning
+C11060,18,Male,South,57470.12,29.4,3,254.79,73.27,0.93,Beauty,3,Young Digital Shoppers
+C11061,51,Male,West,64807.78,52.9,5,20.0,4.07,0.23,Beauty,4,At-Risk / Churning
+C11062,35,Female,North,61248.29,3.3,17,566.9,34.04,0.94,Fashion,3,Young Digital Shoppers
+C11063,53,Male,South,79262.82,83.2,2,538.08,238.65,0.35,Sports,1,Infrequent Big Spenders
+C11064,18,Female,North,42455.19,1.2,16,1325.14,82.95,0.83,Home & Living,3,Young Digital Shoppers
+C11065,40,Male,South,52966.29,36.7,6,345.59,62.83,0.52,Sports,0,Price-Sensitive / Occasional Shoppers
+C11066,31,Male,West,41555.56,1.0,16,1114.36,71.31,0.87,Beauty,3,Young Digital Shoppers
+C11067,52,Female,West,71729.27,89.0,4,324.2,80.07,0.16,Fashion,4,At-Risk / Churning
+C11068,45,Female,South,77625.49,3.9,25,3332.62,131.26,0.53,Electronics,2,High-Value Loyalists
+C11069,18,Male,East,50155.05,43.2,18,273.27,15.03,0.53,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C11070,28,Male,South,42263.11,38.8,5,149.68,28.1,0.66,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11071,56,Female,East,53241.84,38.2,3,85.17,29.63,0.68,Sports,0,Price-Sensitive / Occasional Shoppers
+C11072,27,Male,West,53064.66,25.5,11,474.17,41.37,0.23,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11073,40,Female,East,55032.13,40.2,5,241.96,45.79,0.95,Sports,0,Price-Sensitive / Occasional Shoppers
+C11074,26,Male,South,24970.99,42.4,4,71.32,19.88,0.75,Fashion,0,Price-Sensitive / Occasional Shoppers
+C11075,18,Female,East,43196.56,13.4,17,976.98,56.28,0.94,Electronics,3,Young Digital Shoppers
+C11076,58,Male,South,34699.63,16.2,7,264.84,36.35,0.73,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11077,31,Female,South,45366.76,7.4,10,366.12,36.74,0.35,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C11078,46,Female,West,103172.47,138.0,1,131.98,131.98,0.14,Beauty,4,At-Risk / Churning
+C11079,35,Non-binary,North,47874.42,8.8,22,773.53,35.81,0.96,Groceries,3,Young Digital Shoppers
+C11080,23,Male,South,34938.15,2.3,17,220.6,13.08,0.86,Electronics,3,Young Digital Shoppers
+C11081,23,Male,North,38121.74,31.5,7,105.99,15.2,0.51,Fashion,0,Price-Sensitive / Occasional Shoppers
+C11082,33,Female,South,64241.43,50.6,9,173.35,19.71,0.6,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11083,37,Female,North,27913.14,40.3,4,192.51,43.65,0.51,Sports,0,Price-Sensitive / Occasional Shoppers
+C11084,38,Female,North,15000.0,45.0,1,132.75,132.75,0.39,Sports,0,Price-Sensitive / Occasional Shoppers
+C11085,43,Female,South,49732.62,124.5,4,95.19,24.64,0.26,Groceries,4,At-Risk / Churning
+C11086,44,Female,South,55297.82,71.6,1,165.13,165.13,0.63,Electronics,4,At-Risk / Churning
+C11087,75,Female,West,60177.5,112.3,2,223.68,124.02,0.35,Fashion,4,At-Risk / Churning
+C11088,29,Male,South,52001.25,27.1,8,584.31,75.86,0.51,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11089,42,Male,North,76434.83,25.7,16,238.63,15.39,0.47,Sports,0,Price-Sensitive / Occasional Shoppers
+C11090,29,Male,South,51296.68,4.7,14,1482.61,105.39,0.93,Beauty,3,Young Digital Shoppers
+C11091,50,Female,South,67997.51,103.4,1,54.68,38.1,0.37,Fashion,4,At-Risk / Churning
+C11092,28,Female,North,71791.16,1.0,30,880.08,28.98,0.91,Beauty,3,Young Digital Shoppers
+C11093,25,Female,West,24751.38,6.3,23,879.12,37.85,0.97,Electronics,3,Young Digital Shoppers
+C11094,38,Female,North,52696.43,21.0,11,25.48,2.26,0.46,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11095,47,Female,West,48661.46,9.9,8,711.4,85.0,0.36,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11096,34,Female,East,60460.18,10.8,19,327.11,16.98,0.88,Beauty,3,Young Digital Shoppers
+C11097,29,Female,North,30538.23,20.0,8,348.69,45.42,0.65,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11098,48,Female,East,22061.54,42.0,5,227.48,44.8,0.98,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11099,42,Female,South,83621.92,9.4,32,3351.85,104.65,0.42,Fashion,2,High-Value Loyalists
+C11100,44,Female,North,102526.02,12.9,23,2795.76,122.33,0.78,Home & Living,2,High-Value Loyalists
+C11101,31,Male,West,62061.7,10.5,19,688.27,35.97,1.0,Sports,3,Young Digital Shoppers
+C11102,41,Male,West,88214.07,122.0,1,341.45,295.1,0.51,Groceries,1,Infrequent Big Spenders
+C11103,31,Male,South,26379.54,33.2,4,84.7,21.15,0.71,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11104,40,Female,West,94918.22,9.1,35,3390.36,97.82,0.34,Electronics,2,High-Value Loyalists
+C11105,64,Male,East,95493.71,88.3,5,56.38,12.45,0.44,Sports,4,At-Risk / Churning
+C11106,44,Male,East,79451.36,10.0,25,2527.48,101.52,0.87,Home & Living,2,High-Value Loyalists
+C11107,24,Male,South,66509.78,7.2,4,1676.28,467.45,0.89,Fashion,1,Infrequent Big Spenders
+C11108,38,Male,North,38644.15,16.6,5,308.85,67.72,0.52,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11109,23,Female,West,43522.27,5.7,11,788.2,70.81,0.9,Electronics,3,Young Digital Shoppers
+C11110,55,Male,South,111463.74,7.3,24,3212.51,132.41,0.64,Beauty,2,High-Value Loyalists
+C11111,46,Male,North,69652.22,28.8,11,294.92,27.13,0.33,Fashion,0,Price-Sensitive / Occasional Shoppers
+C11112,29,Female,South,49920.1,91.1,1,320.75,267.15,0.29,Electronics,1,Infrequent Big Spenders
+C11113,22,Male,East,41360.81,42.0,2,30.8,12.44,0.34,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11114,47,Female,West,24321.02,30.8,8,216.73,26.22,0.58,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11115,37,Male,North,81363.01,1.1,29,2216.02,77.43,0.48,Beauty,2,High-Value Loyalists
+C11116,45,Male,West,66126.34,8.7,21,2902.05,139.65,0.88,Electronics,2,High-Value Loyalists
+C11117,36,Female,South,83304.33,46.7,3,71.31,28.39,0.4,Groceries,4,At-Risk / Churning
+C11118,23,Female,North,51922.22,9.3,12,725.48,62.63,0.88,Fashion,3,Young Digital Shoppers
+C11119,27,Male,South,31911.06,39.9,3,155.34,45.61,0.63,Sports,0,Price-Sensitive / Occasional Shoppers
+C11120,53,Female,North,15000.0,69.9,1,428.46,428.46,0.26,Home & Living,1,Infrequent Big Spenders
+C11121,38,Female,East,96747.99,5.9,25,2492.89,98.05,0.38,Home & Living,2,High-Value Loyalists
+C11122,38,Male,East,56460.71,49.6,5,237.34,51.6,1.0,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11123,57,Female,North,126838.17,3.4,24,2973.21,125.79,0.73,Groceries,2,High-Value Loyalists
+C11124,41,Non-binary,South,58361.79,17.9,13,192.87,14.99,0.33,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11125,33,Female,South,47762.34,14.5,7,146.7,20.91,0.53,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11126,34,Non-binary,East,45545.66,1.0,14,235.04,17.12,0.51,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C11127,54,Male,West,82600.8,93.3,4,20.0,5.27,0.29,Electronics,4,At-Risk / Churning
+C11128,51,Female,East,64515.15,113.9,3,375.89,137.56,0.01,Home & Living,4,At-Risk / Churning
+C11129,26,Female,West,55105.0,48.5,3,129.28,48.87,0.63,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11130,34,Female,West,65030.74,31.2,3,168.39,52.33,0.45,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11131,43,Female,South,72013.87,3.7,19,184.13,9.9,0.26,Fashion,0,Price-Sensitive / Occasional Shoppers
+C11132,39,Non-binary,East,80732.71,1.1,35,3759.05,108.03,0.75,Fashion,2,High-Value Loyalists
+C11133,54,Male,West,52605.66,71.0,1,392.66,392.66,0.44,Groceries,1,Infrequent Big Spenders
+C11134,18,Female,West,43052.58,1.0,1,150.99,150.99,1.0,Home & Living,3,Young Digital Shoppers
+C11135,34,Male,West,50426.07,8.8,17,796.81,46.03,0.89,Electronics,3,Young Digital Shoppers
+C11136,47,Female,West,52550.38,17.9,4,273.03,61.66,0.74,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11137,37,Female,South,32789.87,21.0,12,468.09,37.5,0.32,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11138,39,Female,South,129262.42,3.2,34,2391.72,69.36,0.65,Fashion,2,High-Value Loyalists
+C11139,22,Female,East,47697.73,98.2,1,273.57,273.57,0.05,Beauty,1,Infrequent Big Spenders
+C11140,23,Male,North,33715.61,3.4,14,555.82,38.79,0.97,Beauty,3,Young Digital Shoppers
+C11141,59,Male,North,44772.83,122.4,1,330.48,256.85,0.56,Beauty,1,Infrequent Big Spenders
+C11142,42,Female,North,32930.83,49.6,3,192.73,61.39,0.37,Fashion,0,Price-Sensitive / Occasional Shoppers
+C11143,31,Female,North,51939.75,27.6,2,196.45,91.82,0.44,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11144,34,Female,West,58470.46,19.2,4,260.79,59.71,0.71,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C11145,23,Male,South,37506.0,1.4,24,360.35,15.01,0.81,Beauty,3,Young Digital Shoppers
+C11146,37,Male,South,90587.07,51.1,4,328.29,92.98,0.17,Groceries,4,At-Risk / Churning
+C11147,18,Male,East,50024.64,28.8,6,176.04,27.95,0.9,Electronics,3,Young Digital Shoppers
+C11148,46,Male,West,58606.74,1.0,7,627.62,88.77,0.25,Fashion,0,Price-Sensitive / Occasional Shoppers
+C11149,18,Female,West,36466.31,66.2,2,108.52,47.73,0.45,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11150,54,Female,North,105430.89,3.4,21,4010.72,194.14,0.55,Sports,2,High-Value Loyalists
+C11151,34,Non-binary,South,28259.42,16.4,1,81.04,81.04,0.47,Fashion,0,Price-Sensitive / Occasional Shoppers
+C11152,40,Female,East,104166.6,6.8,30,3396.43,111.72,0.57,Beauty,2,High-Value Loyalists
+C11153,45,Female,West,80748.74,10.2,20,2424.55,122.77,0.6,Home & Living,2,High-Value Loyalists
+C11154,42,Female,East,54414.95,15.0,14,573.73,40.26,0.49,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C11155,42,Female,North,103716.07,7.5,23,3464.58,150.12,0.54,Sports,2,High-Value Loyalists
+C11156,48,Female,North,100541.59,14.5,25,3332.07,134.07,0.54,Groceries,2,High-Value Loyalists
+C11157,45,Female,North,118134.03,7.9,26,3752.51,146.99,0.43,Home & Living,2,High-Value Loyalists
+C11158,42,Male,East,45189.05,21.1,13,335.98,26.83,0.77,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11159,49,Female,West,38117.94,64.2,6,515.5,86.27,0.55,Groceries,4,At-Risk / Churning
+C11160,44,Male,North,104717.54,11.7,24,3712.37,157.64,0.77,Groceries,2,High-Value Loyalists
+C11161,39,Female,South,33663.63,113.7,2,262.58,125.15,0.23,Fashion,4,At-Risk / Churning
+C11162,19,Male,East,39796.05,43.6,4,189.82,43.36,0.69,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11163,33,Female,North,140969.31,6.6,29,3596.53,123.08,0.49,Home & Living,2,High-Value Loyalists
+C11164,45,Male,West,65314.01,16.8,33,3647.39,111.34,0.29,Sports,2,High-Value Loyalists
+C11165,38,Female,West,60606.57,52.9,6,227.25,37.41,0.48,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11166,18,Female,East,59635.84,34.1,4,178.61,42.51,0.42,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11167,32,Female,North,36861.71,25.8,14,225.95,16.56,0.44,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11168,32,Male,East,61393.31,39.4,3,186.01,59.29,0.67,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11169,51,Female,North,76204.6,6.5,27,2390.44,89.7,0.27,Beauty,2,High-Value Loyalists
+C11170,26,Male,West,61954.28,9.4,18,397.88,21.66,0.94,Sports,3,Young Digital Shoppers
+C11171,37,Female,South,15000.0,58.7,4,263.77,66.41,0.11,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11172,28,Male,North,43062.88,3.5,15,1028.94,67.65,0.88,Sports,3,Young Digital Shoppers
+C11173,34,Female,West,45392.4,75.1,7,71.16,9.98,0.27,Home & Living,4,At-Risk / Churning
+C11174,34,Female,North,48716.42,28.1,18,631.12,34.6,0.47,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11175,36,Male,West,78731.88,90.2,3,82.04,28.19,0.36,Fashion,4,At-Risk / Churning
+C11176,41,Female,North,78317.9,25.7,17,516.78,30.77,0.73,Electronics,0,Price-Sensitive / Occasional Shoppers
+C11177,29,Female,East,47955.86,6.9,18,771.12,43.43,1.0,Fashion,3,Young Digital Shoppers
+C11178,18,Female,North,38030.64,3.3,22,839.89,38.49,0.87,Electronics,3,Young Digital Shoppers
+C11179,28,Female,South,41512.49,3.4,29,374.98,13.13,0.9,Sports,3,Young Digital Shoppers
+C11180,35,Female,West,60708.83,20.8,2,247.36,104.41,0.08,Sports,4,At-Risk / Churning
+C11181,36,Female,South,93531.81,14.5,43,3721.95,86.88,0.71,Home & Living,2,High-Value Loyalists
+C11182,49,Male,East,97591.77,9.8,17,3404.48,199.42,0.32,Fashion,2,High-Value Loyalists
+C11183,41,Male,West,97491.82,8.9,23,3829.08,169.61,0.54,Beauty,2,High-Value Loyalists
+C11184,51,Female,East,112463.2,4.0,25,2507.92,101.43,0.45,Beauty,2,High-Value Loyalists
+C11185,23,Female,West,43640.91,31.7,6,124.96,20.45,0.53,Sports,0,Price-Sensitive / Occasional Shoppers
+C11186,25,Female,East,48657.72,11.1,26,456.13,17.78,0.93,Fashion,3,Young Digital Shoppers
+C11187,18,Male,West,66939.64,42.7,2,127.31,56.09,0.31,Sports,0,Price-Sensitive / Occasional Shoppers
+C11188,48,Male,West,117982.35,7.9,26,3504.49,133.93,0.55,Sports,2,High-Value Loyalists
+C11189,51,Female,South,60186.73,90.3,1,353.13,353.13,0.35,Home & Living,1,Infrequent Big Spenders
+C11190,69,Female,West,54717.28,19.3,7,649.24,92.06,0.27,Home & Living,4,At-Risk / Churning
+C11191,18,Female,North,64117.53,4.9,13,1325.81,102.58,0.84,Home & Living,3,Young Digital Shoppers
+C11192,18,Female,East,55430.35,33.5,3,170.18,50.92,0.33,Home & Living,0,Price-Sensitive / Occasional Shoppers
+C11193,32,Male,North,61110.56,22.7,7,265.22,38.42,0.56,Beauty,0,Price-Sensitive / Occasional Shoppers
+C11194,23,Male,East,62990.35,24.8,2,201.03,91.43,0.51,Groceries,0,Price-Sensitive / Occasional Shoppers
+C11195,26,Male,West,50461.76,1.0,21,997.98,47.62,0.95,Fashion,3,Young Digital Shoppers
+C11196,24,Male,North,50965.89,4.8,21,837.05,39.28,1.0,Groceries,3,Young Digital Shoppers
+C11197,27,Female,North,31572.45,77.0,3,232.25,75.35,0.02,Home & Living,4,At-Risk / Churning
+C11198,31,Male,West,50713.44,2.6,19,1581.68,81.69,0.85,Fashion,3,Young Digital Shoppers
+C11199,36,Male,East,54770.31,72.5,3,414.52,132.04,0.19,Beauty,4,At-Risk / Churning
