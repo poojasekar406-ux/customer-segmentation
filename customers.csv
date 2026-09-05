@@ -1,0 +1,1201 @@
+customer_id,age,gender,region,annual_income,membership_years,recency_days,frequency_last_year,monetary_last_year,avg_basket_value,online_purchase_ratio,preferred_category,_true_segment
+C10000,35,Female,East,42783.17,1.63,146.4,7,202.36,30.64,0.28,Fashion,At-Risk / Churning
+C10001,27,Female,South,50812.09,3.75,4.0,8,442.29,55.62,0.57,Beauty,Bargain Hunter
+C10002,22,Male,North,54492.87,0.91,34.8,1,151.54,121.5,0.72,Home & Living,New / Occasional Shopper
+C10003,61,Female,West,54866.92,2.18,103.8,7,534.47,77.82,0.1,Electronics,At-Risk / Churning
+C10004,30,Female,East,86248.51,4.08,10.1,27,2744.61,100.22,0.45,Home & Living,High-Value Loyalist
+C10005,33,Female,South,58301.39,0.1,27.7,4,115.78,31.91,0.12,Beauty,New / Occasional Shopper
+C10006,32,Female,North,86499.11,2.25,83.9,6,317.54,56.89,0.51,Fashion,At-Risk / Churning
+C10007,40,Female,West,71190.81,4.72,99.2,2,102.81,54.09,0.11,Beauty,At-Risk / Churning
+C10008,42,Female,South,105269.67,8.87,11.1,37,4093.89,109.72,0.4,Home & Living,High-Value Loyalist
+C10009,38,Female,South,46229.91,5.73,1.9,10,186.09,18.04,0.69,Beauty,Bargain Hunter
+C10010,22,Female,West,40458.18,2.5,9.1,19,1471.89,78.26,0.84,Fashion,Young Digital Shopper
+C10011,26,Female,East,44256.62,0.9,33.3,2,239.59,102.92,0.78,Sports,New / Occasional Shopper
+C10012,43,Female,South,67461.05,5.41,69.4,3,176.04,57.78,0.67,Groceries,At-Risk / Churning
+C10013,18,Female,West,15000.0,0.59,46.9,4,202.54,49.15,0.38,Beauty,New / Occasional Shopper
+C10014,39,Male,West,45853.25,0.16,16.1,2,458.65,184.7,0.67,Fashion,Bargain Hunter
+C10015,21,Male,West,48641.78,0.1,1.0,22,1176.16,53.29,0.86,Home & Living,Young Digital Shopper
+C10016,18,Male,North,47134.67,4.02,8.2,14,318.73,22.42,0.58,Electronics,Bargain Hunter
+C10017,45,Female,East,68269.0,2.37,14.0,23,2807.47,119.79,0.55,Home & Living,High-Value Loyalist
+C10018,33,Female,North,21166.54,1.04,33.1,5,20.0,3.65,0.44,Groceries,New / Occasional Shopper
+C10019,72,Female,North,69371.06,5.57,101.4,8,230.07,27.32,0.19,Beauty,At-Risk / Churning
+C10020,34,Male,West,106196.89,3.87,93.2,2,388.23,252.85,0.33,Sports,At-Risk / Churning
+C10021,27,Female,West,70955.46,1.25,7.9,17,797.87,46.61,0.85,Electronics,Young Digital Shopper
+C10022,18,Male,East,57930.0,1.22,29.3,5,78.57,16.53,0.92,Groceries,New / Occasional Shopper
+C10023,39,Male,North,51072.83,0.69,10.9,4,212.81,53.86,0.76,Sports,New / Occasional Shopper
+C10024,63,Female,East,15000.0,7.62,77.1,3,20.0,7.49,0.37,Groceries,At-Risk / Churning
+C10025,21,Female,South,39937.06,3.36,11.9,16,1088.66,66.84,0.73,Beauty,Young Digital Shopper
+C10026,44,Male,South,32262.53,1.95,31.8,10,389.39,40.13,0.4,Sports,Bargain Hunter
+C10027,47,Female,North,94841.7,8.02,10.6,25,4760.81,186.79,0.31,Electronics,High-Value Loyalist
+C10028,62,Female,North,112918.83,6.28,12.9,28,3047.94,108.21,0.52,Beauty,High-Value Loyalist
+C10029,36,Female,East,76488.54,2.18,108.0,4,364.37,84.55,0.3,Home & Living,At-Risk / Churning
+C10030,51,Female,East,58331.02,2.84,74.0,1,85.38,85.38,0.57,Beauty,At-Risk / Churning
+C10031,45,Female,West,42839.59,0.3,39.4,9,316.48,36.58,0.59,Groceries,New / Occasional Shopper
+C10032,25,Male,West,43257.07,3.29,11.9,18,1639.88,88.98,0.89,Groceries,Young Digital Shopper
+C10033,22,Female,East,37754.89,0.14,7.8,24,962.08,40.18,0.78,Groceries,Young Digital Shopper
+C10034,39,Male,West,67750.61,6.77,19.9,2,391.39,199.86,0.47,Electronics,Bargain Hunter
+C10035,34,Female,West,53399.74,0.69,8.3,20,1048.98,53.59,0.94,Home & Living,Young Digital Shopper
+C10036,44,Female,North,98217.34,4.79,4.9,28,2764.22,99.2,0.39,Groceries,High-Value Loyalist
+C10037,25,Female,South,61967.68,3.59,8.2,9,326.31,37.36,0.77,Home & Living,Bargain Hunter
+C10038,18,Female,West,47482.4,2.4,14.0,20,970.37,49.35,0.92,Fashion,Young Digital Shopper
+C10039,50,Male,West,45702.47,0.1,117.8,2,20.0,8.44,0.1,Sports,At-Risk / Churning
+C10040,33,Male,West,67104.31,4.0,32.0,10,99.8,9.67,0.62,Beauty,Bargain Hunter
+C10041,19,Male,North,75131.33,1.36,20.6,5,28.14,5.12,0.46,Fashion,New / Occasional Shopper
+C10042,51,Female,North,57900.84,5.88,119.1,3,20.0,7.92,0.19,Fashion,At-Risk / Churning
+C10043,22,Male,West,41019.34,2.27,4.5,12,761.49,62.83,0.82,Fashion,Young Digital Shopper
+C10044,27,Female,North,47098.86,0.1,22.8,2,95.38,55.9,0.52,Home & Living,New / Occasional Shopper
+C10045,18,Female,East,45376.93,0.1,31.7,5,178.84,38.19,0.36,Beauty,New / Occasional Shopper
+C10046,18,Male,North,52148.72,1.38,10.8,18,1115.06,61.15,0.82,Home & Living,Young Digital Shopper
+C10047,30,Non-binary,North,36180.06,0.77,4.2,12,527.01,43.67,0.87,Home & Living,Young Digital Shopper
+C10048,52,Female,North,64772.02,7.66,124.4,1,252.31,252.31,0.58,Fashion,At-Risk / Churning
+C10049,54,Female,South,104145.42,5.0,9.0,27,2931.34,109.81,0.59,Electronics,High-Value Loyalist
+C10050,22,Male,South,54385.55,2.08,17.7,10,1047.2,103.53,0.82,Groceries,Young Digital Shopper
+C10051,52,Female,North,98463.58,7.66,13.7,14,4313.32,309.55,0.61,Beauty,High-Value Loyalist
+C10052,49,Male,West,59659.24,4.52,92.1,5,20.0,3.87,0.54,Groceries,At-Risk / Churning
+C10053,54,Female,West,15000.0,7.42,101.2,1,267.48,267.48,0.33,Groceries,At-Risk / Churning
+C10054,41,Male,North,85457.66,5.47,98.4,2,226.9,101.81,0.04,Groceries,At-Risk / Churning
+C10055,49,Female,East,107739.04,2.76,57.5,3,511.76,183.12,0.59,Sports,At-Risk / Churning
+C10056,41,Female,North,42218.47,2.59,19.1,5,440.27,95.55,0.59,Beauty,Bargain Hunter
+C10057,42,Female,South,41835.79,5.21,17.2,5,266.19,53.27,0.39,Home & Living,Bargain Hunter
+C10058,37,Male,East,99463.06,2.74,7.3,33,2825.63,85.01,0.31,Sports,High-Value Loyalist
+C10059,30,Male,North,102383.82,3.24,5.7,42,1983.6,46.95,0.58,Beauty,High-Value Loyalist
+C10060,18,Male,North,64736.52,4.09,132.6,2,296.37,141.59,0.55,Home & Living,At-Risk / Churning
+C10061,45,Female,North,50415.64,4.09,9.9,12,332.45,28.89,0.39,Electronics,Bargain Hunter
+C10062,22,Male,North,42722.18,2.05,39.2,16,434.64,28.02,0.31,Beauty,Bargain Hunter
+C10063,46,Female,South,59383.35,1.08,79.6,1,187.69,187.69,0.53,Groceries,At-Risk / Churning
+C10064,49,Female,West,52227.34,2.56,121.9,4,76.35,19.02,0.48,Groceries,At-Risk / Churning
+C10065,32,Male,South,64499.98,4.98,12.3,9,321.54,37.72,0.39,Beauty,Bargain Hunter
+C10066,62,Female,North,37569.96,1.1,20.7,6,303.36,48.19,0.37,Home & Living,Bargain Hunter
+C10067,19,Male,North,58105.52,0.2,2.3,33,814.58,24.65,0.89,Beauty,Young Digital Shopper
+C10068,44,Female,East,70757.55,5.69,9.1,21,4223.65,198.56,0.67,Sports,High-Value Loyalist
+C10069,45,Female,East,68980.37,0.1,31.1,5,465.23,100.44,0.7,Home & Living,Bargain Hunter
+C10070,24,Male,North,25774.06,1.06,4.7,17,905.58,52.15,0.83,Fashion,Young Digital Shopper
+C10071,34,Male,South,46264.92,3.07,20.9,3,491.56,148.22,0.5,Sports,Bargain Hunter
+C10072,18,Male,South,49107.06,1.07,34.9,4,138.41,31.89,0.78,Beauty,New / Occasional Shopper
+C10073,18,Non-binary,South,57230.83,2.36,10.9,22,686.11,30.87,0.93,Sports,Young Digital Shopper
+C10074,39,Male,South,108450.9,5.68,8.3,21,3490.23,163.89,0.64,Home & Living,High-Value Loyalist
+C10075,33,Female,North,37191.69,0.19,3.7,19,1213.69,63.69,0.76,Groceries,Young Digital Shopper
+C10076,20,Female,West,43385.4,2.17,8.6,16,1019.38,64.55,0.86,Beauty,Young Digital Shopper
+C10077,45,Male,East,80874.87,8.03,94.8,1,351.79,351.79,0.13,Sports,At-Risk / Churning
+C10078,39,Male,North,49073.55,1.99,26.8,10,455.34,47.85,0.67,Beauty,Bargain Hunter
+C10079,34,Female,South,23432.09,6.31,103.2,7,459.55,69.44,0.02,Groceries,At-Risk / Churning
+C10080,49,Female,West,19842.14,5.86,91.7,1,287.95,287.95,0.04,Home & Living,At-Risk / Churning
+C10081,25,Male,East,21815.68,2.19,17.3,9,187.35,21.6,0.59,Sports,Bargain Hunter
+C10082,41,Non-binary,North,54044.05,0.67,33.0,5,75.52,14.42,0.66,Sports,New / Occasional Shopper
+C10083,34,Male,East,104176.77,4.27,10.8,10,4033.21,384.22,0.09,Electronics,High-Value Loyalist
+C10084,28,Male,North,75312.73,3.12,13.1,16,3990.29,242.26,0.54,Groceries,High-Value Loyalist
+C10085,49,Male,East,108183.7,2.8,1.0,26,2595.77,101.48,0.74,Home & Living,High-Value Loyalist
+C10086,32,Female,South,46454.52,0.1,65.0,1,273.28,273.28,0.1,Electronics,At-Risk / Churning
+C10087,29,Male,East,39272.56,0.1,11.3,19,428.46,22.55,0.55,Beauty,Bargain Hunter
+C10088,32,Female,South,111345.13,4.22,2.0,26,2789.76,106.15,0.57,Electronics,High-Value Loyalist
+C10089,29,Female,South,58791.31,2.58,22.4,11,355.43,33.39,0.66,Electronics,Bargain Hunter
+C10090,57,Female,West,70873.59,6.48,11.8,17,3352.09,201.44,0.79,Groceries,High-Value Loyalist
+C10091,48,Female,North,54958.74,2.48,65.4,2,287.77,118.9,0.2,Groceries,At-Risk / Churning
+C10092,43,Male,West,55243.25,2.84,29.7,11,478.8,42.18,0.56,Sports,Bargain Hunter
+C10093,23,Female,North,40009.47,1.41,7.7,20,528.56,26.09,0.97,Sports,Young Digital Shopper
+C10094,29,Male,North,32825.5,1.66,13.1,22,946.94,42.48,1.0,Electronics,Young Digital Shopper
+C10095,55,Female,North,69532.06,1.17,85.4,1,278.19,195.9,0.34,Fashion,At-Risk / Churning
+C10096,18,Female,East,50464.93,1.1,4.1,26,801.96,31.4,0.93,Fashion,Young Digital Shopper
+C10097,37,Female,East,112937.99,9.33,3.0,30,3845.85,129.2,0.65,Home & Living,High-Value Loyalist
+C10098,33,Female,West,106887.97,3.05,10.5,29,2413.93,84.36,0.67,Fashion,High-Value Loyalist
+C10099,34,Female,East,53746.62,0.1,27.6,1,125.76,125.76,0.43,Electronics,New / Occasional Shopper
+C10100,34,Female,West,40364.66,0.5,32.4,6,177.09,29.87,0.76,Electronics,New / Occasional Shopper
+C10101,22,Female,South,54768.76,0.1,86.4,1,255.17,255.17,0.36,Electronics,At-Risk / Churning
+C10102,27,Female,North,34155.9,1.03,6.6,24,1183.12,49.07,0.87,Groceries,Young Digital Shopper
+C10103,32,Male,South,54441.06,1.04,37.0,6,188.51,33.44,0.81,Electronics,New / Occasional Shopper
+C10104,68,Male,East,65133.17,3.22,42.1,2,368.06,234.08,0.29,Sports,At-Risk / Churning
+C10105,37,Female,North,64227.73,5.72,94.8,4,387.57,97.07,0.39,Sports,At-Risk / Churning
+C10106,39,Male,North,55011.37,3.12,27.7,13,426.63,32.27,0.34,Electronics,Bargain Hunter
+C10107,37,Male,East,41714.73,1.12,7.7,24,979.4,40.23,1.0,Sports,Young Digital Shopper
+C10108,38,Female,South,99480.81,4.84,12.2,30,4081.38,136.43,0.54,Beauty,High-Value Loyalist
+C10109,23,Male,South,34586.04,0.57,20.9,6,147.21,25.06,0.68,Electronics,New / Occasional Shopper
+C10110,26,Female,East,55140.16,1.66,26.0,12,298.58,24.22,0.64,Electronics,Bargain Hunter
+C10111,32,Female,South,55601.06,0.76,8.4,25,1793.79,71.08,0.74,Home & Living,Young Digital Shopper
+C10112,20,Female,North,44404.16,2.01,1.1,21,965.51,46.7,0.92,Beauty,Young Digital Shopper
+C10113,61,Female,West,55282.04,2.78,1.4,7,158.92,22.73,0.5,Home & Living,Bargain Hunter
+C10114,46,Female,South,108069.77,1.79,3.3,22,3225.76,146.59,0.58,Beauty,High-Value Loyalist
+C10115,28,Male,North,32799.14,1.14,26.9,4,188.17,51.61,0.77,Sports,New / Occasional Shopper
+C10116,53,Male,North,72216.9,8.95,74.1,5,397.14,86.7,0.61,Electronics,At-Risk / Churning
+C10117,48,Male,East,58038.53,4.71,68.8,1,272.98,272.98,0.2,Sports,At-Risk / Churning
+C10118,40,Female,East,54112.9,1.06,25.8,20,461.59,23.38,0.6,Groceries,Bargain Hunter
+C10119,35,Male,East,39121.12,7.57,84.0,3,133.65,47.4,0.29,Beauty,At-Risk / Churning
+C10120,48,Male,South,58892.16,5.1,13.8,5,308.31,66.0,0.49,Groceries,Bargain Hunter
+C10121,56,Male,East,15000.0,7.21,110.8,1,306.48,306.48,0.4,Sports,At-Risk / Churning
+C10122,34,Male,East,97487.69,5.07,7.0,31,3752.56,121.58,0.64,Sports,High-Value Loyalist
+C10123,42,Female,North,36733.74,0.7,26.3,15,439.03,30.0,0.0,Beauty,Bargain Hunter
+C10124,24,Male,West,117234.45,6.23,8.1,35,3393.87,98.0,0.62,Home & Living,High-Value Loyalist
+C10125,48,Female,West,29875.25,5.1,24.5,16,600.41,38.57,0.41,Sports,Bargain Hunter
+C10126,22,Female,South,41911.19,1.07,4.8,17,682.99,41.27,0.66,Groceries,Young Digital Shopper
+C10127,59,Male,North,95240.76,8.24,14.5,30,3778.49,127.79,0.59,Beauty,High-Value Loyalist
+C10128,45,Female,West,89810.86,8.02,10.0,41,3010.72,72.71,0.61,Fashion,High-Value Loyalist
+C10129,18,Female,South,59233.84,1.38,1.0,17,445.42,26.39,0.7,Electronics,Bargain Hunter
+C10130,41,Male,South,86152.27,7.19,8.4,45,3784.17,84.84,0.71,Groceries,High-Value Loyalist
+C10131,18,Male,East,42171.21,1.35,47.2,2,164.13,79.66,0.51,Beauty,New / Occasional Shopper
+C10132,44,Female,East,51478.51,3.58,22.0,6,92.03,14.7,0.53,Sports,Bargain Hunter
+C10133,33,Male,North,36023.72,2.62,4.6,21,1709.57,79.88,1.0,Electronics,Young Digital Shopper
+C10134,46,Female,North,36590.74,0.1,17.6,11,658.94,62.51,0.43,Groceries,Bargain Hunter
+C10135,42,Male,North,93439.32,6.87,6.6,33,2126.99,64.96,0.47,Beauty,High-Value Loyalist
+C10136,37,Female,West,61846.42,0.75,34.3,1,243.54,243.54,0.32,Beauty,New / Occasional Shopper
+C10137,33,Male,West,49433.83,3.51,13.6,13,353.09,26.44,0.7,Beauty,Bargain Hunter
+C10138,55,Female,South,42681.2,3.16,43.8,4,210.36,58.74,0.0,Beauty,At-Risk / Churning
+C10139,26,Male,North,69055.69,6.73,13.5,36,2678.51,74.11,0.46,Groceries,High-Value Loyalist
+C10140,34,Male,West,73698.47,1.96,15.6,11,590.07,51.74,0.92,Fashion,Bargain Hunter
+C10141,21,Female,North,66386.13,1.23,9.8,11,383.61,33.62,0.31,Electronics,Bargain Hunter
+C10142,29,Female,East,46051.7,1.9,43.6,2,246.57,119.88,0.81,Groceries,New / Occasional Shopper
+C10143,46,Male,West,63467.46,2.26,14.6,9,501.17,53.39,0.33,Home & Living,Bargain Hunter
+C10144,31,Male,West,26206.62,0.86,1.0,6,223.02,37.41,0.47,Fashion,Bargain Hunter
+C10145,23,Male,West,63870.05,1.83,8.6,19,811.69,42.54,0.85,Groceries,Young Digital Shopper
+C10146,26,Male,North,23620.57,0.62,6.8,23,865.98,37.96,1.0,Home & Living,Young Digital Shopper
+C10147,36,Female,East,50399.49,4.47,21.1,14,626.66,43.54,0.5,Fashion,Bargain Hunter
+C10148,29,Female,North,67269.24,5.22,42.1,11,91.12,8.67,0.39,Fashion,Bargain Hunter
+C10149,51,Female,South,103720.16,7.31,14.1,34,4265.19,127.26,0.6,Electronics,High-Value Loyalist
+C10150,48,Male,North,48243.07,1.32,47.1,4,127.21,29.95,0.65,Beauty,New / Occasional Shopper
+C10151,28,Female,West,71734.41,0.56,31.8,1,350.37,350.37,0.79,Home & Living,New / Occasional Shopper
+C10152,37,Male,South,115668.62,7.59,10.7,29,3301.86,112.05,0.52,Electronics,High-Value Loyalist
+C10153,44,Female,North,60837.34,2.92,24.8,13,371.92,29.45,0.66,Electronics,Bargain Hunter
+C10154,60,Male,North,63770.43,1.33,10.5,18,3124.24,174.29,0.48,Fashion,High-Value Loyalist
+C10155,20,Female,East,76791.36,7.82,120.9,6,310.25,51.88,0.36,Sports,At-Risk / Churning
+C10156,21,Male,West,50416.14,2.14,7.8,10,1090.81,109.61,1.0,Sports,Young Digital Shopper
+C10157,47,Male,West,67625.43,2.02,64.6,1,437.28,407.74,0.62,Groceries,At-Risk / Churning
+C10158,52,Male,North,69204.37,6.06,109.9,3,457.42,144.51,0.41,Sports,At-Risk / Churning
+C10159,54,Female,West,74259.95,0.1,44.8,1,433.3,319.88,0.41,Fashion,At-Risk / Churning
+C10160,54,Female,East,93418.96,5.11,9.0,35,2571.75,73.32,0.4,Beauty,High-Value Loyalist
+C10161,18,Female,West,57355.81,0.6,26.0,3,20.0,6.22,0.51,Groceries,New / Occasional Shopper
+C10162,34,Male,South,39785.33,1.34,3.3,27,1013.44,37.98,0.84,Fashion,Young Digital Shopper
+C10163,34,Male,North,94236.19,7.78,8.5,22,3161.02,143.15,0.55,Electronics,High-Value Loyalist
+C10164,51,Male,East,47391.07,2.84,17.9,14,332.22,24.33,0.62,Groceries,Bargain Hunter
+C10165,33,Female,West,46122.94,0.44,12.6,16,1037.36,63.13,1.0,Electronics,Young Digital Shopper
+C10166,43,Male,South,32597.86,0.51,34.7,3,204.13,72.18,0.46,Home & Living,New / Occasional Shopper
+C10167,23,Female,East,39789.26,0.46,13.6,3,190.69,60.44,0.57,Fashion,New / Occasional Shopper
+C10168,29,Male,West,65231.74,3.07,4.1,21,878.11,40.98,0.91,Electronics,Young Digital Shopper
+C10169,35,Male,West,63492.96,0.67,31.7,6,117.89,19.68,0.35,Electronics,New / Occasional Shopper
+C10170,32,Male,East,25082.85,2.9,1.0,14,931.0,67.27,0.85,Groceries,Young Digital Shopper
+C10171,39,Female,North,57505.22,5.14,11.4,14,253.19,17.55,0.67,Groceries,Bargain Hunter
+C10172,28,Female,East,15000.0,1.43,7.2,18,934.81,50.71,0.94,Beauty,Young Digital Shopper
+C10173,31,Female,West,46724.01,1.24,37.4,6,82.26,13.53,0.69,Groceries,New / Occasional Shopper
+C10174,36,Non-binary,West,88327.21,3.16,3.5,27,4488.88,166.36,0.36,Sports,High-Value Loyalist
+C10175,37,Female,South,94538.5,8.28,6.0,22,3035.39,135.91,0.92,Beauty,High-Value Loyalist
+C10176,28,Male,North,27130.85,2.7,30.2,16,576.91,36.89,0.41,Groceries,Bargain Hunter
+C10177,34,Female,East,39095.44,0.92,10.7,4,277.11,65.55,0.41,Groceries,New / Occasional Shopper
+C10178,39,Male,North,34583.02,0.25,10.7,3,260.02,88.65,0.54,Fashion,New / Occasional Shopper
+C10179,58,Female,East,75397.92,3.43,109.2,4,225.79,54.36,0.32,Electronics,At-Risk / Churning
+C10180,26,Female,North,51982.45,1.13,19.8,7,120.5,17.19,0.75,Groceries,New / Occasional Shopper
+C10181,31,Male,West,44153.38,0.21,26.3,3,313.16,100.99,0.63,Home & Living,New / Occasional Shopper
+C10182,45,Female,East,59844.61,4.75,17.4,13,323.47,24.33,0.45,Beauty,Bargain Hunter
+C10183,21,Female,North,49304.43,0.87,12.9,9,1033.5,109.69,0.77,Home & Living,Young Digital Shopper
+C10184,41,Female,South,60144.14,6.61,71.6,1,369.18,369.18,0.5,Electronics,At-Risk / Churning
+C10185,56,Non-binary,East,39375.96,0.34,85.2,3,517.9,187.14,0.73,Electronics,At-Risk / Churning
+C10186,30,Non-binary,South,59645.98,1.73,2.0,21,917.74,42.75,0.92,Home & Living,Young Digital Shopper
+C10187,40,Male,North,114729.16,4.36,10.9,32,2734.79,84.43,0.39,Groceries,High-Value Loyalist
+C10188,60,Female,West,56897.39,8.44,120.8,6,294.08,51.26,0.19,Electronics,At-Risk / Churning
+C10189,24,Male,East,37322.52,0.41,1.0,22,714.98,32.26,1.0,Fashion,Young Digital Shopper
+C10190,46,Female,North,45968.84,0.1,43.6,1,119.02,119.02,0.44,Sports,New / Occasional Shopper
+C10191,19,Male,East,41553.67,2.25,2.7,21,1041.67,49.65,0.95,Sports,Young Digital Shopper
+C10192,44,Female,South,104207.25,6.34,8.7,26,2967.29,115.83,0.43,Fashion,High-Value Loyalist
+C10193,24,Female,West,35052.39,0.17,25.1,2,268.1,169.77,0.67,Fashion,New / Occasional Shopper
+C10194,29,Male,North,113382.0,5.54,5.3,26,3228.83,126.39,0.72,Beauty,High-Value Loyalist
+C10195,37,Female,East,128982.63,8.65,8.0,15,3450.16,236.48,0.84,Fashion,High-Value Loyalist
+C10196,48,Male,West,41892.08,4.62,22.2,6,323.33,54.73,0.36,Beauty,Bargain Hunter
+C10197,18,Female,South,40325.41,0.22,23.8,6,286.04,49.84,0.86,Groceries,New / Occasional Shopper
+C10198,33,Male,South,43184.94,1.21,3.0,27,1329.55,48.86,0.88,Groceries,Young Digital Shopper
+C10199,34,Male,East,53069.61,1.21,8.9,25,599.1,24.11,0.94,Home & Living,Young Digital Shopper
+C10200,34,Male,South,70624.46,4.43,87.8,3,533.13,158.26,0.1,Electronics,At-Risk / Churning
+C10201,31,Male,West,21000.76,1.11,56.1,3,362.83,137.6,0.64,Home & Living,New / Occasional Shopper
+C10202,31,Male,South,53667.74,7.14,23.2,8,401.24,51.03,0.38,Electronics,Bargain Hunter
+C10203,40,Male,West,99667.18,5.94,1.4,25,3347.37,132.22,0.79,Home & Living,High-Value Loyalist
+C10204,56,Female,South,93937.24,10.16,20.0,25,2663.48,106.17,0.37,Electronics,High-Value Loyalist
+C10205,32,Male,West,56252.31,0.1,13.9,11,870.39,77.29,0.84,Fashion,Young Digital Shopper
+C10206,48,Female,East,137475.89,4.37,6.2,25,3283.06,128.88,0.7,Beauty,High-Value Loyalist
+C10207,52,Female,North,19105.43,4.07,54.4,6,316.27,52.69,0.2,Fashion,At-Risk / Churning
+C10208,48,Male,South,70551.26,3.04,3.8,30,3130.12,105.61,0.64,Fashion,High-Value Loyalist
+C10209,43,Female,West,53947.56,2.79,19.0,8,409.2,53.42,0.75,Groceries,Bargain Hunter
+C10210,50,Female,South,52529.72,6.99,97.1,4,384.46,95.03,0.63,Beauty,At-Risk / Churning
+C10211,37,Male,East,45683.54,2.43,8.6,9,348.82,37.78,0.37,Groceries,Bargain Hunter
+C10212,38,Female,South,50046.1,3.58,4.8,19,1026.95,53.99,0.91,Groceries,Young Digital Shopper
+C10213,33,Female,West,21433.53,0.1,46.6,7,102.85,15.74,0.65,Electronics,New / Occasional Shopper
+C10214,41,Male,West,37823.94,1.6,90.7,2,194.08,99.27,0.5,Electronics,At-Risk / Churning
+C10215,60,Non-binary,East,84763.21,1.67,68.4,5,150.22,30.82,0.72,Groceries,At-Risk / Churning
+C10216,60,Male,East,105643.77,5.36,2.9,25,3746.83,150.68,0.71,Sports,High-Value Loyalist
+C10217,43,Female,East,71716.91,7.06,3.9,29,4050.84,137.73,0.79,Fashion,High-Value Loyalist
+C10218,24,Female,East,42701.54,0.94,22.6,2,210.02,139.78,0.69,Electronics,New / Occasional Shopper
+C10219,28,Female,North,47487.8,0.83,7.7,15,1060.91,69.03,0.93,Electronics,Young Digital Shopper
+C10220,23,Male,South,34500.85,1.31,11.1,24,1111.23,45.68,1.0,Home & Living,Young Digital Shopper
+C10221,35,Female,West,55572.71,6.2,16.0,12,545.34,43.66,0.48,Groceries,Bargain Hunter
+C10222,36,Female,East,68369.98,3.84,81.6,2,151.29,84.83,0.88,Electronics,At-Risk / Churning
+C10223,30,Male,West,53200.01,0.16,43.3,5,121.96,22.78,0.72,Fashion,New / Occasional Shopper
+C10224,20,Male,South,60770.51,0.1,8.8,24,961.79,40.27,0.94,Fashion,Young Digital Shopper
+C10225,37,Female,North,50700.35,0.95,20.2,1,115.92,115.46,0.76,Groceries,New / Occasional Shopper
+C10226,35,Female,West,88568.51,3.14,1.2,19,2624.72,134.82,0.56,Sports,High-Value Loyalist
+C10227,23,Female,West,49109.76,2.45,30.2,9,333.95,35.8,0.73,Electronics,Bargain Hunter
+C10228,43,Female,North,69593.81,4.35,93.0,5,183.23,36.34,0.36,Electronics,At-Risk / Churning
+C10229,51,Male,West,103393.92,8.35,1.4,35,4763.87,135.15,0.7,Home & Living,High-Value Loyalist
+C10230,25,Female,South,99591.48,2.59,5.0,23,3156.08,140.19,0.64,Beauty,High-Value Loyalist
+C10231,26,Male,West,64176.66,4.64,15.2,13,584.6,44.34,0.65,Electronics,Bargain Hunter
+C10232,22,Male,West,48893.13,0.1,38.9,5,210.33,42.32,0.48,Home & Living,New / Occasional Shopper
+C10233,50,Female,North,51373.74,1.83,5.9,15,364.44,24.52,0.57,Home & Living,Bargain Hunter
+C10234,27,Female,East,46611.73,0.8,18.6,5,325.07,69.74,0.55,Beauty,New / Occasional Shopper
+C10235,27,Female,North,32722.54,0.1,51.2,3,164.03,49.0,0.57,Fashion,New / Occasional Shopper
+C10236,18,Female,South,41271.59,5.35,16.0,18,535.29,29.78,0.39,Beauty,Bargain Hunter
+C10237,30,Male,East,81465.16,3.26,74.8,1,229.6,229.6,0.41,Electronics,At-Risk / Churning
+C10238,47,Male,North,102960.0,9.62,7.7,25,3306.08,130.41,0.63,Fashion,High-Value Loyalist
+C10239,69,Female,North,104287.25,4.49,10.4,32,2493.72,77.39,0.48,Fashion,High-Value Loyalist
+C10240,32,Female,North,61311.82,0.99,47.9,4,119.7,32.56,0.88,Groceries,New / Occasional Shopper
+C10241,50,Male,South,75576.59,2.82,107.8,4,341.93,95.84,0.36,Fashion,At-Risk / Churning
+C10242,25,Female,South,25373.13,1.99,4.4,19,865.59,44.89,0.86,Beauty,Young Digital Shopper
+C10243,34,Female,South,62697.6,3.46,36.9,14,199.76,14.14,0.45,Beauty,Bargain Hunter
+C10244,36,Female,East,61298.86,0.1,95.5,5,147.2,31.65,0.28,Electronics,At-Risk / Churning
+C10245,25,Female,West,29706.23,0.14,37.5,4,20.0,5.14,0.69,Home & Living,New / Occasional Shopper
+C10246,48,Male,East,54336.73,0.81,92.6,3,224.28,69.02,0.04,Electronics,At-Risk / Churning
+C10247,31,Female,South,60752.97,3.58,17.2,7,378.29,52.98,0.55,Groceries,Bargain Hunter
+C10248,25,Male,West,53113.49,0.43,5.9,16,485.22,29.41,0.84,Home & Living,Young Digital Shopper
+C10249,26,Male,South,60173.01,2.11,26.0,7,380.97,51.59,0.13,Beauty,Bargain Hunter
+C10250,38,Male,South,81037.1,5.73,47.1,1,359.35,359.35,0.68,Beauty,At-Risk / Churning
+C10251,30,Female,South,15000.0,0.63,4.7,4,147.77,34.7,0.43,Sports,New / Occasional Shopper
+C10252,39,Male,East,69197.52,8.07,20.1,11,579.65,55.0,0.3,Groceries,Bargain Hunter
+C10253,28,Male,West,70525.64,1.61,9.2,11,1371.04,124.93,0.85,Fashion,Young Digital Shopper
+C10254,22,Female,East,49202.04,1.56,4.9,29,1544.68,53.96,0.88,Electronics,Young Digital Shopper
+C10255,43,Male,South,51573.25,6.26,109.5,2,254.71,132.43,0.03,Groceries,At-Risk / Churning
+C10256,45,Female,North,32308.47,0.65,38.5,2,159.5,75.46,0.8,Fashion,New / Occasional Shopper
+C10257,29,Female,North,103846.15,7.37,18.3,36,1872.81,51.77,0.76,Beauty,High-Value Loyalist
+C10258,51,Male,North,104907.8,7.78,1.5,32,1703.75,53.81,0.52,Sports,High-Value Loyalist
+C10259,47,Male,West,65646.53,3.48,33.1,14,582.21,40.16,0.65,Electronics,Bargain Hunter
+C10260,31,Female,North,77804.39,7.51,6.6,29,4208.57,142.91,0.54,Groceries,High-Value Loyalist
+C10261,36,Male,South,41347.08,1.42,54.8,5,72.86,13.82,0.68,Fashion,New / Occasional Shopper
+C10262,28,Female,East,35560.53,1.86,8.0,12,762.31,63.36,0.97,Fashion,Young Digital Shopper
+C10263,41,Female,South,95226.41,2.33,11.3,24,3228.24,136.58,0.5,Fashion,High-Value Loyalist
+C10264,34,Female,West,25146.18,1.25,11.9,4,320.51,84.89,0.61,Fashion,New / Occasional Shopper
+C10265,29,Male,North,111875.41,6.2,6.3,33,2630.08,79.27,0.58,Groceries,High-Value Loyalist
+C10266,24,Female,East,40211.28,0.76,12.4,24,721.74,29.77,0.93,Groceries,Young Digital Shopper
+C10267,26,Female,East,111683.41,3.85,6.7,27,3486.83,130.44,0.64,Groceries,High-Value Loyalist
+C10268,30,Female,West,91942.26,6.48,14.9,38,3702.14,97.27,0.37,Fashion,High-Value Loyalist
+C10269,49,Male,South,101538.74,5.87,7.6,24,1871.45,76.86,0.6,Fashion,High-Value Loyalist
+C10270,47,Female,North,131981.81,3.45,8.4,28,3416.3,123.64,0.85,Home & Living,High-Value Loyalist
+C10271,37,Female,West,94107.37,10.49,14.7,39,3513.7,90.55,0.49,Home & Living,High-Value Loyalist
+C10272,26,Female,North,120129.65,5.64,12.8,43,2227.33,52.4,0.77,Beauty,High-Value Loyalist
+C10273,54,Female,East,63011.23,2.17,19.6,14,305.18,22.47,0.38,Sports,Bargain Hunter
+C10274,23,Female,West,77235.17,5.32,114.8,2,308.75,193.29,0.3,Groceries,At-Risk / Churning
+C10275,31,Male,West,47233.55,2.13,14.1,19,672.18,34.95,0.98,Sports,Young Digital Shopper
+C10276,22,Male,East,46472.96,1.74,5.3,13,870.92,69.42,0.99,Fashion,Young Digital Shopper
+C10277,56,Non-binary,North,50735.53,2.29,13.5,10,198.4,20.03,0.78,Fashion,Bargain Hunter
+C10278,45,Female,North,48850.42,0.48,47.8,5,236.1,43.41,0.72,Groceries,New / Occasional Shopper
+C10279,31,Male,East,45223.29,0.1,41.0,3,208.33,66.32,0.62,Home & Living,New / Occasional Shopper
+C10280,26,Female,South,97463.72,2.78,10.4,31,3597.02,115.44,0.26,Fashion,High-Value Loyalist
+C10281,29,Male,South,39756.75,1.05,6.3,16,1118.46,70.64,0.89,Groceries,Young Digital Shopper
+C10282,19,Female,South,53129.77,0.1,16.5,26,1165.5,45.26,0.87,Sports,Young Digital Shopper
+C10283,22,Male,North,39608.97,0.61,5.3,14,581.97,42.51,0.88,Fashion,Young Digital Shopper
+C10284,43,Female,North,48750.24,3.85,18.2,13,398.69,29.78,0.44,Fashion,Bargain Hunter
+C10285,38,Male,East,41054.94,3.51,11.4,14,486.74,34.58,0.59,Sports,Bargain Hunter
+C10286,50,Female,North,111402.1,6.06,7.5,36,3359.92,92.5,0.64,Fashion,High-Value Loyalist
+C10287,29,Male,South,82143.53,3.04,4.5,19,816.14,42.17,0.84,Fashion,Young Digital Shopper
+C10288,20,Female,North,41393.44,0.1,2.9,14,839.95,62.09,0.43,Home & Living,Bargain Hunter
+C10289,53,Male,North,89923.48,4.51,4.8,27,3730.44,138.51,0.52,Sports,High-Value Loyalist
+C10290,29,Female,West,25922.17,0.75,41.0,1,140.03,140.03,0.8,Home & Living,New / Occasional Shopper
+C10291,52,Female,West,111644.59,2.81,10.2,34,3725.3,110.99,0.48,Groceries,High-Value Loyalist
+C10292,41,Female,West,30955.18,0.79,21.4,5,173.59,35.28,0.27,Fashion,New / Occasional Shopper
+C10293,54,Female,South,127847.82,4.51,1.9,26,3229.84,124.11,0.82,Groceries,High-Value Loyalist
+C10294,27,Female,East,55833.03,1.02,12.8,4,30.64,8.38,0.44,Electronics,New / Occasional Shopper
+C10295,23,Female,East,41690.16,0.68,39.5,6,20.0,3.35,0.48,Fashion,New / Occasional Shopper
+C10296,33,Male,East,40426.98,0.57,27.1,4,283.39,80.76,0.5,Groceries,New / Occasional Shopper
+C10297,27,Male,South,59382.1,0.47,53.5,4,161.04,41.58,0.58,Beauty,New / Occasional Shopper
+C10298,51,Male,East,37495.53,8.08,60.8,7,235.1,32.26,0.2,Groceries,At-Risk / Churning
+C10299,46,Female,South,53626.54,9.13,80.8,1,247.69,247.69,0.41,Home & Living,At-Risk / Churning
+C10300,46,Female,North,114790.08,1.12,106.7,1,342.75,248.69,0.2,Sports,At-Risk / Churning
+C10301,25,Male,North,74315.13,6.93,8.1,26,3476.37,136.06,0.37,Electronics,High-Value Loyalist
+C10302,19,Male,West,36704.24,3.03,24.2,18,467.26,26.46,0.61,Fashion,Bargain Hunter
+C10303,24,Male,East,34098.06,3.53,24.0,7,467.93,71.91,0.24,Fashion,Bargain Hunter
+C10304,34,Female,North,63536.74,0.47,23.7,4,91.7,22.3,0.57,Beauty,New / Occasional Shopper
+C10305,22,Non-binary,East,19243.53,6.22,9.4,14,180.23,13.34,0.23,Home & Living,Bargain Hunter
+C10306,29,Female,East,55950.31,0.1,1.0,18,464.53,26.03,1.0,Groceries,Young Digital Shopper
+C10307,28,Female,North,87051.88,3.89,145.6,2,75.14,36.68,0.0,Beauty,At-Risk / Churning
+C10308,27,Female,West,52742.08,1.51,7.3,17,619.51,35.56,0.93,Electronics,Young Digital Shopper
+C10309,29,Male,East,69184.0,7.7,4.2,22,3728.68,172.13,0.6,Beauty,High-Value Loyalist
+C10310,51,Female,West,58576.18,1.49,20.7,17,437.28,25.84,0.44,Sports,Bargain Hunter
+C10311,37,Female,East,70310.82,7.29,1.0,11,413.99,38.41,0.35,Fashion,Bargain Hunter
+C10312,26,Male,North,23966.24,2.81,3.0,24,761.32,31.83,0.81,Fashion,Young Digital Shopper
+C10313,23,Female,North,45126.35,0.47,2.8,14,636.68,45.39,0.83,Groceries,Young Digital Shopper
+C10314,27,Female,North,68409.51,2.24,3.3,20,1043.81,50.97,0.86,Electronics,Young Digital Shopper
+C10315,24,Male,North,43709.64,1.94,1.0,15,763.4,50.99,0.79,Fashion,Young Digital Shopper
+C10316,27,Male,East,35590.67,2.51,4.8,16,1130.57,72.71,0.83,Sports,Young Digital Shopper
+C10317,31,Female,East,65064.09,3.73,107.4,4,573.44,161.68,0.64,Beauty,At-Risk / Churning
+C10318,21,Male,South,61995.46,1.67,7.4,20,1156.09,57.0,1.0,Fashion,Young Digital Shopper
+C10319,40,Female,East,40185.3,0.1,35.1,4,212.56,48.41,0.38,Home & Living,New / Occasional Shopper
+C10320,24,Female,East,54520.66,0.89,32.5,4,69.81,15.89,0.56,Groceries,New / Occasional Shopper
+C10321,39,Male,North,82783.87,2.73,19.8,8,393.94,47.88,0.52,Sports,Bargain Hunter
+C10322,21,Female,North,46207.98,2.39,5.3,16,896.9,55.47,0.88,Electronics,Young Digital Shopper
+C10323,32,Male,North,60009.34,2.82,23.8,14,527.02,36.44,0.62,Electronics,Bargain Hunter
+C10324,24,Female,East,35573.88,0.55,37.7,5,105.83,21.91,0.64,Electronics,New / Occasional Shopper
+C10325,45,Male,North,56794.14,3.3,120.4,1,144.55,144.55,0.0,Beauty,At-Risk / Churning
+C10326,42,Female,South,57909.26,0.19,36.2,3,272.36,83.58,0.65,Sports,New / Occasional Shopper
+C10327,46,Male,East,83871.54,0.1,20.6,8,242.26,30.52,0.61,Sports,Bargain Hunter
+C10328,53,Male,West,55606.77,3.62,99.1,3,151.06,45.2,0.72,Electronics,At-Risk / Churning
+C10329,32,Male,North,65625.16,2.05,6.1,22,1117.55,51.28,0.83,Home & Living,Young Digital Shopper
+C10330,62,Male,South,79493.15,2.0,67.3,2,169.62,110.65,0.5,Fashion,At-Risk / Churning
+C10331,25,Male,South,60120.76,0.73,4.8,18,656.83,36.63,0.96,Fashion,Young Digital Shopper
+C10332,34,Male,South,47817.94,4.13,119.6,3,118.72,34.88,0.41,Beauty,At-Risk / Churning
+C10333,33,Male,South,39290.63,0.54,56.3,1,188.49,188.49,1.0,Electronics,New / Occasional Shopper
+C10334,55,Female,West,101769.25,8.18,3.8,24,2808.21,117.55,0.6,Electronics,High-Value Loyalist
+C10335,30,Male,East,33441.35,1.66,98.3,1,228.42,228.42,0.41,Beauty,At-Risk / Churning
+C10336,46,Female,East,114107.34,4.48,11.0,28,2677.66,94.14,0.39,Home & Living,High-Value Loyalist
+C10337,20,Male,West,44286.46,4.43,115.1,3,61.62,19.51,0.82,Electronics,At-Risk / Churning
+C10338,38,Male,East,81903.67,3.49,18.6,34,3775.36,110.98,0.64,Groceries,High-Value Loyalist
+C10339,33,Non-binary,South,20409.15,0.87,4.4,5,107.18,23.12,0.25,Home & Living,New / Occasional Shopper
+C10340,39,Male,North,95159.22,6.1,12.4,35,2959.52,85.21,0.56,Fashion,High-Value Loyalist
+C10341,29,Male,North,65697.48,1.41,53.1,5,334.72,67.55,0.57,Beauty,New / Occasional Shopper
+C10342,19,Female,East,34659.82,1.05,41.3,5,355.51,74.15,0.52,Sports,New / Occasional Shopper
+C10343,27,Male,West,71708.62,2.86,32.3,13,450.65,33.63,0.55,Electronics,Bargain Hunter
+C10344,36,Female,West,39028.17,5.75,66.2,3,256.23,74.39,0.39,Electronics,At-Risk / Churning
+C10345,44,Male,East,51331.46,0.16,97.1,1,149.33,149.33,0.55,Fashion,At-Risk / Churning
+C10346,27,Female,North,49377.19,0.36,51.8,3,258.1,84.17,0.52,Fashion,New / Occasional Shopper
+C10347,31,Male,North,45790.64,1.89,1.0,14,1068.38,78.64,1.0,Electronics,Young Digital Shopper
+C10348,35,Female,West,46704.01,2.17,10.4,17,39.12,2.35,0.66,Groceries,Bargain Hunter
+C10349,35,Female,South,82758.76,3.77,7.3,30,2890.7,94.83,0.31,Groceries,High-Value Loyalist
+C10350,53,Male,East,54771.58,7.24,68.5,6,233.65,36.77,0.26,Sports,At-Risk / Churning
+C10351,42,Female,West,95004.86,6.15,9.3,41,3435.37,84.72,0.19,Groceries,High-Value Loyalist
+C10352,42,Female,South,55443.26,1.29,19.7,11,511.96,47.45,0.39,Beauty,Bargain Hunter
+C10353,39,Male,North,31060.76,3.85,21.2,7,353.63,48.66,0.71,Home & Living,Bargain Hunter
+C10354,58,Female,North,35313.66,3.27,35.3,15,506.6,33.58,0.33,Sports,Bargain Hunter
+C10355,35,Male,East,23459.45,3.65,31.2,11,347.28,32.53,0.39,Sports,Bargain Hunter
+C10356,53,Male,East,70382.06,1.93,80.0,1,272.45,272.45,0.06,Home & Living,At-Risk / Churning
+C10357,43,Non-binary,West,51042.67,3.01,133.9,4,307.46,82.99,0.28,Fashion,At-Risk / Churning
+C10358,42,Female,East,49491.68,0.95,18.6,14,186.79,13.4,0.38,Groceries,Bargain Hunter
+C10359,18,Male,North,30807.34,3.56,18.7,9,221.34,24.3,0.89,Electronics,Bargain Hunter
+C10360,38,Female,West,39293.51,0.69,30.7,5,33.39,6.39,0.97,Home & Living,New / Occasional Shopper
+C10361,33,Female,South,74085.8,2.97,9.3,28,2874.91,101.24,0.4,Home & Living,High-Value Loyalist
+C10362,35,Female,East,122847.61,5.39,7.6,36,2826.72,79.36,0.59,Electronics,High-Value Loyalist
+C10363,40,Male,West,108435.53,6.12,4.2,27,2593.2,96.01,0.74,Sports,High-Value Loyalist
+C10364,63,Female,East,75306.85,4.93,49.5,2,119.46,74.26,0.5,Beauty,At-Risk / Churning
+C10365,21,Female,South,51255.81,4.53,3.4,13,476.69,36.35,0.88,Sports,Bargain Hunter
+C10366,29,Female,South,40750.55,4.75,93.3,1,254.8,254.8,0.15,Groceries,At-Risk / Churning
+C10367,48,Male,East,88007.32,5.52,85.2,1,225.44,154.12,0.08,Sports,At-Risk / Churning
+C10368,22,Male,West,44786.47,2.59,3.7,20,1064.51,53.06,0.88,Beauty,Young Digital Shopper
+C10369,36,Female,West,44819.55,0.22,30.3,9,106.47,12.03,0.71,Home & Living,New / Occasional Shopper
+C10370,39,Male,South,70251.9,5.04,91.4,2,366.14,186.17,0.43,Sports,At-Risk / Churning
+C10371,27,Non-binary,West,48709.12,1.18,3.4,27,634.87,23.11,0.91,Home & Living,Young Digital Shopper
+C10372,22,Male,East,36362.18,1.74,7.3,12,806.44,66.46,0.71,Fashion,Young Digital Shopper
+C10373,31,Female,West,32308.0,0.49,9.2,15,1430.47,92.32,0.94,Fashion,Young Digital Shopper
+C10374,39,Male,West,91951.83,7.12,14.4,24,3263.91,138.84,0.69,Sports,High-Value Loyalist
+C10375,26,Female,East,75987.59,3.13,9.6,27,3252.45,119.7,0.71,Beauty,High-Value Loyalist
+C10376,23,Female,South,66472.16,0.6,48.6,5,341.48,74.55,0.35,Electronics,New / Occasional Shopper
+C10377,41,Male,South,36507.85,1.26,26.9,15,460.85,30.26,0.13,Electronics,Bargain Hunter
+C10378,18,Male,South,62913.96,0.81,6.5,15,1248.49,83.77,0.83,Home & Living,Young Digital Shopper
+C10379,69,Female,West,67194.23,2.66,96.6,5,84.02,18.33,0.48,Fashion,At-Risk / Churning
+C10380,43,Male,West,53653.45,2.82,1.0,12,516.32,44.07,0.59,Sports,Bargain Hunter
+C10381,18,Male,West,49670.6,0.1,41.6,6,212.63,34.92,0.47,Sports,New / Occasional Shopper
+C10382,43,Female,West,76023.57,5.76,88.7,6,218.67,39.22,0.44,Home & Living,At-Risk / Churning
+C10383,32,Male,South,63879.23,4.56,35.5,12,376.09,31.45,0.65,Beauty,Bargain Hunter
+C10384,31,Female,West,70685.51,1.38,9.0,19,933.78,48.58,0.92,Beauty,Young Digital Shopper
+C10385,43,Male,North,27897.23,0.27,28.5,4,359.19,85.62,0.57,Home & Living,New / Occasional Shopper
+C10386,18,Female,North,39945.24,4.67,153.3,4,105.16,25.15,0.34,Fashion,At-Risk / Churning
+C10387,34,Female,West,36903.18,0.1,46.8,3,87.0,33.42,0.3,Fashion,New / Occasional Shopper
+C10388,44,Female,West,73410.77,8.54,1.0,22,2869.7,132.02,0.46,Sports,High-Value Loyalist
+C10389,30,Male,East,44365.43,0.48,22.5,4,111.14,28.63,0.68,Fashion,New / Occasional Shopper
+C10390,53,Female,South,51038.75,2.95,88.6,3,138.54,48.91,0.36,Electronics,At-Risk / Churning
+C10391,38,Male,North,105205.47,7.09,4.5,43,3819.98,88.58,0.75,Fashion,High-Value Loyalist
+C10392,18,Female,West,45754.24,3.69,25.6,12,461.32,39.75,0.76,Fashion,Bargain Hunter
+C10393,33,Male,West,92282.28,2.73,87.5,2,173.0,98.66,0.22,Groceries,At-Risk / Churning
+C10394,40,Male,East,84327.33,5.26,13.5,30,3385.72,113.77,0.44,Home & Living,High-Value Loyalist
+C10395,36,Male,South,67107.73,3.48,20.1,14,346.52,24.45,0.14,Groceries,Bargain Hunter
+C10396,35,Female,North,39771.2,1.15,22.9,5,218.38,42.79,0.54,Groceries,New / Occasional Shopper
+C10397,34,Male,South,58422.98,0.59,4.6,20,996.44,48.76,0.66,Home & Living,Young Digital Shopper
+C10398,40,Male,North,67812.75,2.72,16.8,7,468.73,69.24,0.43,Fashion,Bargain Hunter
+C10399,18,Female,East,46563.33,2.91,20.0,8,554.97,70.47,0.66,Fashion,Bargain Hunter
+C10400,25,Female,North,47059.52,0.45,5.2,20,1175.96,58.04,0.78,Home & Living,Young Digital Shopper
+C10401,33,Female,East,52579.01,1.03,13.6,8,125.2,16.54,0.68,Groceries,New / Occasional Shopper
+C10402,50,Male,West,117149.46,2.03,92.5,6,428.79,69.02,0.42,Electronics,At-Risk / Churning
+C10403,56,Female,North,98600.1,6.93,1.0,26,3657.76,140.92,0.51,Fashion,High-Value Loyalist
+C10404,30,Male,West,45473.49,0.63,29.8,6,103.48,16.03,0.71,Beauty,New / Occasional Shopper
+C10405,31,Male,West,74718.0,0.55,43.7,1,20.0,20.0,0.8,Fashion,New / Occasional Shopper
+C10406,27,Female,North,58154.08,1.49,4.2,17,957.58,56.76,0.92,Home & Living,Young Digital Shopper
+C10407,18,Female,South,74654.63,0.41,25.9,3,174.08,60.8,0.66,Beauty,New / Occasional Shopper
+C10408,43,Male,East,52565.23,4.56,17.4,27,3606.44,133.0,0.34,Sports,High-Value Loyalist
+C10409,25,Male,East,56371.2,0.1,25.2,3,157.9,51.02,0.91,Fashion,New / Occasional Shopper
+C10410,33,Female,East,43768.0,7.5,44.6,2,20.0,13.06,0.15,Electronics,At-Risk / Churning
+C10411,34,Male,East,29278.3,6.08,56.5,3,381.54,130.95,0.53,Beauty,At-Risk / Churning
+C10412,39,Male,South,91378.58,2.57,18.2,17,3035.73,174.19,0.73,Sports,High-Value Loyalist
+C10413,28,Female,North,21060.64,0.64,43.9,5,225.75,42.33,0.48,Sports,New / Occasional Shopper
+C10414,61,Female,West,96722.52,3.42,2.1,29,2253.74,77.5,0.37,Home & Living,High-Value Loyalist
+C10415,28,Female,East,54275.94,1.22,1.6,16,1031.6,63.31,0.83,Groceries,Young Digital Shopper
+C10416,44,Female,North,123669.11,3.3,7.1,35,3591.56,102.39,0.33,Fashion,High-Value Loyalist
+C10417,46,Male,South,72292.88,4.68,116.4,4,197.6,54.64,0.0,Beauty,At-Risk / Churning
+C10418,36,Female,West,62887.16,0.72,9.1,14,796.1,56.1,0.87,Beauty,Young Digital Shopper
+C10419,20,Female,North,62952.25,1.09,36.5,1,175.38,175.38,0.71,Fashion,New / Occasional Shopper
+C10420,50,Female,West,33698.91,8.24,49.6,5,427.44,81.49,0.41,Home & Living,At-Risk / Churning
+C10421,33,Female,East,126165.72,2.16,10.7,26,2732.21,106.37,0.59,Fashion,High-Value Loyalist
+C10422,45,Female,North,85610.83,8.27,6.7,23,3087.14,131.6,0.83,Beauty,High-Value Loyalist
+C10423,49,Female,North,115339.47,9.63,3.9,28,1924.63,69.9,0.72,Home & Living,High-Value Loyalist
+C10424,55,Male,West,41918.22,2.88,68.4,4,295.64,69.51,0.25,Home & Living,At-Risk / Churning
+C10425,19,Male,North,40011.55,0.1,40.1,4,52.78,14.49,0.85,Groceries,New / Occasional Shopper
+C10426,26,Male,North,54739.94,0.1,10.5,15,1125.97,72.94,0.9,Home & Living,Young Digital Shopper
+C10427,35,Male,North,50849.4,0.57,39.1,3,254.45,84.51,0.34,Electronics,New / Occasional Shopper
+C10428,45,Female,South,114394.61,4.98,6.3,33,3234.82,98.97,0.42,Beauty,High-Value Loyalist
+C10429,35,Female,East,48519.69,0.75,11.1,1,218.22,218.22,0.49,Fashion,New / Occasional Shopper
+C10430,18,Male,East,70116.48,0.1,40.3,3,95.95,30.35,0.55,Fashion,New / Occasional Shopper
+C10431,62,Male,North,51987.42,4.07,58.9,2,20.0,9.31,0.33,Electronics,At-Risk / Churning
+C10432,63,Female,West,76411.99,6.28,116.3,3,401.95,138.86,0.06,Sports,At-Risk / Churning
+C10433,19,Female,West,45082.97,1.29,22.6,5,20.0,4.21,0.22,Fashion,New / Occasional Shopper
+C10434,32,Female,North,94946.01,4.04,13.1,31,3303.76,108.27,0.71,Beauty,High-Value Loyalist
+C10435,24,Female,East,43322.33,0.52,6.3,19,635.47,33.15,0.94,Beauty,Young Digital Shopper
+C10436,45,Non-binary,East,56856.13,5.4,12.5,24,4053.97,169.35,0.48,Home & Living,High-Value Loyalist
+C10437,51,Female,East,52546.63,1.23,24.2,11,547.18,48.51,0.36,Electronics,Bargain Hunter
+C10438,45,Male,South,74205.5,9.58,117.6,1,157.25,150.0,0.06,Home & Living,At-Risk / Churning
+C10439,30,Female,South,59976.6,2.13,97.7,2,410.6,164.6,0.81,Electronics,At-Risk / Churning
+C10440,47,Male,North,60635.33,0.41,33.0,4,106.51,26.15,0.83,Home & Living,New / Occasional Shopper
+C10441,40,Female,West,90770.61,7.11,8.1,33,4352.55,132.81,0.64,Fashion,High-Value Loyalist
+C10442,56,Male,North,63424.82,8.2,49.4,2,248.39,105.98,0.25,Home & Living,At-Risk / Churning
+C10443,27,Female,East,48976.65,0.96,2.3,19,953.92,50.05,0.77,Fashion,Young Digital Shopper
+C10444,28,Male,North,41024.18,2.58,7.9,18,89.11,4.93,0.84,Sports,Young Digital Shopper
+C10445,68,Male,West,44787.74,4.62,85.1,1,487.81,487.81,0.33,Groceries,At-Risk / Churning
+C10446,22,Female,North,35290.83,0.1,42.4,3,20.0,7.27,0.64,Groceries,New / Occasional Shopper
+C10447,36,Male,West,46027.35,6.32,37.8,1,402.29,402.29,0.8,Beauty,At-Risk / Churning
+C10448,33,Female,North,132075.79,4.17,7.1,41,4175.46,102.61,0.29,Electronics,High-Value Loyalist
+C10449,47,Female,North,119924.78,4.78,58.1,3,346.31,100.15,0.35,Home & Living,At-Risk / Churning
+C10450,46,Female,South,100896.81,3.16,10.9,36,3855.88,105.71,0.56,Electronics,High-Value Loyalist
+C10451,33,Female,South,37825.01,0.1,21.0,2,31.39,19.34,0.6,Electronics,New / Occasional Shopper
+C10452,30,Female,East,67595.04,2.72,103.5,2,198.82,104.58,0.46,Sports,At-Risk / Churning
+C10453,49,Male,South,105827.9,7.52,12.6,16,4147.68,257.04,0.61,Groceries,High-Value Loyalist
+C10454,39,Male,South,101608.6,9.59,6.4,33,2089.48,62.92,0.47,Beauty,High-Value Loyalist
+C10455,21,Male,North,52030.15,2.29,3.1,18,1204.66,66.66,0.82,Fashion,Young Digital Shopper
+C10456,32,Female,East,93618.89,1.31,50.8,5,101.17,21.76,0.63,Groceries,New / Occasional Shopper
+C10457,46,Female,South,34420.76,3.94,24.9,6,196.88,32.63,0.55,Home & Living,Bargain Hunter
+C10458,54,Female,South,40306.95,2.62,82.4,1,20.0,20.0,0.5,Fashion,At-Risk / Churning
+C10459,39,Male,East,71806.22,3.4,68.5,1,277.26,277.26,0.26,Home & Living,At-Risk / Churning
+C10460,42,Male,South,38072.7,1.62,29.1,12,476.9,39.11,0.31,Home & Living,Bargain Hunter
+C10461,46,Female,West,78846.43,4.02,9.7,43,3271.7,76.86,0.77,Sports,High-Value Loyalist
+C10462,34,Male,South,33504.17,1.5,22.9,6,287.24,48.06,0.95,Home & Living,New / Occasional Shopper
+C10463,32,Male,North,56556.83,1.47,2.1,14,1097.58,79.35,0.87,Groceries,Young Digital Shopper
+C10464,52,Female,North,24958.49,1.49,22.5,14,191.01,13.86,0.37,Beauty,Bargain Hunter
+C10465,74,Female,East,43714.25,5.26,98.2,4,314.27,76.32,0.43,Groceries,At-Risk / Churning
+C10466,34,Male,East,75914.42,5.0,107.3,4,418.4,115.26,0.39,Electronics,At-Risk / Churning
+C10467,30,Female,East,34976.24,0.32,17.2,7,225.38,32.82,0.64,Beauty,New / Occasional Shopper
+C10468,34,Female,East,94913.09,5.23,12.3,16,3159.7,192.85,0.49,Home & Living,High-Value Loyalist
+C10469,59,Male,South,47465.09,3.01,22.9,19,337.5,17.78,0.86,Fashion,Bargain Hunter
+C10470,41,Female,West,51081.17,2.43,13.8,11,554.6,49.07,0.5,Groceries,Bargain Hunter
+C10471,51,Female,South,42659.89,0.75,13.3,13,649.13,51.86,0.73,Fashion,Bargain Hunter
+C10472,39,Female,North,123879.38,6.74,1.0,18,2620.01,143.27,0.59,Fashion,High-Value Loyalist
+C10473,47,Male,South,116162.34,2.85,1.0,35,2981.53,84.87,0.66,Fashion,High-Value Loyalist
+C10474,31,Male,East,28976.94,2.79,6.1,14,1101.65,81.16,0.94,Fashion,Young Digital Shopper
+C10475,32,Female,North,28281.04,2.44,8.4,24,872.38,36.67,0.78,Beauty,Young Digital Shopper
+C10476,37,Female,South,62017.53,7.12,13.7,8,434.84,52.63,0.7,Fashion,Bargain Hunter
+C10477,33,Female,East,80376.22,5.31,61.5,2,177.5,107.53,0.33,Beauty,At-Risk / Churning
+C10478,30,Male,East,74555.72,4.41,83.7,5,160.92,30.23,0.03,Home & Living,At-Risk / Churning
+C10479,35,Male,South,39815.14,0.1,37.6,7,311.19,45.22,0.61,Home & Living,Bargain Hunter
+C10480,47,Male,East,59813.64,3.88,18.4,7,398.99,59.13,0.3,Home & Living,Bargain Hunter
+C10481,27,Male,East,59094.9,1.77,4.8,17,1092.1,65.76,0.85,Home & Living,Young Digital Shopper
+C10482,44,Female,North,64413.66,5.55,10.1,14,340.09,24.86,0.5,Sports,Bargain Hunter
+C10483,35,Male,South,39553.45,1.29,2.1,15,873.65,56.77,0.69,Groceries,Young Digital Shopper
+C10484,45,Female,South,84187.46,1.05,10.9,32,2662.02,82.31,0.48,Groceries,High-Value Loyalist
+C10485,38,Female,South,38764.64,3.72,14.9,6,445.67,73.08,0.59,Beauty,Bargain Hunter
+C10486,52,Male,North,30424.98,5.57,13.8,9,359.51,38.36,0.51,Home & Living,Bargain Hunter
+C10487,29,Female,South,55683.63,1.96,2.8,23,901.89,38.8,0.77,Beauty,Young Digital Shopper
+C10488,37,Male,East,41932.8,0.92,26.1,11,444.97,41.1,0.57,Sports,Bargain Hunter
+C10489,44,Female,West,35029.06,2.88,21.3,12,510.35,40.88,0.26,Sports,Bargain Hunter
+C10490,60,Male,North,66749.86,2.92,59.9,4,237.88,53.61,0.46,Sports,At-Risk / Churning
+C10491,51,Male,East,69874.45,5.62,70.5,1,487.47,487.47,0.85,Electronics,At-Risk / Churning
+C10492,54,Male,West,86822.31,3.64,54.7,3,287.43,104.47,0.52,Electronics,At-Risk / Churning
+C10493,31,Male,North,47008.9,1.89,7.6,17,696.27,41.87,0.96,Sports,Young Digital Shopper
+C10494,34,Male,West,48959.47,2.02,88.9,2,369.64,197.52,0.31,Beauty,At-Risk / Churning
+C10495,48,Female,South,57503.97,3.52,24.6,12,391.77,31.9,0.36,Sports,Bargain Hunter
+C10496,52,Male,South,60859.75,3.18,23.8,11,230.83,21.68,0.46,Groceries,Bargain Hunter
+C10497,59,Male,South,46156.92,4.23,67.9,6,367.94,62.34,0.27,Groceries,At-Risk / Churning
+C10498,28,Male,South,78419.91,2.73,6.8,22,444.06,19.9,0.84,Groceries,Young Digital Shopper
+C10499,48,Male,North,27126.36,0.1,26.7,19,120.61,6.46,0.8,Sports,Bargain Hunter
+C10500,18,Female,South,68922.76,0.1,113.8,4,341.88,91.71,0.27,Sports,At-Risk / Churning
+C10501,42,Male,West,15181.86,0.8,12.3,2,36.63,15.87,0.66,Home & Living,New / Occasional Shopper
+C10502,37,Male,East,36777.61,0.68,32.4,1,150.1,150.1,0.65,Beauty,New / Occasional Shopper
+C10503,35,Male,West,56006.73,1.84,30.0,11,467.64,44.04,0.46,Groceries,Bargain Hunter
+C10504,42,Male,North,52395.58,3.69,17.0,10,343.78,35.49,0.17,Fashion,Bargain Hunter
+C10505,41,Female,South,97907.67,8.33,75.5,1,120.88,96.72,0.0,Electronics,At-Risk / Churning
+C10506,21,Male,East,69735.21,3.7,4.6,18,1381.18,78.23,0.93,Beauty,Young Digital Shopper
+C10507,24,Female,East,17295.06,0.1,30.8,6,233.9,37.19,0.65,Beauty,New / Occasional Shopper
+C10508,42,Male,North,54334.29,7.63,12.0,14,20.0,1.38,0.58,Electronics,Bargain Hunter
+C10509,41,Male,East,86673.51,5.53,13.2,31,3306.61,107.24,0.67,Electronics,High-Value Loyalist
+C10510,43,Female,East,64211.58,5.56,5.3,35,2265.18,64.93,0.23,Beauty,High-Value Loyalist
+C10511,27,Male,West,17122.68,0.98,41.8,5,20.0,3.76,0.88,Fashion,New / Occasional Shopper
+C10512,47,Female,East,104372.98,5.24,12.3,17,2149.26,125.78,0.44,Sports,High-Value Loyalist
+C10513,31,Female,North,61781.94,1.82,2.5,20,695.65,34.45,0.86,Sports,Young Digital Shopper
+C10514,28,Male,East,40851.56,3.15,13.7,17,989.76,57.33,0.84,Beauty,Young Digital Shopper
+C10515,52,Female,East,105532.51,5.73,7.7,35,4976.94,143.58,0.6,Beauty,High-Value Loyalist
+C10516,23,Female,South,44660.19,3.27,1.0,13,794.66,60.75,0.88,Beauty,Young Digital Shopper
+C10517,38,Female,East,87494.97,2.02,113.2,3,198.05,64.8,0.57,Fashion,At-Risk / Churning
+C10518,39,Male,West,98696.4,6.9,4.1,30,2870.99,94.25,0.34,Electronics,High-Value Loyalist
+C10519,27,Female,North,30576.52,0.83,32.8,3,89.01,30.96,1.0,Home & Living,New / Occasional Shopper
+C10520,38,Female,West,38803.35,0.41,39.1,3,219.46,63.39,0.72,Electronics,New / Occasional Shopper
+C10521,24,Male,East,25315.53,0.96,8.0,24,1708.51,71.71,0.85,Groceries,Young Digital Shopper
+C10522,43,Female,West,80396.67,5.43,7.1,16,3848.46,238.62,0.43,Electronics,High-Value Loyalist
+C10523,44,Female,South,59774.18,8.12,97.0,6,362.58,61.68,0.54,Home & Living,At-Risk / Churning
+C10524,51,Female,West,114314.17,7.06,11.2,19,2610.98,135.48,0.51,Beauty,High-Value Loyalist
+C10525,32,Male,West,62390.05,0.1,10.8,14,1094.79,79.25,0.83,Sports,Young Digital Shopper
+C10526,35,Female,West,75267.14,0.1,37.7,9,195.98,22.03,0.65,Electronics,New / Occasional Shopper
+C10527,24,Male,North,64218.46,0.57,52.4,6,147.4,23.53,0.64,Sports,New / Occasional Shopper
+C10528,52,Non-binary,South,99497.82,9.5,107.4,3,376.02,148.6,0.69,Sports,At-Risk / Churning
+C10529,24,Non-binary,West,54912.83,1.17,12.7,21,1086.36,51.32,0.88,Beauty,Young Digital Shopper
+C10530,45,Male,West,62708.52,6.29,128.0,3,267.37,106.07,0.18,Fashion,At-Risk / Churning
+C10531,50,Female,South,71487.09,4.84,81.2,4,303.96,74.94,0.36,Electronics,At-Risk / Churning
+C10532,24,Male,North,68488.34,1.4,16.8,13,572.16,44.09,0.8,Electronics,Young Digital Shopper
+C10533,50,Male,North,70578.71,1.6,67.7,3,257.19,102.39,0.03,Fashion,At-Risk / Churning
+C10534,44,Female,North,105999.1,7.95,1.0,19,3664.25,191.86,0.13,Groceries,High-Value Loyalist
+C10535,21,Male,South,60586.84,1.93,18.8,8,1158.61,151.77,0.74,Electronics,Young Digital Shopper
+C10536,27,Female,North,62927.58,5.87,5.5,16,358.61,22.46,0.22,Home & Living,Bargain Hunter
+C10537,52,Female,East,80633.38,5.85,7.6,29,4268.41,148.59,0.62,Electronics,High-Value Loyalist
+C10538,53,Female,East,95066.7,4.0,6.0,25,2812.36,114.26,0.34,Fashion,High-Value Loyalist
+C10539,30,Female,West,55566.18,0.69,1.0,5,165.48,32.22,0.55,Fashion,New / Occasional Shopper
+C10540,40,Male,South,48645.26,1.41,30.3,2,47.71,23.08,0.69,Beauty,New / Occasional Shopper
+C10541,40,Female,West,51253.2,1.19,28.6,13,20.0,1.49,0.61,Fashion,Bargain Hunter
+C10542,35,Male,West,20388.98,0.11,45.6,6,184.23,33.33,0.48,Home & Living,New / Occasional Shopper
+C10543,41,Female,East,42522.01,0.1,33.6,1,166.8,166.8,0.77,Home & Living,New / Occasional Shopper
+C10544,36,Female,West,110384.12,6.28,1.0,30,4333.6,144.07,0.77,Beauty,High-Value Loyalist
+C10545,34,Male,North,59613.3,0.58,11.9,14,739.97,52.74,0.49,Sports,Bargain Hunter
+C10546,25,Female,West,58521.97,1.1,3.9,23,902.51,38.98,0.82,Sports,Young Digital Shopper
+C10547,41,Male,East,106601.25,4.46,5.3,22,3036.28,140.0,0.72,Electronics,High-Value Loyalist
+C10548,54,Female,West,92856.96,2.09,93.8,4,360.7,84.12,0.12,Fashion,At-Risk / Churning
+C10549,46,Female,South,56060.7,6.69,20.8,1,728.32,728.32,0.32,Sports,Bargain Hunter
+C10550,18,Male,South,57069.75,4.28,9.0,7,214.12,31.92,0.66,Beauty,Bargain Hunter
+C10551,43,Male,South,71791.97,7.48,6.3,25,3525.11,141.65,0.7,Beauty,High-Value Loyalist
+C10552,25,Male,West,44104.84,1.67,3.2,16,1472.69,90.91,0.9,Electronics,Young Digital Shopper
+C10553,44,Male,North,34184.07,0.82,30.9,4,193.13,54.07,0.51,Electronics,New / Occasional Shopper
+C10554,31,Female,South,86303.15,4.97,5.8,40,3901.2,97.55,0.69,Groceries,High-Value Loyalist
+C10555,29,Male,North,53892.66,2.39,11.1,18,907.47,50.57,0.89,Beauty,Young Digital Shopper
+C10556,25,Non-binary,East,35296.35,1.86,1.0,18,1384.31,75.57,1.0,Electronics,Young Digital Shopper
+C10557,48,Male,West,45682.77,1.85,14.9,8,110.92,13.38,0.76,Electronics,Bargain Hunter
+C10558,35,Female,North,76688.89,4.78,40.9,4,366.83,84.2,0.29,Groceries,Bargain Hunter
+C10559,38,Male,South,45316.14,2.88,36.1,13,520.47,39.47,0.0,Electronics,Bargain Hunter
+C10560,25,Female,West,89358.34,5.57,2.0,38,3370.99,88.09,0.43,Groceries,High-Value Loyalist
+C10561,26,Male,South,58148.1,1.73,1.0,17,1252.91,73.29,0.76,Home & Living,Young Digital Shopper
+C10562,28,Female,West,42425.99,0.53,47.8,1,160.12,118.85,0.56,Fashion,New / Occasional Shopper
+C10563,38,Male,West,62733.98,4.34,122.3,1,280.32,209.62,0.31,Home & Living,At-Risk / Churning
+C10564,37,Female,South,80521.44,5.02,69.5,2,429.84,245.76,0.55,Fashion,At-Risk / Churning
+C10565,47,Female,North,46767.51,4.55,107.6,2,467.92,290.06,0.29,Sports,At-Risk / Churning
+C10566,44,Female,South,59399.53,6.66,107.3,2,242.33,144.73,0.35,Beauty,At-Risk / Churning
+C10567,40,Female,North,90721.69,7.77,7.1,20,2474.29,123.1,0.47,Beauty,High-Value Loyalist
+C10568,32,Male,East,66614.13,1.74,11.0,15,801.43,54.39,1.0,Home & Living,Young Digital Shopper
+C10569,49,Female,East,43999.71,0.99,22.2,15,245.96,16.72,0.5,Beauty,Bargain Hunter
+C10570,28,Female,West,44135.73,2.63,3.4,19,605.91,31.46,0.91,Home & Living,Young Digital Shopper
+C10571,34,Male,North,15000.0,0.97,43.1,10,168.96,16.56,0.63,Beauty,New / Occasional Shopper
+C10572,18,Female,North,59887.58,0.69,45.7,13,246.81,18.3,0.56,Groceries,Bargain Hunter
+C10573,48,Female,North,42844.4,1.64,71.3,6,274.48,45.96,0.24,Groceries,At-Risk / Churning
+C10574,32,Male,South,59703.51,0.1,26.6,7,115.42,16.16,0.6,Fashion,New / Occasional Shopper
+C10575,20,Female,North,81365.15,4.02,2.4,10,609.72,63.41,0.21,Electronics,Bargain Hunter
+C10576,33,Male,North,53253.95,0.14,61.4,8,174.42,22.09,0.54,Sports,New / Occasional Shopper
+C10577,35,Male,East,53437.66,2.22,15.0,12,804.68,66.4,0.48,Electronics,Bargain Hunter
+C10578,45,Female,South,47470.31,0.79,31.3,1,34.22,34.22,0.28,Beauty,New / Occasional Shopper
+C10579,26,Male,North,45069.76,2.69,2.6,22,708.65,32.05,0.8,Electronics,Young Digital Shopper
+C10580,45,Female,North,52125.05,5.8,23.8,8,730.56,94.48,0.38,Sports,Bargain Hunter
+C10581,46,Female,South,68055.92,3.06,11.6,15,696.97,45.55,0.45,Fashion,Bargain Hunter
+C10582,57,Male,West,76923.78,4.6,3.3,38,3637.18,96.57,0.87,Groceries,High-Value Loyalist
+C10583,26,Male,North,26710.84,0.61,8.7,21,932.73,45.24,0.85,Groceries,Young Digital Shopper
+C10584,36,Male,East,76116.77,0.56,57.3,1,131.69,131.69,0.73,Electronics,New / Occasional Shopper
+C10585,47,Male,East,98286.51,6.3,78.7,5,82.61,15.48,0.14,Beauty,At-Risk / Churning
+C10586,42,Female,North,70131.57,3.24,7.1,33,2895.53,87.69,0.51,Beauty,High-Value Loyalist
+C10587,30,Female,South,48875.1,2.86,2.0,17,470.77,27.02,0.8,Home & Living,Young Digital Shopper
+C10588,25,Female,South,47568.26,2.99,8.6,6,1011.48,179.43,0.88,Groceries,Young Digital Shopper
+C10589,53,Female,West,90278.34,6.18,3.5,29,3058.06,104.79,0.78,Groceries,High-Value Loyalist
+C10590,41,Male,North,56754.08,0.55,56.3,5,195.09,37.39,0.9,Electronics,New / Occasional Shopper
+C10591,55,Female,North,51885.54,2.42,15.5,17,540.06,32.05,0.56,Electronics,Bargain Hunter
+C10592,22,Male,East,49548.51,2.47,7.1,17,1221.15,71.32,0.98,Electronics,Young Digital Shopper
+C10593,38,Female,East,34699.56,4.28,26.7,12,809.03,69.84,0.79,Electronics,Bargain Hunter
+C10594,32,Male,North,63698.23,5.0,3.6,28,1726.12,62.28,0.47,Fashion,High-Value Loyalist
+C10595,24,Male,East,68686.73,0.73,8.6,16,929.5,57.38,0.88,Groceries,Young Digital Shopper
+C10596,42,Male,West,38106.07,6.67,83.9,3,20.0,6.18,0.34,Home & Living,At-Risk / Churning
+C10597,64,Female,South,88978.68,3.1,155.0,5,282.83,62.62,0.54,Home & Living,At-Risk / Churning
+C10598,34,Female,South,35221.36,0.1,24.7,5,167.61,34.72,0.26,Home & Living,New / Occasional Shopper
+C10599,53,Male,South,64378.78,5.02,111.6,5,410.07,91.01,0.47,Home & Living,At-Risk / Churning
+C10600,42,Non-binary,North,69795.01,5.83,1.0,10,374.13,38.03,0.73,Electronics,Bargain Hunter
+C10601,32,Male,West,37175.7,6.2,79.1,2,41.82,17.69,0.48,Fashion,At-Risk / Churning
+C10602,30,Female,North,44543.59,0.1,60.3,1,93.88,93.88,0.65,Home & Living,New / Occasional Shopper
+C10603,39,Male,East,61289.38,4.48,100.7,3,196.55,77.77,0.32,Groceries,At-Risk / Churning
+C10604,26,Male,South,63923.03,0.1,43.9,6,89.01,14.04,0.58,Fashion,New / Occasional Shopper
+C10605,67,Male,West,37037.33,0.49,73.5,3,341.98,120.1,0.0,Home & Living,At-Risk / Churning
+C10606,26,Male,South,47431.38,0.74,41.2,4,147.08,39.57,0.82,Sports,New / Occasional Shopper
+C10607,45,Male,North,125928.27,5.03,11.9,35,2772.57,78.57,0.47,Groceries,High-Value Loyalist
+C10608,64,Male,East,77667.03,1.14,77.4,4,291.21,67.98,0.49,Home & Living,At-Risk / Churning
+C10609,44,Female,East,43201.87,6.03,1.0,7,410.84,61.57,0.51,Beauty,Bargain Hunter
+C10610,37,Male,North,67458.57,3.71,14.1,10,256.61,24.58,0.78,Beauty,Bargain Hunter
+C10611,54,Male,West,54985.62,3.37,71.6,2,307.45,181.77,0.28,Home & Living,At-Risk / Churning
+C10612,29,Female,North,40175.27,0.48,38.0,5,243.14,44.24,0.76,Home & Living,New / Occasional Shopper
+C10613,25,Male,West,45294.75,1.01,23.2,4,93.11,22.21,0.32,Sports,New / Occasional Shopper
+C10614,20,Male,West,53076.43,0.1,11.5,17,885.33,52.13,0.97,Home & Living,Young Digital Shopper
+C10615,18,Non-binary,West,58049.94,4.22,67.0,2,201.43,81.53,0.51,Sports,At-Risk / Churning
+C10616,54,Female,South,36325.57,3.51,43.8,7,170.06,24.34,0.32,Sports,At-Risk / Churning
+C10617,28,Female,East,29779.62,2.32,1.0,17,869.53,51.13,0.74,Fashion,Young Digital Shopper
+C10618,58,Male,East,90531.44,3.33,10.2,21,3636.57,176.46,0.48,Electronics,High-Value Loyalist
+C10619,39,Male,West,112094.24,3.47,4.1,38,2272.46,59.16,0.79,Electronics,High-Value Loyalist
+C10620,43,Male,East,76027.14,2.54,122.5,5,203.32,37.78,0.39,Sports,At-Risk / Churning
+C10621,33,Female,North,55494.48,1.95,1.0,11,647.4,59.86,0.72,Electronics,Bargain Hunter
+C10622,18,Male,West,61652.31,0.55,31.8,8,24.57,3.21,0.83,Fashion,New / Occasional Shopper
+C10623,44,Male,East,61465.92,0.54,37.9,15,330.92,22.01,0.3,Beauty,Bargain Hunter
+C10624,45,Female,South,52876.08,0.42,39.9,3,239.46,70.72,0.65,Beauty,New / Occasional Shopper
+C10625,29,Male,West,60397.57,6.12,19.4,13,351.92,27.16,0.26,Beauty,Bargain Hunter
+C10626,42,Male,West,53993.64,4.38,119.6,2,171.44,74.79,0.72,Home & Living,At-Risk / Churning
+C10627,46,Male,West,132279.49,3.96,8.1,26,2382.57,90.19,0.71,Beauty,High-Value Loyalist
+C10628,55,Female,North,68168.39,1.01,19.7,6,650.39,101.89,0.43,Sports,Bargain Hunter
+C10629,18,Male,West,35657.69,0.63,46.2,3,212.01,65.25,0.51,Beauty,New / Occasional Shopper
+C10630,34,Female,West,21517.09,0.91,57.8,3,274.55,90.15,0.63,Groceries,New / Occasional Shopper
+C10631,41,Male,West,33615.23,0.62,46.7,3,211.46,65.68,0.56,Electronics,New / Occasional Shopper
+C10632,42,Male,West,85277.24,3.49,7.7,29,2768.55,96.12,0.53,Groceries,High-Value Loyalist
+C10633,27,Male,East,62065.36,1.26,1.0,6,830.21,133.66,0.77,Home & Living,Young Digital Shopper
+C10634,31,Male,East,102193.35,5.29,8.1,30,2836.16,94.27,0.76,Fashion,High-Value Loyalist
+C10635,48,Female,West,93925.97,0.1,6.4,32,2990.58,94.06,0.15,Home & Living,High-Value Loyalist
+C10636,72,Female,East,59649.44,8.62,52.7,2,261.6,121.06,0.15,Electronics,At-Risk / Churning
+C10637,47,Female,South,34100.66,3.04,123.7,3,219.52,69.63,0.45,Fashion,At-Risk / Churning
+C10638,29,Female,East,81741.74,1.47,82.4,5,231.84,43.6,0.32,Home & Living,At-Risk / Churning
+C10639,26,Female,West,45015.71,0.41,36.8,1,159.23,159.23,0.81,Electronics,New / Occasional Shopper
+C10640,46,Male,North,39389.69,1.05,84.1,5,112.84,22.62,0.28,Beauty,At-Risk / Churning
+C10641,22,Male,West,46383.98,1.28,16.9,2,48.59,25.14,0.44,Groceries,New / Occasional Shopper
+C10642,34,Female,West,108671.61,6.76,2.9,28,3237.0,114.64,0.9,Fashion,High-Value Loyalist
+C10643,36,Female,North,28444.37,0.2,2.6,18,824.87,46.3,0.85,Fashion,Young Digital Shopper
+C10644,45,Male,West,80916.61,2.61,84.2,1,71.19,68.37,0.3,Beauty,At-Risk / Churning
+C10645,39,Male,East,46733.24,0.33,37.8,7,140.6,20.43,0.5,Home & Living,New / Occasional Shopper
+C10646,34,Female,West,58584.47,9.41,5.2,30,3295.38,109.27,0.73,Sports,High-Value Loyalist
+C10647,46,Female,North,75938.59,2.93,38.5,15,525.96,35.53,0.46,Fashion,Bargain Hunter
+C10648,38,Male,South,56177.88,8.14,26.1,6,229.13,35.55,0.44,Electronics,At-Risk / Churning
+C10649,30,Male,North,138152.78,4.92,13.4,29,4197.56,143.48,0.37,Sports,High-Value Loyalist
+C10650,44,Male,South,59450.47,2.2,39.7,5,661.44,141.69,0.39,Home & Living,Bargain Hunter
+C10651,35,Female,North,28315.02,0.77,46.1,3,70.83,26.49,0.54,Beauty,New / Occasional Shopper
+C10652,57,Male,East,81648.43,0.85,77.2,1,270.65,270.65,0.44,Fashion,At-Risk / Churning
+C10653,24,Female,South,38867.59,1.32,8.8,11,476.08,43.38,0.85,Electronics,Young Digital Shopper
+C10654,26,Female,South,39100.53,0.2,37.3,3,313.01,116.93,0.75,Sports,New / Occasional Shopper
+C10655,32,Male,North,40795.41,1.7,9.1,19,1397.47,72.75,0.98,Electronics,Young Digital Shopper
+C10656,29,Female,West,70204.61,0.88,36.2,3,138.63,43.48,0.41,Groceries,New / Occasional Shopper
+C10657,19,Male,East,49526.9,1.64,10.6,8,1555.48,188.8,0.85,Electronics,Young Digital Shopper
+C10658,41,Female,West,65963.38,4.62,25.2,18,498.35,27.62,0.89,Beauty,Bargain Hunter
+C10659,23,Male,East,65946.53,1.25,6.1,24,743.46,30.59,0.93,Groceries,Young Digital Shopper
+C10660,30,Male,South,22031.08,1.13,5.7,21,1017.08,48.31,0.96,Sports,Young Digital Shopper
+C10661,18,Male,South,53840.26,1.12,30.0,2,210.29,96.67,0.9,Groceries,New / Occasional Shopper
+C10662,30,Female,South,46951.54,0.45,3.2,16,1201.36,75.92,0.88,Sports,Young Digital Shopper
+C10663,37,Male,South,100946.98,6.26,14.2,20,3168.4,157.27,0.52,Groceries,High-Value Loyalist
+C10664,28,Female,South,60378.29,2.08,5.3,18,1075.53,58.73,0.91,Beauty,Young Digital Shopper
+C10665,60,Male,North,83335.66,1.64,89.7,1,243.94,243.94,0.39,Electronics,At-Risk / Churning
+C10666,37,Female,North,47489.33,0.4,10.3,5,174.91,37.19,0.75,Electronics,New / Occasional Shopper
+C10667,25,Female,East,45282.38,1.85,37.2,4,141.9,39.21,0.58,Fashion,New / Occasional Shopper
+C10668,42,Male,West,53052.16,1.29,1.0,23,676.99,29.16,0.95,Groceries,Young Digital Shopper
+C10669,44,Female,South,65621.85,3.24,24.3,9,511.7,55.49,0.74,Beauty,Bargain Hunter
+C10670,43,Female,East,99526.76,4.67,8.7,20,3136.95,153.08,0.58,Sports,High-Value Loyalist
+C10671,46,Female,East,61283.57,2.85,21.7,6,688.61,124.5,0.47,Electronics,Bargain Hunter
+C10672,46,Male,East,65790.66,0.5,41.7,4,235.72,62.28,0.66,Home & Living,New / Occasional Shopper
+C10673,51,Male,West,64084.42,3.07,100.1,2,359.42,204.02,0.17,Sports,At-Risk / Churning
+C10674,49,Male,South,38433.27,1.18,13.0,16,334.41,20.87,0.46,Home & Living,Bargain Hunter
+C10675,29,Male,West,54450.36,2.26,6.3,16,705.51,43.08,0.98,Electronics,Young Digital Shopper
+C10676,27,Male,South,28076.84,0.1,37.7,3,94.27,29.75,0.35,Home & Living,New / Occasional Shopper
+C10677,28,Male,East,61110.35,3.21,19.3,13,392.56,29.5,0.34,Beauty,Bargain Hunter
+C10678,33,Male,South,111528.19,6.26,6.3,34,2414.16,70.23,0.45,Fashion,High-Value Loyalist
+C10679,26,Male,South,70052.95,0.1,4.8,24,667.35,27.25,0.91,Fashion,Young Digital Shopper
+C10680,30,Female,West,102685.09,3.57,12.5,25,2521.73,100.9,0.48,Electronics,High-Value Loyalist
+C10681,24,Male,East,68092.31,2.68,3.1,26,637.63,24.56,0.89,Electronics,Young Digital Shopper
+C10682,46,Male,East,102581.22,6.63,5.3,32,4503.74,142.09,0.62,Sports,High-Value Loyalist
+C10683,43,Female,East,37765.37,5.07,14.1,20,382.01,19.44,0.35,Sports,Bargain Hunter
+C10684,64,Male,South,60855.35,2.98,46.0,4,204.49,50.02,0.66,Home & Living,At-Risk / Churning
+C10685,21,Male,South,45681.44,1.25,7.6,15,1031.09,70.08,0.86,Sports,Young Digital Shopper
+C10686,31,Female,North,54294.33,2.21,14.0,9,402.21,45.81,0.49,Sports,Bargain Hunter
+C10687,23,Male,East,40801.08,0.36,22.2,7,181.7,25.03,0.69,Groceries,New / Occasional Shopper
+C10688,45,Male,North,41259.83,6.58,78.1,1,102.08,102.08,0.64,Beauty,At-Risk / Churning
+C10689,45,Female,East,45659.84,2.34,9.6,16,429.69,27.57,1.0,Electronics,Bargain Hunter
+C10690,32,Male,East,68360.3,2.17,1.9,17,640.11,38.62,0.78,Home & Living,Young Digital Shopper
+C10691,36,Male,South,17139.2,1.29,54.3,3,227.92,69.03,0.77,Groceries,New / Occasional Shopper
+C10692,26,Female,South,50408.48,2.17,1.9,20,841.69,42.64,0.77,Beauty,Young Digital Shopper
+C10693,23,Male,West,62825.74,2.85,5.8,19,817.81,42.16,0.92,Sports,Young Digital Shopper
+C10694,37,Female,North,24296.36,0.1,21.9,4,114.67,31.94,0.44,Fashion,New / Occasional Shopper
+C10695,37,Female,North,40897.25,4.25,20.8,9,583.59,62.99,0.47,Home & Living,Bargain Hunter
+C10696,46,Female,West,35287.52,4.54,82.3,2,313.47,207.64,0.08,Groceries,At-Risk / Churning
+C10697,29,Male,West,52248.51,8.05,21.8,17,197.8,11.51,0.32,Groceries,Bargain Hunter
+C10698,40,Non-binary,North,15000.0,6.81,91.0,5,132.37,28.65,0.26,Sports,At-Risk / Churning
+C10699,24,Male,South,38971.98,2.05,4.8,13,1014.29,79.98,0.87,Groceries,Young Digital Shopper
+C10700,18,Male,West,53911.1,2.85,4.7,18,1264.48,69.6,0.82,Sports,Young Digital Shopper
+C10701,21,Male,West,21764.48,0.64,10.3,20,726.44,37.14,0.97,Electronics,Young Digital Shopper
+C10702,31,Male,West,93029.34,5.52,13.4,29,4073.2,139.18,0.72,Sports,High-Value Loyalist
+C10703,38,Female,South,21746.23,0.28,30.1,5,312.26,66.77,0.53,Electronics,New / Occasional Shopper
+C10704,25,Male,North,60591.22,2.34,2.8,20,1083.56,55.28,0.85,Groceries,Young Digital Shopper
+C10705,40,Female,East,57269.66,1.16,13.7,8,603.66,71.21,0.63,Home & Living,Bargain Hunter
+C10706,40,Female,South,79220.55,5.35,81.9,3,20.0,6.18,0.27,Home & Living,At-Risk / Churning
+C10707,45,Female,East,56686.88,1.79,51.7,3,83.38,32.18,0.0,Sports,At-Risk / Churning
+C10708,40,Female,West,44811.05,2.9,2.1,15,94.17,6.39,0.39,Fashion,Bargain Hunter
+C10709,18,Male,West,40784.69,3.54,12.5,8,565.51,71.51,0.26,Beauty,Bargain Hunter
+C10710,29,Female,South,56866.96,0.79,32.4,5,44.74,9.19,0.12,Groceries,New / Occasional Shopper
+C10711,41,Female,South,89794.45,3.71,73.5,4,343.25,89.35,0.69,Fashion,At-Risk / Churning
+C10712,46,Male,South,51321.16,0.5,41.8,10,209.25,20.45,0.39,Electronics,New / Occasional Shopper
+C10713,26,Female,South,36194.63,0.98,14.1,7,206.9,28.8,0.6,Electronics,New / Occasional Shopper
+C10714,56,Male,West,62678.69,8.33,101.8,5,282.78,62.75,0.31,Beauty,At-Risk / Churning
+C10715,28,Male,East,40685.31,0.85,2.8,17,802.33,46.56,0.76,Electronics,Young Digital Shopper
+C10716,44,Male,South,15606.52,2.65,26.4,9,487.96,55.66,0.5,Electronics,Bargain Hunter
+C10717,54,Male,South,94646.12,7.73,13.4,34,3666.93,109.01,0.28,Groceries,High-Value Loyalist
+C10718,35,Male,West,36298.52,3.45,134.4,1,420.45,387.15,0.37,Fashion,At-Risk / Churning
+C10719,30,Male,West,28758.9,1.03,29.1,6,202.88,34.68,0.35,Fashion,New / Occasional Shopper
+C10720,46,Female,East,49659.1,2.27,8.3,18,417.41,22.7,0.48,Groceries,Bargain Hunter
+C10721,21,Female,West,42498.51,4.35,33.3,14,381.75,26.64,0.77,Electronics,Bargain Hunter
+C10722,44,Non-binary,East,80026.03,4.89,8.0,30,2019.12,67.64,0.52,Home & Living,High-Value Loyalist
+C10723,27,Female,South,37773.68,0.39,49.4,4,341.65,87.31,0.78,Groceries,New / Occasional Shopper
+C10724,49,Female,South,71020.44,8.25,3.9,31,4058.03,132.04,0.22,Groceries,High-Value Loyalist
+C10725,18,Female,North,67471.05,3.28,7.9,28,3643.24,131.98,0.47,Beauty,High-Value Loyalist
+C10726,27,Female,West,38530.02,2.57,9.6,16,689.08,43.36,0.84,Groceries,Young Digital Shopper
+C10727,50,Male,North,133569.47,5.55,9.0,35,3925.25,110.87,0.46,Groceries,High-Value Loyalist
+C10728,23,Female,West,49130.81,3.96,13.7,9,307.52,32.75,0.44,Electronics,Bargain Hunter
+C10729,29,Female,North,30728.41,3.44,22.4,13,458.48,35.23,0.34,Fashion,Bargain Hunter
+C10730,29,Male,South,57816.33,2.15,9.8,16,1303.81,81.7,0.84,Sports,Young Digital Shopper
+C10731,20,Female,South,89565.56,4.37,8.5,26,4429.33,173.43,0.38,Home & Living,High-Value Loyalist
+C10732,51,Male,North,121604.57,7.74,4.5,24,2390.01,101.01,0.75,Home & Living,High-Value Loyalist
+C10733,19,Female,West,50047.55,1.28,8.2,9,853.61,98.46,1.0,Sports,Young Digital Shopper
+C10734,32,Female,East,89731.92,3.55,7.4,22,2521.09,113.13,0.78,Home & Living,High-Value Loyalist
+C10735,47,Female,North,71236.89,0.1,70.0,4,20.0,4.84,0.44,Fashion,At-Risk / Churning
+C10736,29,Male,North,32419.07,1.49,1.3,16,1005.86,64.66,0.72,Home & Living,Young Digital Shopper
+C10737,28,Male,South,50684.69,0.92,3.8,9,990.02,106.24,0.8,Home & Living,Young Digital Shopper
+C10738,25,Female,North,54648.78,0.96,1.0,20,932.03,46.08,0.98,Groceries,Young Digital Shopper
+C10739,36,Female,North,36476.22,3.48,45.5,7,410.29,61.37,0.57,Groceries,Bargain Hunter
+C10740,39,Male,South,74913.19,4.79,18.8,27,3617.85,135.6,0.5,Sports,High-Value Loyalist
+C10741,40,Male,East,87673.86,8.39,13.9,21,2796.0,134.3,0.42,Electronics,High-Value Loyalist
+C10742,40,Female,South,42808.16,0.8,14.3,1,257.38,202.39,0.4,Electronics,New / Occasional Shopper
+C10743,46,Male,North,78193.93,6.8,3.1,32,2759.46,85.46,0.14,Groceries,High-Value Loyalist
+C10744,53,Female,East,52234.67,2.99,30.0,12,658.11,56.66,0.29,Fashion,Bargain Hunter
+C10745,50,Male,North,45951.45,5.15,40.7,19,462.31,23.72,0.61,Beauty,Bargain Hunter
+C10746,32,Female,North,51287.86,0.75,5.1,19,234.19,12.29,0.86,Sports,Young Digital Shopper
+C10747,44,Non-binary,South,57536.42,6.81,5.0,13,514.41,38.5,0.75,Beauty,Bargain Hunter
+C10748,38,Male,South,63450.14,1.9,85.3,3,403.86,159.51,0.13,Fashion,At-Risk / Churning
+C10749,18,Female,North,44271.43,1.13,32.5,2,258.64,106.57,0.64,Electronics,New / Occasional Shopper
+C10750,23,Non-binary,North,47915.44,2.26,8.8,17,1105.52,65.25,0.81,Home & Living,Young Digital Shopper
+C10751,26,Male,West,66251.44,0.12,1.4,12,765.13,65.85,0.77,Electronics,Young Digital Shopper
+C10752,23,Female,West,43356.45,2.3,3.6,27,729.35,26.76,0.77,Sports,Young Digital Shopper
+C10753,32,Female,South,63843.78,4.03,30.8,9,308.56,34.61,0.65,Groceries,Bargain Hunter
+C10754,18,Female,East,71907.74,3.31,78.5,3,23.2,8.67,0.13,Fashion,At-Risk / Churning
+C10755,28,Male,South,75235.35,1.15,5.9,25,701.01,28.52,0.75,Home & Living,Young Digital Shopper
+C10756,22,Male,West,24548.74,0.77,12.9,16,458.71,28.12,0.95,Home & Living,Young Digital Shopper
+C10757,25,Female,South,50172.48,0.97,43.9,6,171.92,31.05,0.76,Groceries,New / Occasional Shopper
+C10758,28,Female,West,105785.13,8.79,8.2,26,4094.44,160.45,0.34,Fashion,High-Value Loyalist
+C10759,33,Non-binary,South,28660.98,0.1,18.6,12,521.43,42.26,0.46,Sports,Bargain Hunter
+C10760,33,Female,South,88540.99,8.48,61.6,3,347.53,131.89,0.19,Groceries,At-Risk / Churning
+C10761,39,Male,North,106856.97,7.03,15.9,27,4410.8,162.09,0.46,Electronics,High-Value Loyalist
+C10762,43,Male,North,95132.59,5.36,3.7,30,3302.4,109.54,0.54,Electronics,High-Value Loyalist
+C10763,43,Female,East,83409.54,9.58,21.3,20,2790.68,142.79,0.47,Sports,High-Value Loyalist
+C10764,33,Female,East,50004.03,0.1,53.5,6,139.41,21.68,0.69,Beauty,New / Occasional Shopper
+C10765,40,Non-binary,West,64663.31,3.8,10.0,18,3303.8,185.39,0.37,Groceries,High-Value Loyalist
+C10766,31,Female,West,66716.73,1.01,2.9,26,510.35,19.26,0.94,Groceries,Young Digital Shopper
+C10767,50,Male,North,111474.83,6.58,9.1,29,3568.81,123.95,0.6,Fashion,High-Value Loyalist
+C10768,27,Male,West,92637.08,5.75,1.1,30,4349.35,146.64,0.48,Home & Living,High-Value Loyalist
+C10769,41,Female,South,67290.31,5.44,12.6,1,414.12,395.76,0.55,Home & Living,At-Risk / Churning
+C10770,28,Male,East,44212.16,2.88,6.5,16,1329.05,83.91,1.0,Fashion,Young Digital Shopper
+C10771,40,Male,East,38647.16,3.77,32.8,13,469.29,35.62,0.37,Sports,Bargain Hunter
+C10772,53,Female,East,74834.64,1.44,27.1,5,449.6,82.16,0.93,Home & Living,Bargain Hunter
+C10773,37,Male,East,82202.34,0.5,24.0,2,290.17,143.61,0.41,Electronics,New / Occasional Shopper
+C10774,47,Male,West,103227.17,5.7,6.0,35,6018.08,170.53,0.65,Home & Living,High-Value Loyalist
+C10775,28,Female,West,36981.0,0.1,34.8,8,292.25,38.68,0.62,Groceries,New / Occasional Shopper
+C10776,25,Female,North,74248.6,6.34,110.6,1,144.56,144.56,0.33,Fashion,At-Risk / Churning
+C10777,48,Male,West,86570.2,6.01,10.7,21,2253.37,105.64,0.66,Electronics,High-Value Loyalist
+C10778,37,Female,North,87214.38,2.78,46.9,6,444.87,80.84,0.52,Beauty,At-Risk / Churning
+C10779,18,Male,South,30574.59,0.83,44.7,5,85.54,16.14,0.79,Electronics,New / Occasional Shopper
+C10780,31,Female,North,53724.93,1.26,9.9,13,913.48,72.7,0.88,Electronics,Young Digital Shopper
+C10781,34,Female,South,42345.84,0.5,24.0,6,211.48,34.14,0.45,Sports,New / Occasional Shopper
+C10782,43,Female,South,49222.68,6.94,14.3,17,246.58,14.22,0.64,Groceries,Bargain Hunter
+C10783,33,Male,North,32758.76,4.24,74.7,2,159.26,97.95,0.28,Groceries,At-Risk / Churning
+C10784,24,Female,South,42604.92,0.81,32.1,8,200.9,26.18,0.33,Home & Living,New / Occasional Shopper
+C10785,19,Male,South,69096.66,3.21,1.7,22,1010.02,45.28,0.93,Electronics,Young Digital Shopper
+C10786,42,Male,East,35533.51,0.78,37.5,1,87.0,61.54,0.66,Sports,New / Occasional Shopper
+C10787,21,Male,South,63356.26,2.77,4.6,13,972.74,72.69,0.81,Beauty,Young Digital Shopper
+C10788,55,Female,North,39901.05,6.59,52.8,4,106.05,27.78,0.13,Sports,At-Risk / Churning
+C10789,39,Male,North,41925.37,1.11,129.4,5,201.08,41.79,0.47,Electronics,At-Risk / Churning
+C10790,28,Male,North,46830.49,1.07,7.0,19,900.93,46.46,0.86,Fashion,Young Digital Shopper
+C10791,40,Male,South,35499.64,2.26,10.0,13,640.75,50.87,0.53,Electronics,Bargain Hunter
+C10792,21,Male,South,34358.14,0.97,11.2,20,749.16,37.58,0.87,Sports,Young Digital Shopper
+C10793,43,Male,North,105327.08,6.01,4.3,29,3392.1,116.32,0.32,Home & Living,High-Value Loyalist
+C10794,42,Female,South,99665.06,6.46,14.7,21,2960.49,141.49,0.65,Fashion,High-Value Loyalist
+C10795,29,Male,South,61571.25,1.91,4.8,14,855.7,60.97,0.94,Groceries,Young Digital Shopper
+C10796,38,Female,North,91762.57,4.2,11.6,33,2495.63,75.52,0.66,Sports,High-Value Loyalist
+C10797,56,Male,West,87474.66,4.97,8.9,32,2588.23,81.8,0.54,Electronics,High-Value Loyalist
+C10798,62,Female,South,48028.99,0.97,99.2,4,64.42,17.75,0.45,Beauty,At-Risk / Churning
+C10799,48,Female,South,34114.4,5.64,88.1,5,147.02,30.29,0.23,Beauty,At-Risk / Churning
+C10800,74,Male,East,70571.07,3.09,102.4,3,20.0,7.37,0.48,Fashion,At-Risk / Churning
+C10801,24,Male,East,50856.47,3.74,2.9,23,593.49,25.45,1.0,Electronics,Young Digital Shopper
+C10802,30,Male,West,62498.2,0.58,33.6,1,315.29,315.29,0.88,Beauty,New / Occasional Shopper
+C10803,18,Female,South,65231.13,3.43,4.0,12,293.45,24.16,0.21,Groceries,Bargain Hunter
+C10804,30,Female,East,81368.34,5.69,1.0,15,4458.73,299.37,0.86,Sports,High-Value Loyalist
+C10805,49,Male,North,85741.0,6.09,9.2,28,2801.83,100.34,0.47,Beauty,High-Value Loyalist
+C10806,41,Female,East,62547.35,3.32,119.6,3,388.77,145.96,0.0,Sports,At-Risk / Churning
+C10807,24,Male,South,93268.22,5.87,15.3,23,3051.01,131.0,0.6,Home & Living,High-Value Loyalist
+C10808,52,Female,North,46959.88,2.31,12.6,10,246.13,24.38,0.6,Fashion,Bargain Hunter
+C10809,19,Male,East,56557.53,0.69,27.8,6,144.65,22.89,0.78,Beauty,New / Occasional Shopper
+C10810,27,Male,North,113158.28,3.67,7.6,33,3683.17,112.51,0.43,Beauty,High-Value Loyalist
+C10811,50,Male,North,91792.38,5.96,13.1,31,3401.58,111.38,0.49,Beauty,High-Value Loyalist
+C10812,36,Male,North,45695.4,0.71,36.9,7,288.16,38.7,0.67,Electronics,New / Occasional Shopper
+C10813,41,Female,South,63908.59,1.22,27.5,7,566.55,86.32,0.48,Home & Living,Bargain Hunter
+C10814,44,Female,East,107758.28,9.52,11.8,36,3709.65,101.98,0.35,Home & Living,High-Value Loyalist
+C10815,20,Male,South,52572.2,0.1,30.8,5,246.91,52.98,0.54,Home & Living,New / Occasional Shopper
+C10816,32,Female,South,24850.1,0.1,31.2,5,234.53,43.19,0.49,Groceries,New / Occasional Shopper
+C10817,42,Male,South,44829.76,3.37,23.0,17,450.77,26.5,0.17,Fashion,Bargain Hunter
+C10818,48,Female,East,55473.29,7.69,87.4,3,419.6,123.83,0.37,Electronics,At-Risk / Churning
+C10819,22,Male,South,26194.96,1.09,7.1,29,1087.47,37.15,0.93,Fashion,Young Digital Shopper
+C10820,60,Male,South,121783.06,2.6,12.0,28,3346.8,118.64,0.44,Electronics,High-Value Loyalist
+C10821,34,Female,South,31427.82,2.42,19.6,10,244.07,25.09,0.43,Groceries,Bargain Hunter
+C10822,18,Female,West,24170.41,0.58,6.0,19,1071.26,54.99,0.84,Home & Living,Young Digital Shopper
+C10823,68,Female,North,53515.46,6.12,83.7,8,232.73,29.27,0.46,Groceries,At-Risk / Churning
+C10824,32,Male,West,46505.01,0.75,26.4,5,362.58,77.96,0.89,Sports,New / Occasional Shopper
+C10825,39,Female,North,112061.3,5.69,15.4,23,2861.49,122.42,0.88,Fashion,High-Value Loyalist
+C10826,40,Female,East,47723.13,4.65,29.4,16,264.75,16.11,0.43,Home & Living,Bargain Hunter
+C10827,31,Male,North,61241.44,1.62,4.2,20,587.46,29.28,0.81,Groceries,Young Digital Shopper
+C10828,23,Male,North,29024.33,0.81,41.8,1,88.96,88.96,0.28,Fashion,New / Occasional Shopper
+C10829,34,Male,North,68081.21,1.39,1.0,20,653.31,31.88,0.78,Fashion,Young Digital Shopper
+C10830,38,Female,West,74100.68,3.99,28.9,1,144.66,96.82,0.37,Fashion,At-Risk / Churning
+C10831,38,Male,West,59561.83,2.0,21.5,10,480.26,48.7,0.67,Groceries,Bargain Hunter
+C10832,20,Male,East,69656.43,1.0,1.0,17,664.94,38.5,1.0,Sports,Young Digital Shopper
+C10833,49,Male,East,53431.16,7.1,81.7,1,268.0,268.0,0.35,Fashion,At-Risk / Churning
+C10834,58,Male,South,37968.62,8.0,104.2,2,94.14,50.75,0.31,Groceries,At-Risk / Churning
+C10835,29,Male,East,66669.92,3.45,13.5,12,452.5,38.02,0.63,Groceries,Bargain Hunter
+C10836,70,Male,East,48323.93,5.89,39.1,4,213.63,53.43,0.32,Fashion,At-Risk / Churning
+C10837,29,Male,North,67046.31,0.1,35.5,2,72.37,47.34,0.68,Electronics,New / Occasional Shopper
+C10838,45,Male,South,46846.09,0.1,22.9,12,510.36,43.43,0.62,Electronics,Bargain Hunter
+C10839,33,Female,North,52506.84,2.79,27.5,11,646.19,57.07,0.73,Home & Living,Bargain Hunter
+C10840,47,Male,North,89122.96,8.29,1.2,29,3307.01,112.76,0.65,Fashion,High-Value Loyalist
+C10841,51,Male,North,33795.67,3.76,70.9,2,342.9,152.09,0.16,Groceries,At-Risk / Churning
+C10842,46,Female,South,60978.5,0.5,31.7,10,600.38,62.05,0.23,Beauty,Bargain Hunter
+C10843,51,Male,South,43570.01,2.04,15.2,10,505.92,49.91,0.4,Home & Living,Bargain Hunter
+C10844,52,Female,East,96636.67,8.31,4.3,35,2790.35,78.79,0.76,Home & Living,High-Value Loyalist
+C10845,53,Female,East,50809.14,0.27,30.1,6,243.21,41.14,0.91,Home & Living,New / Occasional Shopper
+C10846,29,Male,South,47724.66,2.29,7.1,18,874.7,47.88,0.81,Home & Living,Young Digital Shopper
+C10847,55,Male,West,68643.67,0.1,85.2,1,77.78,77.78,0.19,Beauty,At-Risk / Churning
+C10848,41,Female,West,55575.76,7.23,1.0,28,4579.34,163.63,0.45,Beauty,High-Value Loyalist
+C10849,43,Female,West,39810.73,0.26,24.6,7,184.1,26.93,0.87,Electronics,New / Occasional Shopper
+C10850,45,Male,South,97369.33,5.09,5.5,28,2890.19,103.26,0.69,Beauty,High-Value Loyalist
+C10851,18,Female,West,55415.65,1.94,1.4,21,990.97,48.34,0.87,Home & Living,Young Digital Shopper
+C10852,27,Female,North,51376.55,0.1,59.6,7,57.32,7.77,0.58,Home & Living,New / Occasional Shopper
+C10853,34,Female,West,47491.42,0.43,55.7,6,284.22,44.25,0.74,Groceries,New / Occasional Shopper
+C10854,25,Male,East,43785.01,1.85,10.5,27,725.18,26.54,0.86,Fashion,Young Digital Shopper
+C10855,58,Female,East,57909.33,0.74,25.3,18,352.64,19.55,0.48,Electronics,Bargain Hunter
+C10856,57,Male,West,68399.94,5.01,78.1,3,366.61,130.97,0.12,Home & Living,At-Risk / Churning
+C10857,37,Female,North,19889.06,0.1,33.2,2,308.81,184.56,0.42,Home & Living,New / Occasional Shopper
+C10858,18,Male,East,54309.78,2.8,1.0,14,777.43,56.26,0.94,Beauty,Young Digital Shopper
+C10859,18,Female,South,57471.94,2.05,34.7,16,489.44,30.71,0.26,Beauty,Bargain Hunter
+C10860,33,Male,North,78851.03,3.55,74.2,1,473.92,473.92,0.44,Groceries,At-Risk / Churning
+C10861,47,Female,West,87946.56,8.16,107.3,2,188.19,96.1,0.64,Fashion,At-Risk / Churning
+C10862,46,Male,South,39333.54,3.25,91.5,1,194.7,194.7,0.19,Electronics,At-Risk / Churning
+C10863,26,Female,West,74024.51,6.17,24.9,18,395.99,21.78,0.39,Beauty,Bargain Hunter
+C10864,48,Female,East,72720.94,8.1,11.6,32,4088.53,129.79,0.68,Sports,High-Value Loyalist
+C10865,52,Male,West,22099.57,1.1,13.6,5,326.25,63.59,0.69,Sports,New / Occasional Shopper
+C10866,18,Male,South,56706.16,0.52,11.8,1,226.26,156.65,0.86,Fashion,New / Occasional Shopper
+C10867,45,Male,West,38105.89,1.58,99.1,4,385.16,91.14,0.41,Beauty,At-Risk / Churning
+C10868,37,Male,South,89696.55,4.84,4.5,33,2207.32,66.22,0.4,Fashion,High-Value Loyalist
+C10869,18,Female,North,64216.17,2.62,11.4,13,193.56,14.74,0.87,Sports,Young Digital Shopper
+C10870,70,Male,South,15441.35,6.89,75.8,2,421.33,194.56,0.61,Home & Living,At-Risk / Churning
+C10871,46,Female,South,64917.78,5.08,1.0,34,3073.93,89.81,0.36,Sports,High-Value Loyalist
+C10872,18,Female,East,73283.35,0.1,50.1,3,153.44,46.09,0.72,Sports,New / Occasional Shopper
+C10873,25,Female,West,33977.14,0.1,1.5,27,967.77,35.54,0.9,Beauty,Young Digital Shopper
+C10874,50,Female,East,16919.4,0.1,90.2,4,439.73,117.79,0.22,Sports,At-Risk / Churning
+C10875,38,Male,North,15000.0,0.1,28.3,7,180.65,26.37,0.83,Sports,New / Occasional Shopper
+C10876,26,Male,East,49239.29,4.23,1.5,20,606.22,31.08,0.97,Electronics,Young Digital Shopper
+C10877,18,Male,West,27786.43,2.98,12.2,14,838.75,60.54,0.93,Groceries,Young Digital Shopper
+C10878,48,Female,North,47447.24,5.6,70.7,4,285.94,74.78,0.78,Groceries,At-Risk / Churning
+C10879,43,Female,West,41878.26,5.57,24.0,14,427.48,31.08,0.98,Home & Living,Bargain Hunter
+C10880,57,Female,South,31882.43,5.22,33.7,7,335.35,47.67,0.61,Beauty,Bargain Hunter
+C10881,49,Female,North,56272.68,1.26,106.4,10,318.7,32.28,0.2,Groceries,At-Risk / Churning
+C10882,35,Male,East,51780.32,0.92,28.1,8,113.81,14.28,0.63,Beauty,New / Occasional Shopper
+C10883,42,Female,North,66712.78,0.1,13.3,15,555.71,37.87,0.8,Fashion,Bargain Hunter
+C10884,18,Male,West,53904.07,0.98,10.2,16,820.94,50.93,0.79,Groceries,Young Digital Shopper
+C10885,22,Male,West,44747.94,0.92,4.9,28,831.74,29.32,0.91,Home & Living,Young Digital Shopper
+C10886,18,Male,West,33516.02,0.13,6.7,24,414.0,16.98,0.84,Fashion,Young Digital Shopper
+C10887,37,Male,North,94144.69,3.84,15.3,31,2667.94,86.77,0.57,Electronics,High-Value Loyalist
+C10888,29,Female,East,98152.69,4.89,7.4,31,3781.94,120.95,0.62,Electronics,High-Value Loyalist
+C10889,30,Male,North,15000.0,2.88,83.2,1,315.69,232.65,0.0,Beauty,At-Risk / Churning
+C10890,28,Female,South,41315.73,0.69,5.9,22,1235.84,56.24,0.89,Sports,Young Digital Shopper
+C10891,20,Female,West,42329.0,0.86,29.2,4,89.16,23.51,0.28,Sports,New / Occasional Shopper
+C10892,27,Male,North,60998.19,1.75,8.4,17,666.95,39.43,0.89,Fashion,Young Digital Shopper
+C10893,32,Male,East,102608.39,4.25,10.4,29,3277.7,112.23,0.8,Beauty,High-Value Loyalist
+C10894,62,Male,South,84667.35,3.56,77.7,6,325.67,51.51,0.17,Sports,At-Risk / Churning
+C10895,20,Male,South,42911.14,0.57,38.1,3,392.2,131.4,0.7,Beauty,New / Occasional Shopper
+C10896,31,Male,East,27987.21,0.61,4.2,24,1421.06,58.61,0.82,Beauty,Young Digital Shopper
+C10897,24,Male,East,58516.86,0.1,3.8,9,559.67,61.01,0.88,Home & Living,Young Digital Shopper
+C10898,34,Female,South,73981.71,3.3,1.8,20,661.88,32.63,0.86,Electronics,Young Digital Shopper
+C10899,27,Male,South,68046.65,4.55,1.0,9,413.12,44.76,0.37,Home & Living,Bargain Hunter
+C10900,61,Male,East,32074.38,2.94,32.9,12,344.44,29.7,0.42,Fashion,Bargain Hunter
+C10901,24,Male,South,38751.93,1.93,1.1,15,605.01,40.57,0.85,Fashion,Young Digital Shopper
+C10902,22,Female,North,103448.14,5.85,8.0,33,3701.53,112.53,0.53,Fashion,High-Value Loyalist
+C10903,18,Female,West,62875.57,5.34,19.8,9,385.12,42.55,0.47,Fashion,Bargain Hunter
+C10904,25,Female,South,54446.73,1.0,45.1,2,66.53,30.95,0.64,Sports,New / Occasional Shopper
+C10905,55,Male,East,60834.47,0.1,120.4,1,589.3,589.3,0.04,Groceries,At-Risk / Churning
+C10906,37,Male,South,50967.82,4.99,18.0,8,484.9,63.55,0.44,Beauty,Bargain Hunter
+C10907,26,Male,East,91902.03,8.32,1.7,20,3569.22,179.36,0.28,Beauty,High-Value Loyalist
+C10908,20,Male,North,57172.47,0.1,6.0,16,1009.95,64.87,0.75,Home & Living,Young Digital Shopper
+C10909,25,Female,West,60587.75,1.89,2.3,22,915.84,41.87,0.8,Sports,Young Digital Shopper
+C10910,48,Male,North,57409.39,2.49,81.2,2,77.31,35.55,0.36,Fashion,At-Risk / Churning
+C10911,38,Female,North,47784.2,1.0,27.0,3,237.22,83.02,0.17,Groceries,New / Occasional Shopper
+C10912,25,Male,West,77551.86,0.68,60.2,5,212.09,39.18,0.28,Groceries,New / Occasional Shopper
+C10913,32,Female,East,37933.35,0.4,48.0,1,186.75,186.75,0.47,Home & Living,New / Occasional Shopper
+C10914,32,Male,West,41814.93,0.6,25.1,3,166.09,54.3,0.5,Beauty,New / Occasional Shopper
+C10915,46,Male,East,51228.6,0.44,29.3,4,87.59,20.41,0.56,Electronics,New / Occasional Shopper
+C10916,37,Female,East,88601.6,2.3,5.2,46,2736.17,59.8,0.24,Groceries,High-Value Loyalist
+C10917,35,Female,North,118021.09,7.25,11.7,27,3017.69,112.34,0.58,Sports,High-Value Loyalist
+C10918,25,Female,North,71775.16,1.61,7.0,23,1111.97,47.63,0.9,Groceries,Young Digital Shopper
+C10919,40,Male,North,42287.32,0.23,23.9,11,373.76,34.83,1.0,Groceries,Bargain Hunter
+C10920,43,Female,East,141234.58,7.27,3.2,24,3187.74,134.75,0.42,Groceries,High-Value Loyalist
+C10921,18,Male,West,17897.53,0.1,31.6,1,316.64,316.64,0.34,Groceries,New / Occasional Shopper
+C10922,28,Male,North,100799.28,5.66,60.0,3,230.71,88.48,0.49,Electronics,At-Risk / Churning
+C10923,35,Female,North,62485.43,0.91,8.3,19,306.12,16.05,0.5,Sports,Bargain Hunter
+C10924,33,Female,South,87543.37,4.71,3.1,32,2651.91,82.43,0.42,Groceries,High-Value Loyalist
+C10925,25,Female,North,30803.46,0.64,1.4,13,1342.06,106.45,0.92,Sports,Young Digital Shopper
+C10926,34,Female,East,103285.42,6.84,6.6,40,4075.25,100.66,0.75,Beauty,High-Value Loyalist
+C10927,27,Female,North,69454.14,0.1,41.1,5,191.44,42.31,1.0,Electronics,New / Occasional Shopper
+C10928,22,Female,North,41469.06,5.04,3.5,14,264.26,19.41,0.53,Electronics,Bargain Hunter
+C10929,31,Male,East,52232.86,4.39,149.4,5,222.94,48.93,0.23,Sports,At-Risk / Churning
+C10930,28,Female,North,36558.63,1.49,2.2,21,599.41,28.75,0.94,Fashion,Young Digital Shopper
+C10931,18,Male,West,56320.34,0.1,5.0,28,1271.39,45.0,0.8,Groceries,Young Digital Shopper
+C10932,58,Female,North,51855.59,4.99,29.3,10,393.05,39.86,0.49,Electronics,Bargain Hunter
+C10933,69,Male,West,54143.69,4.75,73.6,1,348.82,348.82,0.37,Beauty,At-Risk / Churning
+C10934,43,Male,South,69263.22,3.24,101.0,3,392.85,154.79,0.33,Fashion,At-Risk / Churning
+C10935,27,Female,North,29493.81,1.38,1.9,9,897.46,100.76,1.0,Groceries,Young Digital Shopper
+C10936,35,Female,East,33521.82,1.09,25.6,4,123.04,30.75,0.54,Groceries,New / Occasional Shopper
+C10937,34,Male,South,86647.92,4.67,11.0,35,5091.38,146.06,0.48,Fashion,High-Value Loyalist
+C10938,29,Female,East,38774.43,0.6,1.0,4,163.59,38.52,0.9,Sports,New / Occasional Shopper
+C10939,23,Female,West,73203.48,5.02,11.2,27,3845.76,145.04,0.25,Electronics,High-Value Loyalist
+C10940,29,Male,North,55707.03,0.42,12.2,17,1350.52,78.7,0.8,Electronics,Young Digital Shopper
+C10941,36,Female,North,46519.7,0.27,51.1,4,185.04,47.68,0.75,Electronics,New / Occasional Shopper
+C10942,41,Female,South,87668.35,2.09,7.6,38,2889.89,76.93,0.48,Electronics,High-Value Loyalist
+C10943,47,Female,East,53515.05,5.83,29.6,14,586.94,42.15,0.7,Fashion,Bargain Hunter
+C10944,45,Female,East,62927.74,3.41,35.7,16,711.82,44.14,0.62,Beauty,Bargain Hunter
+C10945,23,Female,South,50538.12,0.1,6.2,21,920.8,43.11,0.95,Electronics,Young Digital Shopper
+C10946,72,Female,South,74639.23,4.49,127.1,3,260.4,78.01,0.46,Sports,At-Risk / Churning
+C10947,19,Female,East,52925.66,0.99,35.2,3,129.0,39.34,0.75,Fashion,New / Occasional Shopper
+C10948,18,Female,East,59317.65,0.97,14.4,5,325.52,63.89,0.97,Sports,New / Occasional Shopper
+C10949,18,Male,South,42427.97,1.63,9.4,17,1321.93,76.35,0.88,Beauty,Young Digital Shopper
+C10950,31,Male,West,55796.33,0.97,12.3,15,517.98,34.97,0.72,Beauty,Bargain Hunter
+C10951,40,Male,West,63194.51,2.87,3.8,21,1168.28,55.31,0.77,Sports,Young Digital Shopper
+C10952,26,Female,East,61734.48,1.2,3.0,10,1046.89,100.04,0.72,Beauty,Young Digital Shopper
+C10953,51,Male,West,106166.32,7.41,20.1,24,3478.69,142.16,0.48,Electronics,High-Value Loyalist
+C10954,25,Male,South,66106.9,0.78,43.9,4,228.82,58.15,0.7,Groceries,New / Occasional Shopper
+C10955,27,Female,North,19752.83,1.02,47.6,2,160.41,104.87,0.78,Beauty,New / Occasional Shopper
+C10956,53,Male,North,61040.32,3.16,118.6,1,20.0,14.75,0.51,Electronics,At-Risk / Churning
+C10957,51,Female,North,34314.46,3.07,43.4,8,433.05,56.62,0.26,Home & Living,Bargain Hunter
+C10958,69,Male,West,45065.28,0.84,15.1,15,692.14,46.53,0.73,Electronics,Bargain Hunter
+C10959,47,Male,West,29107.37,5.73,12.0,11,486.75,44.3,0.45,Beauty,Bargain Hunter
+C10960,24,Female,South,75791.15,4.86,12.0,18,723.33,40.3,0.6,Electronics,Bargain Hunter
+C10961,50,Male,East,64943.14,0.1,7.8,10,39.55,4.02,0.58,Fashion,Bargain Hunter
+C10962,37,Male,North,104382.97,2.22,6.9,29,2396.92,81.39,0.64,Beauty,High-Value Loyalist
+C10963,40,Male,East,99901.43,5.89,4.8,39,3312.42,84.26,0.58,Fashion,High-Value Loyalist
+C10964,35,Male,North,56039.76,0.89,7.6,1,173.15,173.15,0.61,Beauty,New / Occasional Shopper
+C10965,24,Male,South,51849.58,0.36,6.6,13,138.26,11.02,0.57,Beauty,Bargain Hunter
+C10966,33,Male,North,20315.1,0.88,24.9,1,27.47,27.47,0.67,Groceries,New / Occasional Shopper
+C10967,41,Female,West,90078.98,5.68,2.6,25,2275.06,89.71,0.42,Groceries,High-Value Loyalist
+C10968,23,Female,South,50248.62,2.19,5.8,9,367.94,38.94,0.67,Sports,Bargain Hunter
+C10969,18,Male,North,40174.77,1.25,4.5,19,1117.68,57.7,0.86,Beauty,Young Digital Shopper
+C10970,22,Male,East,56965.48,1.85,11.3,18,643.01,35.6,0.88,Groceries,Young Digital Shopper
+C10971,47,Male,North,103956.41,5.93,6.3,18,3519.46,194.71,0.43,Sports,High-Value Loyalist
+C10972,42,Male,West,104261.59,6.32,11.2,29,1815.97,63.26,0.74,Groceries,High-Value Loyalist
+C10973,33,Female,West,55196.76,0.1,27.7,6,20.0,3.54,0.44,Fashion,New / Occasional Shopper
+C10974,36,Female,East,50815.09,0.93,3.4,18,1092.0,61.03,0.75,Fashion,Young Digital Shopper
+C10975,38,Female,West,60263.87,9.4,92.1,2,270.78,154.73,0.47,Sports,At-Risk / Churning
+C10976,54,Female,West,44311.68,2.83,6.8,12,581.43,48.45,0.57,Electronics,Bargain Hunter
+C10977,51,Female,East,34722.36,3.8,17.6,9,315.34,33.37,0.55,Groceries,Bargain Hunter
+C10978,19,Male,South,55673.44,1.31,14.9,18,702.68,38.29,0.9,Fashion,Bargain Hunter
+C10979,29,Male,South,43747.22,2.14,11.1,19,988.43,52.02,0.76,Groceries,Young Digital Shopper
+C10980,33,Male,South,47714.05,0.88,34.3,6,162.1,29.09,0.36,Electronics,New / Occasional Shopper
+C10981,20,Female,East,49249.99,0.37,33.6,1,145.47,145.47,0.88,Electronics,New / Occasional Shopper
+C10982,58,Female,West,80435.02,2.54,15.7,6,349.1,53.98,0.84,Electronics,At-Risk / Churning
+C10983,34,Female,East,61151.3,2.54,30.7,11,383.89,36.04,0.6,Home & Living,Bargain Hunter
+C10984,53,Female,West,114511.39,5.24,7.2,15,3096.26,204.22,0.44,Electronics,High-Value Loyalist
+C10985,20,Male,South,25789.24,1.06,53.3,2,180.03,87.36,0.84,Groceries,New / Occasional Shopper
+C10986,29,Female,South,64477.06,0.87,7.7,10,791.44,80.64,0.94,Beauty,Young Digital Shopper
+C10987,42,Female,South,115245.4,4.93,7.1,29,3829.39,131.79,0.33,Electronics,High-Value Loyalist
+C10988,33,Male,North,29088.92,1.9,1.0,23,1209.74,52.95,0.86,Groceries,Young Digital Shopper
+C10989,38,Female,West,63794.52,5.54,107.6,1,232.29,232.29,0.3,Sports,At-Risk / Churning
+C10990,64,Female,East,49214.85,5.3,77.7,1,160.09,160.09,0.45,Groceries,At-Risk / Churning
+C10991,75,Male,North,45042.82,4.73,44.5,1,161.49,161.49,0.16,Home & Living,At-Risk / Churning
+C10992,54,Female,South,102825.44,2.61,76.1,1,407.44,407.44,0.0,Sports,At-Risk / Churning
+C10993,25,Female,South,33830.52,0.25,6.0,24,955.99,39.8,0.81,Beauty,Young Digital Shopper
+C10994,34,Male,North,32992.39,0.22,1.8,5,99.21,20.5,0.79,Beauty,New / Occasional Shopper
+C10995,63,Male,North,62486.42,0.1,21.4,12,157.33,12.65,0.28,Sports,Bargain Hunter
+C10996,53,Male,South,62702.3,3.09,46.2,3,510.93,199.47,0.38,Fashion,At-Risk / Churning
+C10997,41,Male,East,63378.79,4.49,3.4,20,3107.78,152.83,0.58,Electronics,High-Value Loyalist
+C10998,41,Non-binary,West,39642.09,0.49,80.7,3,98.7,34.38,0.44,Electronics,New / Occasional Shopper
+C10999,18,Female,South,49940.05,0.42,1.0,17,1131.36,66.19,1.0,Home & Living,Young Digital Shopper
+C11000,34,Male,South,82130.48,3.48,12.1,25,4774.52,190.43,0.61,Groceries,High-Value Loyalist
+C11001,33,Male,North,40774.14,4.23,28.0,4,218.86,49.24,0.38,Sports,Bargain Hunter
+C11002,46,Female,West,93507.99,3.49,12.0,21,1908.74,90.32,0.62,Beauty,High-Value Loyalist
+C11003,44,Male,West,111880.25,4.31,12.2,29,2890.59,99.09,0.57,Beauty,High-Value Loyalist
+C11004,50,Female,North,69004.9,5.04,67.4,5,366.44,72.7,0.5,Electronics,At-Risk / Churning
+C11005,27,Female,North,46624.65,0.1,9.6,14,734.61,50.74,0.88,Fashion,Young Digital Shopper
+C11006,26,Male,South,30556.29,0.57,27.9,4,183.54,51.36,0.58,Fashion,New / Occasional Shopper
+C11007,22,Female,East,60977.69,0.1,1.0,18,809.33,45.03,0.91,Fashion,Young Digital Shopper
+C11008,61,Male,East,66643.7,4.3,55.4,2,384.05,189.65,0.11,Fashion,At-Risk / Churning
+C11009,67,Female,North,46221.76,1.94,24.5,8,499.16,62.91,0.67,Sports,Bargain Hunter
+C11010,33,Female,East,80735.91,3.88,71.1,1,507.15,507.15,0.19,Sports,At-Risk / Churning
+C11011,36,Male,West,34805.58,2.13,3.7,10,474.42,45.91,0.56,Sports,Bargain Hunter
+C11012,43,Female,East,54259.68,2.41,39.7,11,278.6,25.26,0.49,Fashion,Bargain Hunter
+C11013,18,Female,East,20463.85,1.11,38.9,7,187.14,27.66,0.81,Fashion,New / Occasional Shopper
+C11014,26,Female,South,62484.87,1.38,8.1,23,811.24,35.67,0.86,Electronics,Young Digital Shopper
+C11015,20,Male,South,95549.69,4.79,7.6,20,3670.24,185.64,0.44,Home & Living,High-Value Loyalist
+C11016,55,Male,East,67615.54,1.0,80.9,7,372.3,53.2,0.2,Groceries,At-Risk / Churning
+C11017,18,Female,South,51428.79,0.92,31.0,5,219.76,43.42,0.53,Sports,New / Occasional Shopper
+C11018,37,Female,South,115357.54,0.1,6.6,36,4448.44,122.77,0.44,Sports,High-Value Loyalist
+C11019,28,Female,South,43757.95,3.89,15.9,16,443.99,27.43,0.76,Groceries,Bargain Hunter
+C11020,36,Female,West,57306.38,0.41,50.0,3,195.77,56.31,0.77,Electronics,New / Occasional Shopper
+C11021,44,Male,North,73244.14,6.49,116.5,1,176.37,176.37,0.28,Fashion,At-Risk / Churning
+C11022,18,Male,South,52251.11,0.1,32.6,3,156.64,58.19,0.88,Home & Living,New / Occasional Shopper
+C11023,38,Female,South,61376.56,5.09,24.0,11,367.76,33.87,0.67,Sports,Bargain Hunter
+C11024,64,Female,North,52841.29,3.86,66.1,3,376.36,141.42,0.46,Fashion,At-Risk / Churning
+C11025,23,Male,North,39503.58,1.02,7.6,19,537.35,28.91,0.95,Sports,Young Digital Shopper
+C11026,29,Female,West,34500.33,0.2,20.4,3,339.35,112.13,0.68,Fashion,New / Occasional Shopper
+C11027,23,Female,West,40395.74,3.12,5.1,8,922.5,120.76,0.96,Sports,Young Digital Shopper
+C11028,36,Female,North,62914.43,8.48,54.5,6,266.09,41.81,0.33,Fashion,At-Risk / Churning
+C11029,29,Male,North,32812.97,1.24,13.9,20,514.95,26.08,0.55,Groceries,Bargain Hunter
+C11030,20,Male,North,44175.58,0.1,39.5,19,352.31,18.95,0.37,Beauty,Bargain Hunter
+C11031,58,Male,East,78214.15,3.23,80.1,4,161.91,39.37,0.46,Sports,At-Risk / Churning
+C11032,38,Female,North,63123.56,2.27,4.3,7,379.49,56.3,0.21,Groceries,Bargain Hunter
+C11033,32,Female,South,60441.44,1.2,39.5,3,192.03,65.57,0.8,Groceries,New / Occasional Shopper
+C11034,19,Female,West,47430.22,1.0,1.0,18,509.54,28.03,0.37,Fashion,Bargain Hunter
+C11035,34,Female,South,44681.08,4.5,87.9,4,426.97,100.66,0.56,Home & Living,At-Risk / Churning
+C11036,18,Male,East,39946.43,2.12,2.8,16,662.19,41.8,0.84,Home & Living,Young Digital Shopper
+C11037,23,Male,North,40919.75,4.72,27.7,10,311.38,30.59,0.64,Sports,Bargain Hunter
+C11038,40,Male,East,48734.25,4.86,17.6,9,558.75,62.43,0.55,Beauty,Bargain Hunter
+C11039,37,Male,East,113725.87,6.08,10.3,44,3417.07,78.34,0.65,Groceries,High-Value Loyalist
+C11040,44,Non-binary,North,104381.16,2.85,13.8,30,2875.98,96.34,0.5,Groceries,High-Value Loyalist
+C11041,60,Female,South,65531.02,8.82,92.6,3,149.71,54.14,0.16,Home & Living,At-Risk / Churning
+C11042,66,Male,West,51783.06,5.97,95.6,3,97.99,31.71,0.31,Groceries,At-Risk / Churning
+C11043,45,Male,East,102230.59,3.81,39.1,4,224.53,56.09,0.22,Fashion,At-Risk / Churning
+C11044,43,Male,South,114669.34,6.5,14.3,33,2817.67,85.65,0.62,Fashion,High-Value Loyalist
+C11045,18,Female,South,48838.27,2.85,7.2,13,1263.81,96.54,0.89,Fashion,Young Digital Shopper
+C11046,28,Female,West,56041.33,2.62,3.8,12,980.09,83.13,0.8,Home & Living,Young Digital Shopper
+C11047,20,Male,South,62695.91,2.79,120.7,1,237.71,194.94,0.27,Groceries,At-Risk / Churning
+C11048,29,Male,North,52739.91,0.1,31.8,2,272.72,136.39,0.8,Electronics,New / Occasional Shopper
+C11049,28,Female,South,51306.87,0.95,9.2,17,672.58,38.72,0.95,Beauty,Young Digital Shopper
+C11050,40,Female,West,80187.93,4.07,67.1,5,20.0,4.32,0.24,Sports,At-Risk / Churning
+C11051,48,Male,West,114024.77,4.59,4.4,26,3299.14,128.08,0.33,Home & Living,High-Value Loyalist
+C11052,25,Male,West,49356.87,2.82,8.3,23,783.08,34.25,1.0,Electronics,Young Digital Shopper
+C11053,32,Male,South,89121.13,6.65,8.3,17,3546.29,203.94,0.74,Electronics,High-Value Loyalist
+C11054,27,Female,North,46160.36,1.72,7.8,22,1277.57,58.05,0.79,Beauty,Young Digital Shopper
+C11055,59,Male,East,79462.52,0.16,120.0,4,244.6,63.51,0.3,Fashion,At-Risk / Churning
+C11056,36,Female,East,55184.95,0.31,16.3,2,319.23,148.25,0.71,Sports,New / Occasional Shopper
+C11057,30,Male,West,30407.02,2.55,12.5,24,904.26,37.94,0.78,Fashion,Young Digital Shopper
+C11058,35,Female,North,95766.42,4.53,20.2,8,268.73,33.46,0.85,Groceries,Bargain Hunter
+C11059,64,Female,South,43033.59,2.94,89.1,4,453.54,126.9,0.41,Home & Living,At-Risk / Churning
+C11060,18,Male,South,57470.12,0.87,29.4,3,254.79,73.27,0.93,Beauty,New / Occasional Shopper
+C11061,51,Male,West,64807.78,4.56,52.9,5,20.0,4.07,0.23,Beauty,At-Risk / Churning
+C11062,35,Female,North,61248.29,1.25,3.3,17,566.9,34.04,0.94,Fashion,Young Digital Shopper
+C11063,53,Male,South,79262.82,6.3,83.2,2,538.08,238.65,0.35,Sports,At-Risk / Churning
+C11064,18,Female,North,42455.19,2.22,1.2,16,1325.14,82.95,0.83,Home & Living,Young Digital Shopper
+C11065,40,Male,South,52966.29,0.12,36.7,6,345.59,62.83,0.52,Sports,New / Occasional Shopper
+C11066,31,Male,West,41555.56,1.68,1.0,16,1114.36,71.31,0.87,Beauty,Young Digital Shopper
+C11067,52,Female,West,71729.27,5.43,89.0,4,324.2,80.07,0.16,Fashion,At-Risk / Churning
+C11068,45,Female,South,77625.49,3.25,3.9,25,3332.62,131.26,0.53,Electronics,High-Value Loyalist
+C11069,18,Male,East,50155.05,0.36,43.2,18,273.27,15.03,0.53,Home & Living,Bargain Hunter
+C11070,28,Male,South,42263.11,0.1,38.8,5,149.68,28.1,0.66,Electronics,New / Occasional Shopper
+C11071,56,Female,East,53241.84,3.05,38.2,3,85.17,29.63,0.68,Sports,At-Risk / Churning
+C11072,27,Male,West,53064.66,4.0,25.5,11,474.17,41.37,0.23,Groceries,Bargain Hunter
+C11073,40,Female,East,55032.13,0.58,40.2,5,241.96,45.79,0.95,Sports,New / Occasional Shopper
+C11074,26,Male,South,24970.99,1.32,42.4,4,71.32,19.88,0.75,Fashion,New / Occasional Shopper
+C11075,18,Female,East,43196.56,0.1,13.4,17,976.98,56.28,0.94,Electronics,Young Digital Shopper
+C11076,58,Male,South,34699.63,3.05,16.2,7,264.84,36.35,0.73,Electronics,Bargain Hunter
+C11077,31,Female,South,45366.76,3.28,7.4,10,366.12,36.74,0.35,Home & Living,Bargain Hunter
+C11078,46,Female,West,103172.47,7.14,138.0,1,131.98,131.98,0.14,Beauty,At-Risk / Churning
+C11079,35,Non-binary,North,47874.42,0.65,8.8,22,773.53,35.81,0.96,Groceries,Young Digital Shopper
+C11080,23,Male,South,34938.15,0.99,2.3,17,220.6,13.08,0.86,Electronics,Young Digital Shopper
+C11081,23,Male,North,38121.74,0.1,31.5,7,105.99,15.2,0.51,Fashion,New / Occasional Shopper
+C11082,33,Female,South,64241.43,0.1,50.6,9,173.35,19.71,0.6,Beauty,New / Occasional Shopper
+C11083,37,Female,North,27913.14,1.19,40.3,4,192.51,43.65,0.51,Sports,New / Occasional Shopper
+C11084,38,Female,North,15000.0,0.49,45.0,1,132.75,132.75,0.39,Sports,New / Occasional Shopper
+C11085,43,Female,South,49732.62,8.39,124.5,4,95.19,24.64,0.26,Groceries,At-Risk / Churning
+C11086,44,Female,South,55297.82,3.55,71.6,1,165.13,165.13,0.63,Electronics,At-Risk / Churning
+C11087,75,Female,West,60177.5,2.56,112.3,2,223.68,124.02,0.35,Fashion,At-Risk / Churning
+C11088,29,Male,South,52001.25,2.7,27.1,8,584.31,75.86,0.51,Groceries,Bargain Hunter
+C11089,42,Male,North,76434.83,5.2,25.7,16,238.63,15.39,0.47,Sports,Bargain Hunter
+C11090,29,Male,South,51296.68,1.84,4.7,14,1482.61,105.39,0.93,Beauty,Young Digital Shopper
+C11091,50,Female,South,67997.51,0.13,103.4,1,54.68,38.1,0.37,Fashion,At-Risk / Churning
+C11092,28,Female,North,71791.16,0.1,1.0,30,880.08,28.98,0.91,Beauty,Young Digital Shopper
+C11093,25,Female,West,24751.38,2.63,6.3,23,879.12,37.85,0.97,Electronics,Young Digital Shopper
+C11094,38,Female,North,52696.43,0.54,21.0,11,25.48,2.26,0.46,Electronics,Bargain Hunter
+C11095,47,Female,West,48661.46,0.1,9.9,8,711.4,85.0,0.36,Groceries,Bargain Hunter
+C11096,34,Female,East,60460.18,2.12,10.8,19,327.11,16.98,0.88,Beauty,Young Digital Shopper
+C11097,29,Female,North,30538.23,0.74,20.0,8,348.69,45.42,0.65,Groceries,New / Occasional Shopper
+C11098,48,Female,East,22061.54,1.62,42.0,5,227.48,44.8,0.98,Beauty,New / Occasional Shopper
+C11099,42,Female,South,83621.92,4.57,9.4,32,3351.85,104.65,0.42,Fashion,High-Value Loyalist
+C11100,44,Female,North,102526.02,5.17,12.9,23,2795.76,122.33,0.78,Home & Living,High-Value Loyalist
+C11101,31,Male,West,62061.7,2.36,10.5,19,688.27,35.97,1.0,Sports,Young Digital Shopper
+C11102,41,Male,West,88214.07,11.04,122.0,1,341.45,295.1,0.51,Groceries,At-Risk / Churning
+C11103,31,Male,South,26379.54,1.08,33.2,4,84.7,21.15,0.71,Beauty,New / Occasional Shopper
+C11104,40,Female,West,94918.22,4.38,9.1,35,3390.36,97.82,0.34,Electronics,High-Value Loyalist
+C11105,64,Male,East,95493.71,1.81,88.3,5,56.38,12.45,0.44,Sports,At-Risk / Churning
+C11106,44,Male,East,79451.36,7.63,10.0,25,2527.48,101.52,0.87,Home & Living,High-Value Loyalist
+C11107,24,Male,South,66509.78,1.84,7.2,4,1676.28,467.45,0.89,Fashion,Young Digital Shopper
+C11108,38,Male,North,38644.15,0.24,16.6,5,308.85,67.72,0.52,Electronics,New / Occasional Shopper
+C11109,23,Female,West,43522.27,1.72,5.7,11,788.2,70.81,0.9,Electronics,Young Digital Shopper
+C11110,55,Male,South,111463.74,7.14,7.3,24,3212.51,132.41,0.64,Beauty,High-Value Loyalist
+C11111,46,Male,North,69652.22,1.77,28.8,11,294.92,27.13,0.33,Fashion,Bargain Hunter
+C11112,29,Female,South,49920.1,2.69,91.1,1,320.75,267.15,0.29,Electronics,At-Risk / Churning
+C11113,22,Male,East,41360.81,0.39,42.0,2,30.8,12.44,0.34,Groceries,New / Occasional Shopper
+C11114,47,Female,West,24321.02,0.52,30.8,8,216.73,26.22,0.58,Beauty,New / Occasional Shopper
+C11115,37,Male,North,81363.01,3.68,1.1,29,2216.02,77.43,0.48,Beauty,High-Value Loyalist
+C11116,45,Male,West,66126.34,7.36,8.7,21,2902.05,139.65,0.88,Electronics,High-Value Loyalist
+C11117,36,Female,South,83304.33,4.64,46.7,3,71.31,28.39,0.4,Groceries,At-Risk / Churning
+C11118,23,Female,North,51922.22,2.13,9.3,12,725.48,62.63,0.88,Fashion,Young Digital Shopper
+C11119,27,Male,South,31911.06,0.88,39.9,3,155.34,45.61,0.63,Sports,New / Occasional Shopper
+C11120,53,Female,North,15000.0,3.1,69.9,1,428.46,428.46,0.26,Home & Living,At-Risk / Churning
+C11121,38,Female,East,96747.99,5.62,5.9,25,2492.89,98.05,0.38,Home & Living,High-Value Loyalist
+C11122,38,Male,East,56460.71,0.45,49.6,5,237.34,51.6,1.0,Beauty,New / Occasional Shopper
+C11123,57,Female,North,126838.17,2.93,3.4,24,2973.21,125.79,0.73,Groceries,High-Value Loyalist
+C11124,41,Non-binary,South,58361.79,3.19,17.9,13,192.87,14.99,0.33,Beauty,Bargain Hunter
+C11125,33,Female,South,47762.34,2.46,14.5,7,146.7,20.91,0.53,Electronics,Bargain Hunter
+C11126,34,Non-binary,East,45545.66,1.55,1.0,14,235.04,17.12,0.51,Home & Living,Bargain Hunter
+C11127,54,Male,West,82600.8,3.94,93.3,4,20.0,5.27,0.29,Electronics,At-Risk / Churning
+C11128,51,Female,East,64515.15,0.46,113.9,3,375.89,137.56,0.01,Home & Living,At-Risk / Churning
+C11129,26,Female,West,55105.0,1.32,48.5,3,129.28,48.87,0.63,Groceries,New / Occasional Shopper
+C11130,34,Female,West,65030.74,0.51,31.2,3,168.39,52.33,0.45,Groceries,New / Occasional Shopper
+C11131,43,Female,South,72013.87,1.88,3.7,19,184.13,9.9,0.26,Fashion,Bargain Hunter
+C11132,39,Non-binary,East,80732.71,6.29,1.1,35,3759.05,108.03,0.75,Fashion,High-Value Loyalist
+C11133,54,Male,West,52605.66,5.75,71.0,1,392.66,392.66,0.44,Groceries,At-Risk / Churning
+C11134,18,Female,West,43052.58,0.1,1.0,1,150.99,150.99,1.0,Home & Living,New / Occasional Shopper
+C11135,34,Male,West,50426.07,0.84,8.8,17,796.81,46.03,0.89,Electronics,Young Digital Shopper
+C11136,47,Female,West,52550.38,2.62,17.9,4,273.03,61.66,0.74,Electronics,Bargain Hunter
+C11137,37,Female,South,32789.87,2.38,21.0,12,468.09,37.5,0.32,Electronics,Bargain Hunter
+C11138,39,Female,South,129262.42,6.92,3.2,34,2391.72,69.36,0.65,Fashion,High-Value Loyalist
+C11139,22,Female,East,47697.73,3.92,98.2,1,273.57,273.57,0.05,Beauty,At-Risk / Churning
+C11140,23,Male,North,33715.61,1.14,3.4,14,555.82,38.79,0.97,Beauty,Young Digital Shopper
+C11141,59,Male,North,44772.83,5.63,122.4,1,330.48,256.85,0.56,Beauty,At-Risk / Churning
+C11142,42,Female,North,32930.83,0.3,49.6,3,192.73,61.39,0.37,Fashion,New / Occasional Shopper
+C11143,31,Female,North,51939.75,1.14,27.6,2,196.45,91.82,0.44,Beauty,New / Occasional Shopper
+C11144,34,Female,West,58470.46,3.15,19.2,4,260.79,59.71,0.71,Home & Living,Bargain Hunter
+C11145,23,Male,South,37506.0,1.62,1.4,24,360.35,15.01,0.81,Beauty,Young Digital Shopper
+C11146,37,Male,South,90587.07,6.24,51.1,4,328.29,92.98,0.17,Groceries,At-Risk / Churning
+C11147,18,Male,East,50024.64,0.85,28.8,6,176.04,27.95,0.9,Electronics,New / Occasional Shopper
+C11148,46,Male,West,58606.74,4.59,1.0,7,627.62,88.77,0.25,Fashion,Bargain Hunter
+C11149,18,Female,West,36466.31,1.21,66.2,2,108.52,47.73,0.45,Electronics,New / Occasional Shopper
+C11150,54,Female,North,105430.89,2.4,3.4,21,4010.72,194.14,0.55,Sports,High-Value Loyalist
+C11151,34,Non-binary,South,28259.42,0.37,16.4,1,81.04,81.04,0.47,Fashion,New / Occasional Shopper
+C11152,40,Female,East,104166.6,11.03,6.8,30,3396.43,111.72,0.57,Beauty,High-Value Loyalist
+C11153,45,Female,West,80748.74,7.5,10.2,20,2424.55,122.77,0.6,Home & Living,High-Value Loyalist
+C11154,42,Female,East,54414.95,2.79,15.0,14,573.73,40.26,0.49,Home & Living,Bargain Hunter
+C11155,42,Female,North,103716.07,9.18,7.5,23,3464.58,150.12,0.54,Sports,High-Value Loyalist
+C11156,48,Female,North,100541.59,5.62,14.5,25,3332.07,134.07,0.54,Groceries,High-Value Loyalist
+C11157,45,Female,North,118134.03,7.67,7.9,26,3752.51,146.99,0.43,Home & Living,High-Value Loyalist
+C11158,42,Male,East,45189.05,4.04,21.1,13,335.98,26.83,0.77,Beauty,Bargain Hunter
+C11159,49,Female,West,38117.94,7.8,64.2,6,515.5,86.27,0.55,Groceries,At-Risk / Churning
+C11160,44,Male,North,104717.54,5.09,11.7,24,3712.37,157.64,0.77,Groceries,High-Value Loyalist
+C11161,39,Female,South,33663.63,7.69,113.7,2,262.58,125.15,0.23,Fashion,At-Risk / Churning
+C11162,19,Male,East,39796.05,0.98,43.6,4,189.82,43.36,0.69,Beauty,New / Occasional Shopper
+C11163,33,Female,North,140969.31,5.52,6.6,29,3596.53,123.08,0.49,Home & Living,High-Value Loyalist
+C11164,45,Male,West,65314.01,3.91,16.8,33,3647.39,111.34,0.29,Sports,High-Value Loyalist
+C11165,38,Female,West,60606.57,1.1,52.9,6,227.25,37.41,0.48,Electronics,New / Occasional Shopper
+C11166,18,Female,East,59635.84,0.26,34.1,4,178.61,42.51,0.42,Beauty,New / Occasional Shopper
+C11167,32,Female,North,36861.71,6.34,25.8,14,225.95,16.56,0.44,Groceries,Bargain Hunter
+C11168,32,Male,East,61393.31,0.55,39.4,3,186.01,59.29,0.67,Electronics,New / Occasional Shopper
+C11169,51,Female,North,76204.6,4.16,6.5,27,2390.44,89.7,0.27,Beauty,High-Value Loyalist
+C11170,26,Male,West,61954.28,1.65,9.4,18,397.88,21.66,0.94,Sports,Young Digital Shopper
+C11171,37,Female,South,15000.0,0.95,58.7,4,263.77,66.41,0.11,Groceries,At-Risk / Churning
+C11172,28,Male,North,43062.88,1.7,3.5,15,1028.94,67.65,0.88,Sports,Young Digital Shopper
+C11173,34,Female,West,45392.4,4.75,75.1,7,71.16,9.98,0.27,Home & Living,At-Risk / Churning
+C11174,34,Female,North,48716.42,2.91,28.1,18,631.12,34.6,0.47,Groceries,Bargain Hunter
+C11175,36,Male,West,78731.88,0.1,90.2,3,82.04,28.19,0.36,Fashion,At-Risk / Churning
+C11176,41,Female,North,78317.9,6.34,25.7,17,516.78,30.77,0.73,Electronics,Bargain Hunter
+C11177,29,Female,East,47955.86,0.4,6.9,18,771.12,43.43,1.0,Fashion,Young Digital Shopper
+C11178,18,Female,North,38030.64,0.1,3.3,22,839.89,38.49,0.87,Electronics,Young Digital Shopper
+C11179,28,Female,South,41512.49,0.29,3.4,29,374.98,13.13,0.9,Sports,Young Digital Shopper
+C11180,35,Female,West,60708.83,8.28,20.8,2,247.36,104.41,0.08,Sports,At-Risk / Churning
+C11181,36,Female,South,93531.81,8.93,14.5,43,3721.95,86.88,0.71,Home & Living,High-Value Loyalist
+C11182,49,Male,East,97591.77,2.25,9.8,17,3404.48,199.42,0.32,Fashion,High-Value Loyalist
+C11183,41,Male,West,97491.82,6.38,8.9,23,3829.08,169.61,0.54,Beauty,High-Value Loyalist
+C11184,51,Female,East,112463.2,2.7,4.0,25,2507.92,101.43,0.45,Beauty,High-Value Loyalist
+C11185,23,Female,West,43640.91,0.18,31.7,6,124.96,20.45,0.53,Sports,New / Occasional Shopper
+C11186,25,Female,East,48657.72,1.73,11.1,26,456.13,17.78,0.93,Fashion,Young Digital Shopper
+C11187,18,Male,West,66939.64,0.44,42.7,2,127.31,56.09,0.31,Sports,New / Occasional Shopper
+C11188,48,Male,West,117982.35,3.34,7.9,26,3504.49,133.93,0.55,Sports,High-Value Loyalist
+C11189,51,Female,South,60186.73,10.88,90.3,1,353.13,353.13,0.35,Home & Living,At-Risk / Churning
+C11190,69,Female,West,54717.28,3.77,19.3,7,649.24,92.06,0.27,Home & Living,Bargain Hunter
+C11191,18,Female,North,64117.53,1.83,4.9,13,1325.81,102.58,0.84,Home & Living,Young Digital Shopper
+C11192,18,Female,East,55430.35,0.7,33.5,3,170.18,50.92,0.33,Home & Living,New / Occasional Shopper
+C11193,32,Male,North,61110.56,0.1,22.7,7,265.22,38.42,0.56,Beauty,New / Occasional Shopper
+C11194,23,Male,East,62990.35,0.6,24.8,2,201.03,91.43,0.51,Groceries,New / Occasional Shopper
+C11195,26,Male,West,50461.76,2.11,1.0,21,997.98,47.62,0.95,Fashion,Young Digital Shopper
+C11196,24,Male,North,50965.89,3.52,4.8,21,837.05,39.28,1.0,Groceries,Young Digital Shopper
+C11197,27,Female,North,31572.45,7.38,77.0,3,232.25,75.35,0.02,Home & Living,At-Risk / Churning
+C11198,31,Male,West,50713.44,1.05,2.6,19,1581.68,81.69,0.85,Fashion,Young Digital Shopper
+C11199,36,Male,East,54770.31,7.22,72.5,3,414.52,132.04,0.19,Beauty,At-Risk / Churning
